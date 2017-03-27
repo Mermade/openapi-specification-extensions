@@ -1,0 +1,16 @@
+key	definitions	type	instances	example
+x-logo	457	multiple	459	https://market.mashape.com/zilyo/zilyo
+x-origin	457	object	459	https://market.mashape.com/zilyo/zilyo
+x-mashape-categories	456	object	456	https://market.mashape.com/zilyo/zilyo
+x-apiClientRegistration	1	object	2	https://api.apis.guru/v2/swagger.json
+x-apisguru-categories	1	object	1	https://api.apis.guru/v2/swagger.json
+x-data-threescale-name	1	string	4	hapi\APIs\external_sources\apis.io\WorldAirAPI.json
+x-group-of-module	1	object	2	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+x-group-of-service	1	string	2	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+x-otm-entity	1	object	17	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+x-otm-library	1	object	1	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+x-otm-resource	1	object	1	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+x-preferred	1	boolean	3	https://api.apis.guru/v2/swagger.json
+x-providerName	1	string	3	https://api.apis.guru/v2/swagger.json
+x-serviceName	1	string	2	https://api.apis.guru/v2/swagger.json
+x-tags	1	object	1	https://api.apis.guru/v2/swagger.json

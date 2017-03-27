@@ -15,6 +15,14 @@ A resource for common and standardised OpenAPI specification (vendor) extensions
 ## Analysis of API corpuses
 
 * [APIs.guru](extensions/apis-guru.tsv)
-* [GitHub]()
-* [Mermade]()
-* [SOM Research HAPI]()
+* [GitHub](extensions/github.tsv)
+* [Mermade](extensions/mermade.tsv)
+* [SOM Research HAPI](extensions/hapi.tsv)
+
+## Analysis of formats
+
+* [APIs.guru](formats/apis-guru.tsv)
+* [GitHub](formats/github.tsv)
+* [Mermade](formats/mermade.tsv)
+* [SOM Research HAPI](formats/hapi.tsv)
+

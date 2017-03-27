@@ -1,0 +1,9 @@
+format	definitions	instances	example
+int64	6	15	hapi\APIs\generated\mashape\FurkotTripsAPI.json
+date-time	5	18	hapi\APIs\generated\mashape\FurkotTripsAPI.json
+float	4	10	hapi\APIs\generated\mashape\FurkotTripsAPI.json
+double	2	5	hapi\APIs\external_sources\apis.io\MASAIBUSAPI.json
+int32	2	6	hapi\APIs\generated\mashape\Events Firehose.json.json
+binary	1	1	hapi\APIs\external_sources\apis.io\frAPI.json
+google	1	2	https://api.apis.guru/v2/swagger.json
+url	1	2	https://api.apis.guru/v2/swagger.json

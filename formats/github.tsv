@@ -1,0 +1,125 @@
+format	definitions	instances	example
+int32	588	13148	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int64	412	6852	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+date-time	336	5634	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+double	165	1323	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+string	97	1894	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+date	87	521	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+float	84	654	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+byte	74	469	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+email	56	120	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uuid	55	355	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+boolean	44	420	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+password	37	86	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+integer	33	135	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uint64	31	440	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+binary	26	115	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uri	25	5710	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+dateTime	23	249	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int-or-string	22	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+url	21	78	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+json	20	35	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uint16	19	68	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uint32	15	32	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+ip-address	14	14	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+datetime	7	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int	6	26	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+local-date-time	6	12	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uint8	6	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+identityref	5	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+inet:uri	5	27	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+leafref	5	160	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+enumeration	4	18	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+id	4	77	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+long	4	5	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:description	4	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:password	4	100	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+number	4	21	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:access-role	4	100	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:unique-identifier	4	143	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+yang:date-and-time	4	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+ISO-8601	3	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+URL	3	7	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+UUID	3	39	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+YYYY-MM-DD	3	15	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+array	3	5	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+semver	3	32	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:isolation	3	18	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+/^(\d+\.)?(\d+\.)?(\*|\d+)$/	2	37	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+DateTime	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Example: Bearer <token>	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+JSON	2	61	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+String	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+as returned by /charts	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+attributeID=value	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+base64	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+byte array	2	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+date-time-time	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+float32	2	9	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+guid	2	7	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+includefield=attributeID	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+label	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+latitude,longitude	2	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+phone	2	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+short	2	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+svg	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:flow-identifier	2	43	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+yyyy-mm-ddThh:MM:ssZ	2	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+...	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+CombinationID	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Empty string if true	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Eurobetrag	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Format	1	1	node-red@node-red-node-swagger-swagger-locales-en-US-swagger.json.yaml
+GUID	1	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Ledger query syntax	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+ObjectId	1	37	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+Prozentsatz	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+The extending format for the previously mentioned type.	1	1	node-red@node-red-node-swagger-swagger-locales-en-US-swagger.json.yaml
+[0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+\"|\" delimited field names	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+\"|\" delimited integers	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+\"|\" delimited model names	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+composite	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+csv	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+dd/mm/yyyy	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+doube	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+double location.	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+duration	1	12	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+float64	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+full-date	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int12	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int16	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+ipv4	1	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+key-value pairs	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+language-map	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+latitude	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+longitude	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+markdown	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+mask	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+md5sum	1	14	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:email-address	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:meta-identifier	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:person-name	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:phone-number	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+meta:timezone	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+mime	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+mmddyyyy	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+mode-identifier	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+n/a	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+route-handler	1	11	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+slug	1	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+special_encoded	1	1	mission-liao@pyswagger-pyswagger-tests-data-v2_0-schema-extension-swagger.json.yaml
+spectral hash	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+subscriber-outflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+textarea	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+time	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uid	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+uint	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+vsg:subscriber-inflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+vsg:subscriber-outflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:mac-address	1	16	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+xtype:network-identifier	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+yang:yang-identifier	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+yearmonth	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+zip	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json

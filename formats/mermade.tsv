@@ -1,0 +1,9 @@
+format	definitions	instances	example
+date-time	100	298	openapi-definitions\mashery\api.tmsapi.com\OnConnect-Data-Deliverys\1.1\swagger.json
+double	38	70	openapi-definitions\mashery\api.edmunds.com\Inventory\1.0.0\swagger.json
+date	32	484	openapi-definitions\mashery\api.tmsapi.com\OnConnect-Data-Deliverys\1.1\swagger.json
+password	17	46	
+int64	9	89	openapi-definitions\mashery\api-test.klm.com\UTE1-BagTracking\1.0.0\swagger.json
+float	8	18	openapi-definitions\mashery\api.tomtom.com\Online-Routing\1.0.0\swagger.json
+int32	7	51	openapi-definitions\mashery\api-test.klm.com\UTE1-BagTracking\1.0.0\swagger.json
+uri	2	2	openapi-definitions\mashery\api-test.klm.com\ITE1-Travel\1.0.0\swagger.json
