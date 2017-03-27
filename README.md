@@ -16,18 +16,20 @@ As well as a list of vendor-documented specification-extensions, this repository
 
 ## Analysis of API corpuses
 
-* [APIs.guru](extensions/apis-guru.tsv)
-* [GitHub](extensions/github.tsv)
-* [Mermade](extensions/mermade.tsv)
-* [SOM Research HAPI](extensions/hapi.tsv)
-
-* [Combined](extensions/combined.tsv)
+Source|Analysis
+|---|---|
+[APIs.guru](https://github.com/apis-guru/openapi-directory)|[391 definitions](extensions/apis-guru.tsv)
+[GitHub](https://github.com/)|[1740 definitions](extensions/github.tsv)
+[Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](extensions/mermade.tsv)
+[SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](extensions/hapi.tsv)
+Combined|[3098 definitions](extensions/combined.tsv)
 
 ## Analysis of formats
 
-* [APIs.guru](formats/apis-guru.tsv)
-* [GitHub](formats/github.tsv)
-* [Mermade](formats/mermade.tsv)
-* [SOM Research HAPI](formats/hapi.tsv)
-
-* [Combined](formats/combined.tsv)
+Source|Analysis
+|---|---|
+[APIs.guru](https://github.com/apis-guru/openapi-directory)|[391 definitions](formats/apis-guru.tsv)
+[GitHub](https://github.com/)|[1740 definitions](formats/github.tsv)
+[Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](formats/mermade.tsv)
+[SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](formats/hapi.tsv)
+Combined|[3098 definitions](formats/combined.tsv)
