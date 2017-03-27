@@ -1,5 +1,7 @@
 # openapi-specification-extensions
-A resource for common and standardised OpenAPI specification (vendor) extensions
+A resource for common and standardised OpenAPI specification (vendor) extensions.
+
+As well as a list of vendor-documented specification-extensions, this repository contains the results of an analysis of extensions and formats used in real-world OpenAPI definitions, as at late March 2017.
 
 ## Vendor-documented extensions
 
@@ -19,6 +21,8 @@ A resource for common and standardised OpenAPI specification (vendor) extensions
 * [Mermade](extensions/mermade.tsv)
 * [SOM Research HAPI](extensions/hapi.tsv)
 
+* [Combined](extensions/combined.tsv)
+
 ## Analysis of formats
 
 * [APIs.guru](formats/apis-guru.tsv)
@@ -26,3 +30,4 @@ A resource for common and standardised OpenAPI specification (vendor) extensions
 * [Mermade](formats/mermade.tsv)
 * [SOM Research HAPI](formats/hapi.tsv)
 
+* [Combined](formats/combined.tsv)
