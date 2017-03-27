@@ -14,7 +14,7 @@ A resource for common and standardised OpenAPI specification (vendor) extensions
 
 ## Analysis of API corpuses
 
-* [APIs.guru]()
+* [APIs.guru](extensions/apis-guru.tsv)
 * [GitHub]()
 * [Mermade]()
 * [SOM Research HAPI]()
