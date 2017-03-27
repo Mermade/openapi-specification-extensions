@@ -76,9 +76,9 @@ ObjectId	1	37	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/compon
 Prozentsatz	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
 The extending format for the previously mentioned type.	1	1	node-red@node-red-node-swagger-swagger-locales-en-US-swagger.json.yaml
 [0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-\"|\" delimited field names	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-\"|\" delimited integers	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-\"|\" delimited model names	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+| delimited field names	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+| delimited integers	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+| delimited model names	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
 application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
 composite	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
 csv	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
