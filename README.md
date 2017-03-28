@@ -19,17 +19,19 @@ As well as a list of vendor-documented specification-extensions, this repository
 Source|Analysis
 |---|---|
 [APIs.guru](https://github.com/apis-guru/openapi-directory)|[391 definitions](extensions/apis-guru.tsv)
-[GitHub](https://github.com/)|[1740 definitions](extensions/github.tsv)
+[GitHub](https://github.com/)|[25136 definitions](extensions/github.tsv)
 [Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](extensions/mermade.tsv)
 [SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](extensions/hapi.tsv)
-Combined|[3098 definitions](extensions/combined.tsv)
+[SwaggerHub](http://swaggerhub.uio)|[22872 definitions](extensions/swaggerhub.tsv)
+~~Combined~~|[49366 definitions](extensions/combined.tsv)
 
 ## Analysis of formats
 
 Source|Analysis
 |---|---|
 [APIs.guru](https://github.com/apis-guru/openapi-directory)|[391 definitions](formats/apis-guru.tsv)
-[GitHub](https://github.com/)|[1740 definitions](formats/github.tsv)
+[GitHub](https://github.com/)|[25136 definitions](formats/github.tsv)
 [Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](formats/mermade.tsv)
 [SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](formats/hapi.tsv)
-Combined|[3098 definitions](formats/combined.tsv)
+[SwaggerHub](http://swaggerhub.uio)|[22872 definitions](formats/swaggerhub.tsv)
+~~Combined~~|[49366 definitions](formats/combined.tsv)
