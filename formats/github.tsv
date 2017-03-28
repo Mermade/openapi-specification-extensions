@@ -1,670 +1,670 @@
 format	definitions	instances	example
-int32	9822	97029	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int64	6832	63935	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date-time	4008	26881	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-double	2616	19903	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date	1304	7845	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-float	1055	5500	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uuid	895	4879	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-string	815	7188	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-byte	567	1607	D:\nodejs\analysis\defs\ztz0223+FileManagerWithExpress@Yaml-file_swagger.yaml
-password	521	727	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-email	385	762	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-integer	334	2249	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uri	259	9120	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JSON	221	12776	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-binary	217	472	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-url	197	642	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint64	194	1018	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-	172	15975	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dateTime	130	733	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-boolean	126	674	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int	118	806	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int-or-string	80	80	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint32	75	407	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-json	74	210	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-bytes	72	833	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-T	60	64	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-duration	60	240	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-decimal	58	1687	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-text	58	146	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-long	46	293	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-datetime	40	139	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int16	31	120	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date-time-rfc1123	26	1363	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-URL	24	56	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-number	24	156	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-guid	23	116	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint16	22	131	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-as returned by /charts	21	95	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-google-datetime	21	92	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-time	21	301	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-varchar	20	317	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UUID	17	84	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint8	17	25	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-any text	16	75	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base64url	16	66	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-file	16	44	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string containing the base currency and quote cu...	15	69	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DateTime	15	47	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array	14	27	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int8	14	173	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-isbn	14	27	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encoded as a string. The amount o...	13	93	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string conforming to RFC 3339 (https://tools.iet...	13	212	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Signed 32-bit integer	13	42	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Stream	13	35	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base64	13	24	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-http status code	13	26	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ip-address	13	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encodes as a string. The amount o...	12	112	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-DD	12	44	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array (string)	12	47	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ipv4	12	53	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String representation of the numerical OANDA-assig...	11	272	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-float32	11	56	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-id	11	134	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xss-token	11	171	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-integer32	10	38	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-svg	10	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uid	10	68	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encoded as a string. The amount o...	9	94	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-???	8	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-path	8	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-phone	8	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JContainer	7	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JTokenType	7	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TimeSpan	7	18	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-enum	7	57	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/^(\d+\.)?(\d+\.)?(\*|\d+)$/	6	111	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JToken	6	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-The string representation of the OANDA-assigned Or...	6	96	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-The string representation of the OANDA-assigned Tr...	6	82	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-URI	6	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-currency	6	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-data-time	6	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date-format	6	35	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-filename	6	18	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-google-duration	6	12	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-identityref	6	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-inet:uri	6	41	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-leafref	6	161	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mask	6	141	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-time-date	6	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string containing an ISO 4217 currency (http://e...	5	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JWT Tokens	5	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-any	5	22	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array (int32)	5	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-countryCode	5	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date-time-time	5	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-enumeration	5	21	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-float64	5	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hex	5	15	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hostname	5	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int4	5	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-local-date-time	5	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:description	5	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yyyy-mm-ddThh:MM:ssZ	5	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Either the Order's OANDA-assigned OrderID or the O...	4	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-HH:MM	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-HttpResponseMessage	4	72	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO 8601	4	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO-8601	4	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Int32	4	58	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Standard Thumbnail	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-[0-9]{1,3}	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base58	4	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-csv	4	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-data	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-in64	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int2	4	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:password	4	100	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-nested arrays	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-short	4	29	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-udid	4	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint	4	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unixtime	4	17	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-utc-millisec	4	38	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:access-role	4	100	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:unique-identifier	4	143	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yang:date-and-time	4	22	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
---delimited string with format {siteID}-{divisi...	3	75	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-As stored in database	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CLXXXX	3	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CLXXXXX	3	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CVE-YYYY-NNNN	3	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-IOU8061	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO8061	3	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ObjectID	3	176	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Signed 16-bit integer	3	15	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String	3	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYYMMDD	3	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/zip	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-asc/desc	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-big number	3	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-cisco-sa-XXX	3	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-color	3	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-command separated list	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-flow/partner_date:time	3	32	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-full-date	3	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-full-date YYYY-MM-DD	3	39	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-google-fieldmask	3	23	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-latitude,longitude	3	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mediawiki	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-objectid	3	20	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-percentage	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-regex	3	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-regexp	3	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-semver	3	32	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-single	3	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-stringDcJobsByDate	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-timestamp	3	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-title	3	3	D:\nodejs\analysis\defs\wikimedia+restbase@v1-random.yaml
-uuid4	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uuidw	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-whateverformat	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:isolation	3	18	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/^Bearer .+/	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/^[a-z](?:[a-z\-0-9]*[a-z0-9])?$/	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-16 byte random value	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-16 byte string returned by /users/access	2	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A user specifier may have one of 3 formats: the OA...	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Basic base64 encoded login:password	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Change	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Date	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Either the Trade's OANDA-assigned TradeID or the T...	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-FolderPathQueryOrder	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GetWorkItemTypeExpand	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-IMSI	2	12	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO4217:BASE58	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Interval of cloud coverage in percent	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Interval of dates in ISO 8601	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Interval of incidence angle in degrees	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Interval of resolution in meter	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-IssuedToken	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Locale	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MessageML	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OperationStatus	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {0-15% ; 15-35% ; 35-60% ; >...	2	21	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TBD	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-The string 'Bearer ' followed by the token.	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Timespan	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-VersionControlRecursionType	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-WKT Geometric objects	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-XML	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ZIP	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-\|\ delimited field names	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-\|\ delimited integers	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-\|\ delimited model names	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-^[0-9a-f]{8}$	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-^[a-z](?:[a-z\-0-9]*[a-z0-9])?$	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-algorithm-and-colon-and-hexstring	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/x-www-form-urlencoded	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array (uuid)	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-as-is	2	25	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base58check	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base64 image	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-bool	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-byte array	2	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-case-sensitive	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-char	2	20	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-count	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-countrycode	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-cpf	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-currency-code	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-enum - BOOKED - CANCELLED - PAID - UPDATE_REQUESTE...	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-epoch	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-extid	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-flow-id	2	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-freeform	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-geoPoint	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-google	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hashed password	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-id64	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-in32	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int12	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int32g	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int32t	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int5	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ip	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-jwt token	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-key-value pairs	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-locale	2	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-markdown	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-md5	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:email-address	2	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:person-name	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-miles	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-milliseconds	2	17	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-n/a	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-non-iso-duration	2	12	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-object	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-objectID	2	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-png	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-precision	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-serialized json array of '#/definitions/Cursor'	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-services	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-slug	2	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-smiles	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-text/html	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-timezone	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-token	2	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-tryte	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-url-path	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:flow-identifier	2	43	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yang:yang-identifier	2	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Device_ID	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/Cursor	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/Hakemus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/Hakemuskausi	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/Paatos	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/Taydennys	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-#/definitions/TaydennysHakuohje	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-'90x90' | '195'x'195' | '584'x'584'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-'CallerId' | 'SmsSender'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-'completed={result_url}' : query successfuly proce...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-([0-9]+[-])*[0-9]+	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-(format to define)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-+XXAABBCCDDEE	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
--?\w+	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-.*	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/(\W\w+\-?)+/	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/Foo/Bar	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/\A([\w+\-](\.[\w+\-])?)+@[a-z\d\-]+(\.[a-z]+)*\.[...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/\d+/	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/^[a-zA-Z0-9]+$/	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/^bbbmap:[a-zA-Z0-9]+:/	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-0    Train (metropolitan) 1    Tram 2    Bus (metr...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-0-16	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-0\d{7}X\d	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-0nnnnnnnnn	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-2017-02-17T12:14:24+0200	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-64 chars hex	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
->= 0	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
->= 1	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-AAAA-MM-GG	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-AAAAMMGG	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ASC - DESC	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ASC|DESC	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-AVC Id	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-AccountProviderNamespace	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Airport Id	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ApprovalStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ApprovalType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Base64	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Base64-url-encoded JWT (JSON Web Token)	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildQueryOrder	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildReason	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildReference	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildResult	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildStatus	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-BuildType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CLXXXXXX,	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CancellationToken	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ChangeList	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Char	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Column name	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Column_Type_Format	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CombinationID	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CommentSortOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CommentTrackingCriteria	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ConnectOptions	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ConnectedServiceKind	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CultureInfo	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-CustomTestFieldScope	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DEFINITELYALPHANUMERIC	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DEFINITELYNUMERIC	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DESC	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DateTimeOffset	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DayOfWeek	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Decimal	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DefinitionQueryOrder	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DefinitionRunInfo	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DefinitionType	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DeploymentGroupActionFilter	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DeploymentGroupExpands	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DeploymentOperationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-DeploymentStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Either 'all' or a version number.	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Embed URL for this attachment	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Embed URL for this attachment (* TODO - o que eh i...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Empty string if true	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Eurobetrag	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ExtensionRequestState	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ExtensionValidationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Float	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-FolderQueryOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Foo/Bar	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-For local Authentication this is the User's email ...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Format : yyyy-mm-dd 	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GUID	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GetBehaviorsExpand	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GetFieldsExpand	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GetProcessExpandLevel	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitBaseVersionDescriptor	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitPullRequestSearchCriteria	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitPushSearchCriteria	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitQueryCommitsCriteria	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitTargetVersionDescriptor	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GitVersionDescriptor	1	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-GivenNames FamilyName (Alias)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-HTTP response code	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Hex16	1	12	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-HistoryEntry	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-IP	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISBN-13	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO 3166-1 alpha-2	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO 8601 formatted date string	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ISO8601-UTC	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Inbound or Outbound	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Int64	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JSON_CALLBACK	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JValue	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JWT	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-JsonPatchOperationData	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Lat,Lon	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Ledger query syntax	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Location	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MAC Address	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MS	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MachineGroupActionFilter	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MailSectionType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Major Version.Minor Version.Build YYMM.Build Relea...	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MediaType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MetadataType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-MongoDB ObjectId	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Nome Cognome	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-None or combination elements in Set {LIVESTOCK, GO...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-NotificationResult	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-NotificationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OAUTH2 (IAM)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OK	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ObjectId	1	37	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OpenSearch SRU	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OrganizationSearchKind	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-OssResourceType	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-P#D where # is the number of days.	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineDefinitionExpands	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineDefinitionTriggerType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineExpands	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineQueryOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PipelineStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PlanGroupStatusFilter	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ProjectState	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-PropertyPair	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Prozentsatz	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-QueryDeletedOption	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-QueryExpand	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-QueryMembership	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-RGB	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Rating	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-RecommendationInput	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-RecommendationType	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Region	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseDefinitionExpands	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseExpands	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseQueryOrder	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseReference	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReleaseStatus	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReportingRevisionsExpand	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ResourceName	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ResponseType	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ResultDetails	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ReviewSearchCriteria	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Risk1,Risk2,Risk3,Risk4,Risk5	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in Downslope set +  , + SINGLE elem...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in SET { <10cm ; 10-50cm ; 50cm-1m ...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in SET {5m ; 10m ; 15m ; 20m ; 25m}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in SET {WEST ; NORTH ; SOUTH ; EAST...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SUBSET of SET = { Bare ; Trees ; Shrubs ; Sub-shru...	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SecureFileActionFilter	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Set of 'CallerId', 'SmsSender'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in {FLAT (0-2%); GENTLE (3-5%); MOD...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Size(2)	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-StreamContent	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-StreamedBatch	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - None or combination elements in Set {LIVE...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - SINGLE element in Downslope set + , + S...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - Single element in Set {tree cover, >25% c...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SubscriptionQueryFlags	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TaskAgentPoolActionFilter	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TaskAgentPoolType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TaskAgentQueueActionFilter	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TaskResult	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TestSessionSource	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Text	1	22	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TfvcChangesetSearchCriteria	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TfvcLabelRequestData	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TfvcShelvesetRequestData	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TfvcVersionDescriptor	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TimeZoneInfo	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Token XXXXXXXX	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-TreeStructureGroup	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UNSPECIFIED	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UTC Unix epoch	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UTF-8	1	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UUID V4	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UsageSummaryQueryCriteria	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-User already exists	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-User doesn't exist	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-UserType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-VariableGroupActionFilter	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-WXXXXX	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-WidgetScope	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-WorkItemErrorPolicy	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-WorkItemExpand	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-X;Y;Z	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-X;Y;Z;W	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Y-m-d	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-DD 24HH:MM:SS.USSS	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-DDThh:mm:ss+00:00	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-DDThh:mm:ssTZD	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-dd	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-MM-ddThh:mm:ssTZD	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-mm-dd	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-YYYY-mm-ddT07:01:36+0000	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-[0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-^[a-z](?:[a-z_]*[a-z])?$	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-a=b&	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-a=foo&b=bar	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-abignumber	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-accessibility	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-anyURI	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/js	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/json or text/json	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/pdf	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array (ProjectPropertyFilter)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-array (SubjectDescriptor)	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ascii	1	17	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-average/min/max/numeric (1 -> 99.999)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base58[:ISO4217]	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-base64encodedImage	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-bibtex	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-bigint	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-character	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-character varying	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-charcater	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.boaweb.objectid	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.eagleinvsys.camel.processors.jsonconverter.Res...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.eagleinvsys.mashup.objects.GenericPositionMash...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.eagleinvsys.objects.TSR	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-comma-seperated list	1	15	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-composite	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-composite_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-convert_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-convert_html_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-copy_metadata_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-customdateformat	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dataTime	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date-type	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date/comments/rating/random	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-date_time	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dates	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-day	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dc	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dd/mm/yyyy	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-dictionary of string	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-doube	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-doubl	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-double,double	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ellipse_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-email only	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-email standard	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-env-prod-dc	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-falsy	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-fieldname	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-file-name	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-filter	1	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-float - Expected values are between 0 and 1. where...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-folder-path	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-formData	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-glob-style string pattern	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-guid+guid	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hexadecimal	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hexstring	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hh:mm	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-hh:mm:ss	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-html	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-http-method	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ia32	1	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-image_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-incoming, outgoing or both	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-initeger	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int11	1	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int128	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int23	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int3	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int32a	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int64'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int64;	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int66	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-int664	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ipaddress	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-iso-8601 date	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-iso-date-time	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-iso8601-timestamp	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-items */{total-items} where {total-items} is a num...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-items {start}-{end}/{total-items} where {total-ite...	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-json-schema-ref	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-json:json-schema-ref	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-label	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-language	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-language-map	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-lat,lng	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-latitude	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-line_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-list of ids	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-login success	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-longitude	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-m or f	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-machine1+machine2+...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-machineName	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-map	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-md5sum	1	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-media type e.g. image/png	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-merge_to_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:api-version	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:file-name	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:license	1	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:meta-identifier	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:phone-number	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:timezone	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meta:title	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-meters	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-millisec	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mime	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mime type	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mimetype	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mmddyyyy	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-mongodb-objectid	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-multipart/form-data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-m|km|cm|mm|mi|sm|ft|in|yd	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-name	1	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-nickname	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-normalized location	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ocr_operation_response	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ocr_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-ocr_text_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-onixContributorRole	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-onixProductForm	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-operation_response	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-operation_response_common	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-palindrome	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-passwrod	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-pdf_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-plain/text	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-postal code	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-process	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-propertyName ASC | DESC	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-propertyname ASC|DESC	1	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-qr_code_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-raw	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-rectangle_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-rgb	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-rison	1	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-route-handler	1	11	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-rtf_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-seconds	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-secure_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-semantic-iri	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-sensorSchema	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-sha256	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-sharepoint_file	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-signup failed	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-signup success	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-spectral hash	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-split_operation_response	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-split_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-sqlite3 DATETIME	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-street name and number	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-string {0-2% ; 3-5% ; 6-10% ; 11-15% ; 16-30% ; 31...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-subscriber-outflow	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-swagger	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-telephone	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-test	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-text/plain	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-text_watermark_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-textarea	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-texto	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-time_range	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-timestamp without time zone	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-truthy, any value apart from false or 0 will be tr...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-type1+type2+...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-tzinfo	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uint256	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-union	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unique name of the asset	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unit8	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unix-time	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unsigned integer	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-unt64	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-url-encoded utf-8	1	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-utc	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-utf8	1	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-uuuid	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-variable but set	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-vsg:subscriber-inflow	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-vsg:subscriber-outflow	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-wrong	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-wrong password	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-x..y	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:mac-address	1	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xtype:network-identifier	1	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-xxx@yyy	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yearmonth	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yyyy-MM-dd HH:mm	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yyyy-MM-dd'T'HH:mm:ss'Z'	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yyyy-mm-dd	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-yyyymmdd	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-zip	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-“train”, “tram”, “bus”, “vline” or “nightrider”	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+int32	9822	97029	https://raw.githubusercontent.com/zzen/swagger-demo/master/swagger.yaml
+int64	6832	63935	https://raw.githubusercontent.com/zzen/swagger-demo/master/swagger.yaml
+date-time	4008	26881	https://raw.githubusercontent.com/ZurgInq/swagger-server/master/petstore.json
+double	2616	19903	https://raw.githubusercontent.com/zpdemo/demo-app/master/uber_api.json
+date	1304	7845	https://raw.githubusercontent.com/zicar123/NLog/master/documentation/ApiDescription.yaml
+float	1055	5500	https://raw.githubusercontent.com/zhengfangxin123/gitTest/master/api-all.yaml
+uuid	895	4879	https://raw.githubusercontent.com/ZumoCommunity/Notification-API/master/src/api/api/swagger/swagger.yaml
+string	815	7188	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/prospects.yaml
+byte	567	1607	D:\nodejs\analysis\defs_github_large\ztz0223+FileManagerWithExpress@Yaml-storage.yaml
+password	521	727	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/test/specs/v2/petstore.json
+email	385	762	https://raw.githubusercontent.com/Zero-Prime/swagger/master/swagger.yaml
+integer	334	2249	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/prospects.yaml
+uri	259	9120	https://raw.githubusercontent.com/zetaron/deployment-bot-thing/master/swagger/swagger.yaml
+JSON	221	12776	https://raw.githubusercontent.com/yantrashala/gulp-loopback-swagger-validator/master/test/generatedCode.json
+binary	217	472	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/string_formats.yaml
+url	197	642	https://raw.githubusercontent.com/ZumoCommunity/Application-API/master/src/api/swagger/swagger.yaml
+uint64	194	1018	https://raw.githubusercontent.com/zlpcrmm/fabric/master/core/rest/rest_api.json
+	172	15975	https://raw.githubusercontent.com/zhangkailikelly/CSVA/master/csvajianguan/api/test.json
+dateTime	130	733	https://raw.githubusercontent.com/zhengfangxin123/gitTest/master/api-all.yaml
+boolean	126	674	https://raw.githubusercontent.com/zicar123/NLog/master/documentation/ApiDescription.yaml
+int	118	806	https://raw.githubusercontent.com/zhangwei1983ch/apiDefinition/master/apiyamls/stock.yaml
+int-or-string	80	80	https://raw.githubusercontent.com/yiqinguo/kubernetes-annotation/master/federation/apis/openapi-spec/swagger.json
+uint32	75	407	https://raw.githubusercontent.com/wxiaof2005/Docker/master/api/swagger.yaml
+json	74	210	https://raw.githubusercontent.com/zhangkailikelly/CSVA/master/csvajianguan/api/json/dev.json
+bytes	72	833	https://raw.githubusercontent.com/zlpcrmm/fabric/master/core/rest/rest_api.json
+T	60	64	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcessTemplate.json
+duration	60	240	https://raw.githubusercontent.com/reveliant/airlift/master/api/swagger.yaml
+decimal	58	1687	https://raw.githubusercontent.com/zhengfangxin123/gitTest/master/api-all.yaml
+text	58	146	https://raw.githubusercontent.com/weching/swagger-files/master/automation/json/AllElements-noDescription.json
+long	46	293	https://raw.githubusercontent.com/zalando-incubator/axiom-web/master/vertx-swagger/src/test/resources/swagger-parameter-test.json
+datetime	40	139	https://raw.githubusercontent.com/zalando-incubator/axiom-web/master/vertx-swagger/src/test/resources/swagger-parameter-test.json
+int16	31	120	https://raw.githubusercontent.com/yourapiexpert/restify-template/master/003%20Endpoints/specs/swagger.yaml
+date-time-rfc1123	26	1363	https://raw.githubusercontent.com/olydis/scratch/master/BlobStorage/ExtensionsDemo/x-ms-skip-url-encoding/blob-storage.yaml
+URL	24	56	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/test/resources/fixtures/api_spa.yaml
+number	24	156	https://raw.githubusercontent.com/sjezewski/talk/master/docs/swagger.yaml
+guid	23	116	https://raw.githubusercontent.com/solidbrackets/appconfig_api_nodejs/master/swagger/swagger.json
+uint16	22	131	https://raw.githubusercontent.com/wxiaof2005/Docker/master/api/swagger.yaml
+as returned by /charts	21	95	https://raw.githubusercontent.com/ywx217/docker-netdata/master/netdata/web/netdata-swagger.yaml
+google-datetime	21	92	https://servicemanagement.googleapis.com/$discovery/rest?version=v1
+time	21	301	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Guilherme-Isidoro/master/CMO/docs/CMO%20requests.yaml
+varchar	20	317	https://raw.githubusercontent.com/Karthik45/HerokuApp/master/api/swagger.yaml
+UUID	17	84	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/string_formats.yaml
+uint8	17	25	https://raw.githubusercontent.com/youarebee/server/master/html/js/api.json
+any text	16	75	https://raw.githubusercontent.com/ywx217/docker-netdata/master/netdata/web/netdata-swagger.yaml
+base64url	16	66	https://raw.githubusercontent.com/wangf1/hello-world/master/NorthwindODataV4_OpenAPI.json
+file	16	44	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Erick-Lopes/master/Perfc-Swagger-doc.yaml
+A string containing the base currency and quote cu...	15	69	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+DateTime	15	47	https://raw.githubusercontent.com/swapnanildeb/raml-testing/master/blockapps-docs/blockapps-docs/dist/swagger.json
+array	14	27	https://raw.githubusercontent.com/xibosignage/xibo-cms/master/web/swagger.json
+int8	14	173	https://raw.githubusercontent.com/swe-zzf/docker-crane/master/doc/api/v1/api-doc.yaml
+isbn	14	27	https://raw.githubusercontent.com/luxe-eng/koa-spec/master/test/data/query_parameter_string_isbn.yaml
+A decimal number encoded as a string. The amount o...	13	93	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+A string conforming to RFC 3339 (https://tools.iet...	13	212	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+Signed 32-bit integer	13	42	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.yaml
+Stream	13	35	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcessTemplate.json
+base64	13	24	https://raw.githubusercontent.com/Xilef09/hackernewsASW/master/api/api.yaml
+http status code	13	26	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.yaml
+ip-address	13	13	https://raw.githubusercontent.com/wxiaof2005/Docker/master/api/swagger.yaml
+A decimal number encodes as a string. The amount o...	12	112	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+YYYY-MM-DD	12	44	https://raw.githubusercontent.com/sittor/back/master/swagger/result.json
+array (string)	12	47	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+ipv4	12	53	https://raw.githubusercontent.com/russell/fairy-slipper-migration/master/conversion_files/networking-extensions-v2-swagger.json
+String representation of the numerical OANDA-assig...	11	272	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+float32	11	56	https://raw.githubusercontent.com/stillwater-sc/godfa/master/api/dfa-api.yaml
+id	11	134	https://raw.githubusercontent.com/VirlanValentin/WADe_UReR/master/swaggerLastVersion.yaml
+xss-token	11	171	https://raw.githubusercontent.com/XiaChen2016/expense-tracker/master/Documents/TrackrAPI(2.1).json
+integer32	10	38	https://raw.githubusercontent.com/snowygaming/artspace-api/master/swagger.json
+svg	10	10	https://raw.githubusercontent.com/swapnanildeb/raml-testing/master/blockapps-docs/blockapps-docs/dist/swagger.json
+uid	10	68	https://raw.githubusercontent.com/open311/schema-validation/master/schema/georeport-v2/swagger.json
+A decimal number encoded as a string. The amount o...	9	94	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+???	8	8	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/hackweek.yaml
+path	8	10	https://raw.githubusercontent.com/Wei1234c/dockerfiles/master/ARMv7/notebook/notebook/services/api/api.yaml
+phone	8	13	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+JContainer	7	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+JTokenType	7	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TimeSpan	7	18	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Utilization.json
+enum	7	57	https://raw.githubusercontent.com/SixArm/swagger-starter/master/examples/swagger.yaml
+/^(\d+\.)?(\d+\.)?(\*|\d+)$/	6	111	https://raw.githubusercontent.com/stjosephcontent/app-registry/master/services/nodejs/api/swagger/swagger.yaml
+JToken	6	6	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Security.json
+The string representation of the OANDA-assigned Or...	6	96	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+The string representation of the OANDA-assigned Tr...	6	82	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+URI	6	10	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+currency	6	10	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/prospects.yaml
+data-time	6	7	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/nakadi.yaml
+date-format	6	35	https://raw.githubusercontent.com/metaclassing/PHP7-CertBot/master/storage/api-docs/api-docs.json
+filename	6	18	https://raw.githubusercontent.com/Wei1234c/dockerfiles/master/ARMv7/notebook/notebook/services/api/api.yaml
+google-duration	6	12	https://logging.googleapis.com/$discovery/rest?version=v2
+identityref	6	8	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+inet:uri	6	41	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+leafref	6	161	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+mask	6	141	https://raw.githubusercontent.com/peircechow/peircechow.github.io/master/scripts/swagger_to_markdown/swagger.json
+time-date	6	16	https://raw.githubusercontent.com/ubirch/ubirchApiDocs/master/swaggerDocs/ubirch/chain_service/1.0/ubirch_chain_service_api.json
+A string containing an ISO 4217 currency (http://e...	5	6	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+JWT Tokens	5	5	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/test/resources/fixtures/api_with_undefined_scope.yaml
+any	5	22	https://raw.githubusercontent.com/mangoWarrior42/itemfinder/master/target/classes/swagger.yaml
+array (int32)	5	13	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Work.json
+countryCode	5	5	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger-usergroup.json
+date-time-time	5	5	https://raw.githubusercontent.com/ArmRay/Arm_Ray_App/master/swagger_ui/search/api/swagger.yaml
+enumeration	5	21	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+float64	5	9	https://raw.githubusercontent.com/olebedev/go-tgbot/master/swagger.yaml
+hex	5	15	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+hostname	5	8	https://raw.githubusercontent.com/tmforum/DSPRIVACY/master/tmforum-Privacy-1.0-swagger-3.json
+int4	5	13	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Paula-Luisa/master/pkmon.yaml
+local-date-time	5	10	https://raw.githubusercontent.com/MyPureCloud/purecloud_api_sdk_ruby/master/swagger.json
+meta:description	5	9	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+yyyy-mm-ddThh:MM:ssZ	5	6	https://raw.githubusercontent.com/nmdanny/perservant-loans/master/assets/swaggerPersonAPI.json
+Either the Order's OANDA-assigned OrderID or the O...	4	8	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_position.yaml
+HH:MM	4	4	https://raw.githubusercontent.com/axa-azure-deployment/hackzurich2016-axa/master/rest-app/dist/swagger.yaml
+HttpResponseMessage	4	72	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+ISO 8601	4	16	https://raw.githubusercontent.com/BristechSRM/sessions-deprecated/master/Sessions/api.json
+ISO-8601	4	9	https://raw.githubusercontent.com/zalando/innkeeper/master/swagger.yaml
+Int32	4	58	https://raw.githubusercontent.com/rafael-pinho/docker-examples/master/docker-compose/tdc-sampa-2016-devops-java/node-api/configuration/swagger.json
+Single	4	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Work.json
+Standard Thumbnail	4	4	https://raw.githubusercontent.com/NYTimes/public_api_specs/master/most_popular_api/most_popular_api_v2.json
+[0-9]{1,3}	4	4	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/avataxbr/invoices-api.json
+base58	4	8	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+csv	4	7	https://raw.githubusercontent.com/SnapMD/virtualcare-api-docs/master/spec/swagger.yaml
+data	4	4	https://raw.githubusercontent.com/AlinaMoskieva/Department/master/target/classes/Swagger/swaggerDepartment.yaml
+in64	4	4	https://raw.githubusercontent.com/patrick246/webrtcangular/master/swagger.json
+int2	4	14	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Pedro-Velloso/master/swagger%20.yaml
+meta:password	4	100	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+nested arrays	4	4	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/validations/nested_arrays_validation.yaml
+short	4	29	https://raw.githubusercontent.com/syncore/a2sapi/master/a2sapi-swagger.yaml
+udid	4	8	https://raw.githubusercontent.com/VirlanValentin/WADe_UReR/master/swaggerLastVersion.yaml
+uint	4	5	https://raw.githubusercontent.com/open311/schema-validation/master/schema/georeport-v2/swagger.json
+unixtime	4	17	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/keyvault/2016-10-01/swagger/keyvault.json
+utc-millisec	4	38	http://api.docs.import.io/swagger.json
+xtype:access-role	4	100	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+xtype:unique-identifier	4	143	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+yang:date-and-time	4	22	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+--delimited string with format {siteID}-{divisi...	3	75	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+As stored in database	3	3	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+CLXXXX	3	10	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+CLXXXXX	3	9	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+CVE-YYYY-NNNN	3	6	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+IOU8061	3	3	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+ISO8061	3	4	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+ObjectID	3	176	https://raw.githubusercontent.com/migueloop/mp/master/event-manager/back/api/swagger/swagger.yaml
+Signed 16-bit integer	3	15	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.yaml
+String	3	10	https://raw.githubusercontent.com/yolanda6/test/master/courseAPI-4.json
+YYYY	3	3	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+YYYYMMDD	3	13	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+application/zip	3	3	https://raw.githubusercontent.com/zagovorichev/swagger-json-collector/master/tests/samples/QtiItem.json
+asc/desc	3	3	https://raw.githubusercontent.com/vitush93/mffun/master/docs/api.yaml
+big number	3	4	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+cisco-sa-XXX	3	6	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+color	3	5	https://raw.githubusercontent.com/peircechow/peircechow.github.io/master/scripts/swagger_to_markdown/swagger.json
+command separated list	3	3	http://recsvm.rummblelabs.com/api-spec/seldon.json
+flow/partner_date:time	3	32	https://raw.githubusercontent.com/bochen2014/swagger-cors-support/master/api/swagger.yaml
+full-date	3	4	https://raw.githubusercontent.com/JenaStark/SwaggerAPI/master/swagger.yaml
+full-date YYYY-MM-DD	3	39	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.yaml
+google-fieldmask	3	23	https://sheets.googleapis.com/$discovery/rest?version=v4
+latitude,longitude	3	5	https://raw.githubusercontent.com/theSuess/openspotmap/master/api/v0/swagger.yaml
+mediawiki	3	3	https://raw.githubusercontent.com/wikimedia/mediawiki-services-restbase/master/v1/citoid.yaml
+objectid	3	20	https://raw.githubusercontent.com/PokeSec/EPManage/master/Management-API.yaml
+percentage	3	3	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/quotations.yaml
+regex	3	13	https://raw.githubusercontent.com/stepsic-microsoft-com/ScriptConnector/master/api.json
+regexp	3	6	https://raw.githubusercontent.com/russell/fairy-slipper-migration/master/conversion_files/compute-v2-swagger.json
+semver	3	32	https://raw.githubusercontent.com/wcatron/ionic-cloud-sdk-php/master/src/API/versions/2.0.0-beta.0/push/swagger.json
+single	3	6	https://raw.githubusercontent.com/Kensze/Svensk-Fotboll/master/Swagger-export/swagger.yaml
+stringDcJobsByDate	3	3	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.yaml
+timestamp	3	7	https://raw.githubusercontent.com/Turnierserver/Turnierserver/master/Frontend/api.yaml
+title	3	3	D:\nodejs\analysis\defs_github_large\wikimedia+restbase@v1-random.yaml
+uuid4	3	3	https://raw.githubusercontent.com/Turnierserver/Turnierserver/master/Frontend/api.yaml
+uuidw	3	3	https://raw.githubusercontent.com/a1422020484/apidoc/master/src/main/resources/data/swagger4.json
+whateverformat	3	3	https://raw.githubusercontent.com/farazsid/Test/master/src/ResourceManagement/ApiManagement/ApiManagement.Tests/Resources/SwaggerPetStoreV2.json
+xtype:isolation	3	18	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+/^Bearer .+/	2	8	https://raw.githubusercontent.com/blinkboxbooks/reading-service/master/swagger/reading-service-public.yaml
+/^[a-z](?:[a-z\-0-9]*[a-z0-9])?$/	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+16 byte random value	2	2	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.json
+16 byte string returned by /users/access	2	16	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.json
+A user specifier may have one of 3 formats: the OA...	2	4	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_user.yaml
+Basic base64 encoded login:password	2	2	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.json
+Change	2	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+Date	2	3	https://raw.githubusercontent.com/xtraclabs/appreg/master/api/swagger.yaml
+Either the Trade's OANDA-assigned TradeID or the T...	2	4	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_trade.yaml
+FolderPathQueryOrder	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+GetWorkItemTypeExpand	2	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcessDefinitions.json
+IMSI	2	12	https://raw.githubusercontent.com/soracom/soracom-sdk-swift/master/Whatever/swagger/api-definition/soracom-api.en.json
+ISO4217:BASE58	2	2	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+Interval of cloud coverage in percent	2	6	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of dates in ISO 8601	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of incidence angle in degrees	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of resolution in meter	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+IssuedToken	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Identities.json
+Locale	2	2	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+MessageML	2	6	https://raw.githubusercontent.com/symphonyoss/symphony-java-client/master/symphony-apis/agent/api/src/main/resources/agentAPI.yaml
+OperationStatus	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Search.json
+Single element in set {0-15% ; 15-35% ; 35-60% ; >...	2	21	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+TBD	2	3	https://raw.githubusercontent.com/KaloNikolov/node-js-to-azure-deployment/master/api/swagger.yaml
+The string 'Bearer ' followed by the token.	2	2	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+Timespan	2	2	https://raw.githubusercontent.com/Microsoft/mobile-center-cli/master/swagger/bifrost.swagger.before.json
+VersionControlRecursionType	2	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+WKT Geometric objects	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+XML	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%B7%A8%E5%B9%B3%E8%87%BA%E4%BB%8B%E6%8E%A5%E8%A6%8F%E7%AF%84.yaml
+ZIP	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%B7%A8%E5%B9%B3%E8%87%BA%E4%BB%8B%E6%8E%A5%E8%A6%8F%E7%AF%84.yaml
+\|\ delimited field names	2	8	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\|\ delimited integers	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\|\ delimited model names	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+^[0-9a-f]{8}$	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+^[a-z](?:[a-z\-0-9]*[a-z0-9])?$	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+algorithm-and-colon-and-hexstring	2	2	https://raw.githubusercontent.com/WASAPI-Community/data-transfer-apis/master/ait-reference-specification/transfer_api_archive-it_v1.yaml
+application/x-www-form-urlencoded	2	2	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+array (uuid)	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+as-is	2	25	https://raw.githubusercontent.com/barsgroup/barsup-demo/master/src/barsup_demo/swagger-message.json
+base58check	2	4	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+base64 image	2	2	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+bool	2	2	https://raw.githubusercontent.com/eSteemApp/steemapi/master/docs/swagger.json
+byte array	2	10	https://raw.githubusercontent.com/OpenEye-Contrib/OEMicroservices/master/docs/api-swagger.yaml
+case-sensitive	2	4	https://raw.githubusercontent.com/fraunhoferfokus/fic2-cenr/master/swagger/swagger.yaml
+char	2	20	https://raw.githubusercontent.com/Azure/autorest/master/src/generator/AutoRest.CSharp.Unit.Tests/Resource/Bug470/Bug470.yaml
+count	2	4	https://raw.githubusercontent.com/SixArm/swagger-starter/master/examples/swagger.yaml
+countrycode	2	6	http://learnifier.com/apidocs/learnifier.json
+cpf	2	4	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Jose-Lisboa/master/eventSys/docs/eventSys%20API.yaml
+currency-code	2	2	https://raw.githubusercontent.com/jharmn/swagger-api-checkstyle/master/examples/uber/swagger.yaml
+enum - BOOKED - CANCELLED - PAID - UPDATE_REQUESTE...	2	2	https://raw.githubusercontent.com/maasglobal/maas-tsp-api/master/docs/specs/maas-v1.json
+epoch	2	6	https://raw.githubusercontent.com/tilosradio/web2-backend/master/restapi/src/main/resources/tilos.yaml
+extid	2	8	http://learnifier.com/apidocs/learnifier.json
+flow-id	2	13	https://raw.githubusercontent.com/zalando/nakadi-manual/master/docs/api-spec-oai/nakadi-oai-0.5.1.yaml
+freeform	2	8	https://raw.githubusercontent.com/SixArm/swagger-starter/master/examples/swagger.yaml
+geoPoint	2	3	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+google	2	4	https://api.apis.guru/v2/swagger.json
+hashed password	2	2	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+id64	2	4	http://learnifier.com/apidocs/learnifier.json
+in32	2	4	https://raw.githubusercontent.com/asarium/fs2netd-nodejs/master/public/api/v1/swagger.json
+int12	2	2	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Pedro-Velloso/master/swagger%20.yaml
+int32g	2	2	https://raw.githubusercontent.com/tfg-2016-ASU/tfg-2016-ASU/master/api/swaggerVersion1.yaml
+int32t	2	2	https://raw.githubusercontent.com/jobeq/api/master/specification.yaml
+int5	2	2	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Paula-Luisa/master/pkmon.yaml
+ip	2	4	https://raw.githubusercontent.com/ServerChef/serverchef-system-helpers/master/swagger/api.yaml
+jwt token	2	2	https://raw.githubusercontent.com/cmatcham/healthy-kids/master/documentation/api.json
+key-value pairs	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+locale	2	16	http://learnifier.com/apidocs/learnifier.json
+markdown	2	4	https://raw.githubusercontent.com/Welfenlab/tutor-student/master/src/swagger.yaml
+md5	2	2	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Caio-Henrique-Menezes/master/easytrip/docs/ET_swagger.json
+meta:email-address	2	7	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:person-name	2	8	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+miles	2	2	https://raw.githubusercontent.com/Tzinov15/SwaggerBank/master/demo/demoApi.yaml
+milliseconds	2	17	https://raw.githubusercontent.com/gogithubalex/dmcFrontend/master/restapi/DMCInterfaceSwagger.yaml
+n/a	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+non-iso-duration	2	12	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-datalake-analytics/job/2015-11-01-preview/swagger/job.json
+object	2	2	https://raw.githubusercontent.com/GorillaArm/adviewers-backend/master/storage/docs/api-docs.json
+objectID	2	10	https://raw.githubusercontent.com/masterdessi2016/RestAPI/master/dist/api-docs.json
+png	2	4	https://raw.githubusercontent.com/wikimedia/mediawiki-services-graphoid/master/spec.yaml
+precision	2	2	https://raw.githubusercontent.com/SalesViewer/salesviewer-api/master/swagger/salesviewer-api.swagger.yaml
+serialized json array of '#/definitions/Cursor'	2	2	https://raw.githubusercontent.com/zalando/nakadi-manual/master/docs/api-spec-oai/nakadi-oai-0.5.1.yaml
+services	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%B7%A8%E5%B9%B3%E8%87%BA%E4%BB%8B%E6%8E%A5%E8%A6%8F%E7%AF%84.yaml
+slug	2	14	https://raw.githubusercontent.com/laincloud/sso-ldap/master/apidoc/swagger.json
+smiles	2	6	https://raw.githubusercontent.com/DouglasConnect/ChemIdConvert/master/swagger.yaml
+text/html	2	4	https://raw.githubusercontent.com/psomashe/amc-interview/master/binary-tree-rest-master/api/swagger/swagger.yaml
+timezone	2	6	http://learnifier.com/apidocs/learnifier.json
+token	2	5	https://raw.githubusercontent.com/Kesshou/Kesshou-Server/master/public/swagger.json
+tryte	2	2	https://raw.githubusercontent.com/davad/iota-dashboard/master/config/swagger.yaml
+url-path	2	4	https://raw.githubusercontent.com/nicko7i/vcnc/master/vcnc-rest/api/v1api.yaml
+xtype:flow-identifier	2	43	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+yang:yang-identifier	2	10	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+Device_ID	1	1	https://raw.githubusercontent.com/jimishio/jimishio.github.io/master/swagger.json
+#/definitions/Cursor	1	1	https://raw.githubusercontent.com/zalando/nakadi/master/api/nakadi-event-bus-api.yaml
+#/definitions/Hakemus	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Hakemuskausi	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Paatos	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Taydennys	1	2	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/TaydennysHakuohje	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+'90x90' | '195'x'195' | '584'x'584'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+'CallerId' | 'SmsSender'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+'completed={result_url}' : query successfuly proce...	1	1	https://raw.githubusercontent.com/dgrechka/FetchClimateAPI/master/API.yaml
+([0-9]+[-])*[0-9]+	1	1	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+(format to define)	1	1	https://raw.githubusercontent.com/sweng-epfl/2015-team-phisicists/master/serviceAPI.yaml
++XXAABBCCDDEE	1	2	https://raw.githubusercontent.com/sittor/back/master/swagger/result.json
+-?\w+	1	1	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/avataxbr/companies-api.json
+.*	1	1	https://raw.githubusercontent.com/swagger-api/swagger-codegen/master/modules/swagger-codegen/src/test/resources/2_0/responseHeaderTest.yaml
+...	1	1	https://raw.githubusercontent.com/pericles-project/SPIN-rule-engine/master/apidocs/ui/swagger.json
+/(\W\w+\-?)+/	1	4	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/Foo/Bar	1	2	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+/\A([\w+\-](\.[\w+\-])?)+@[a-z\d\-]+(\.[a-z]+)*\.[...	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/\d+/	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/^[a-zA-Z0-9]+$/	1	1	https://raw.githubusercontent.com/blinkboxbooks/storage-service/master/swagger/admin.yaml
+/^bbbmap:[a-zA-Z0-9]+:/	1	1	https://raw.githubusercontent.com/blinkboxbooks/storage-service/master/swagger/admin.yaml
+0    Train (metropolitan) 1    Tram 2    Bus (metr...	1	1	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml
+0-16	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+0\d{7}X\d	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+0nnnnnnnnn	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+2017-02-17T12:14:24+0200	1	1	https://raw.githubusercontent.com/geekhub-php/CheTheatre/master/doc/theatre.json
+64 chars hex	1	2	https://raw.githubusercontent.com/RCasatta/ew-core/master/ewcore/bin/manifest.yaml
+>= 0	1	1	https://raw.githubusercontent.com/Jumpscale/_archive/master/agentcontroller8/agent-swagger.yaml
+>= 1	1	1	https://raw.githubusercontent.com/Jumpscale/_archive/master/agentcontroller8/agent-swagger.yaml
+AAAA-MM-GG	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+AAAAMMGG	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+ASC - DESC	1	5	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+ASC|DESC	1	1	https://raw.githubusercontent.com/10Duke/java-client-idp/master/com.tenduke.client.java.sample/src/main/resources/user_api_v1.json
+AVC Id	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+AccountProviderNamespace	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Commerce.json
+Airport Id	1	2	https://raw.githubusercontent.com/motation/ai15-price-and-revenue/master/docs/flightop.yaml
+ApprovalStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ApprovalType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+Base64	1	2	https://raw.githubusercontent.com/ISS-Analytics/canvas-lms-visualizations-api/master/public/swagger.yaml
+Base64-url-encoded JWT (JSON Web Token)	1	2	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+BuildQueryOrder	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildReason	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildReference	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+BuildResult	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildStatus	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+CLXXXXXX,	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+CancellationToken	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Drop.json
+ChangeList	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+Char	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Security.json
+Column name	1	5	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+Column_Type_Format	1	2	https://raw.githubusercontent.com/yolanda6/test/master/courseAPI-4.json
+CombinationID	1	2	https://raw.githubusercontent.com/TimeZynk/timezynk-api-spec/master/spec/swagger.yaml
+CommentSortOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+CommentTrackingCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+ConnectOptions	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Locations.json
+ConnectedServiceKind	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Core.json
+CultureInfo	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Accounts.json
+CustomTestFieldScope	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+DEFINITELYALPHANUMERIC	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+DEFINITELYNUMERIC	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+DESC	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+DateTimeOffset	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+DayOfWeek	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Work.json
+Decimal	1	2	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml
+DefinitionQueryOrder	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+DefinitionRunInfo	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+DefinitionType	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+DeploymentGroupActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+DeploymentGroupExpands	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+DeploymentOperationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+DeploymentStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+Either 'all' or a version number.	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+Embed URL for this attachment	1	1	https://raw.githubusercontent.com/fabito/api-doc/master/curation/curation_api.yaml
+Embed URL for this attachment (* TODO - o que eh i...	1	1	https://raw.githubusercontent.com/fabito/api-doc/master/cards/cards_api.yaml
+Empty string if true	1	1	https://raw.githubusercontent.com/wiki-ai/ores/master/ores/wsgi/templates/v2_swagger.json
+Eurobetrag	1	1	https://raw.githubusercontent.com/hypoport/europace2-api/master/Produktanbieterdarlehensdaten/swagger.yaml
+ExtensionRequestState	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ExtensionManagement.json
+ExtensionValidationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+Float	1	1	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+FolderQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+Foo/Bar	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+For local Authentication this is the User's email ...	1	1	https://raw.githubusercontent.com/xhape/ideamarket-api/master/api/swagger/swagger.yaml
+Format : yyyy-mm-dd 	1	4	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+GUID	1	3	https://raw.githubusercontent.com/BrightstarDB/BrightstarDB/master/src/core/BrightstarDB.Server.AspNet/assets/swagger.json
+GetBehaviorsExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcess.json
+GetFieldsExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+GetProcessExpandLevel	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcess.json
+GitBaseVersionDescriptor	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitPullRequestSearchCriteria	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitPushSearchCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitQueryCommitsCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitTargetVersionDescriptor	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitVersionDescriptor	1	6	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GivenNames FamilyName (Alias)	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+HTTP response code	1	1	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+Hex16	1	12	https://raw.githubusercontent.com/favweb/news-hacks-other/master/onos_swagger.json
+HistoryEntry	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+IP	1	1	https://raw.githubusercontent.com/MrJellyB/procitor/master/api/swagger.yaml
+ISBN-13	1	2	https://raw.githubusercontent.com/juleux/Ice-and-Fire-API/master/swagger.yaml
+ISO 3166-1 alpha-2	1	2	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+ISO 8601 formatted date string	1	4	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+ISO8601-UTC	1	2	https://raw.githubusercontent.com/jesuspc/time_machine/master/priv/static/swagger.json
+Inbound or Outbound	1	1	https://raw.githubusercontent.com/SPHornsby/metrominder/master/swagger.json
+Int64	1	2	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+JSON_CALLBACK	1	5	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+JValue	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Npm.json
+JWT	1	2	https://raw.githubusercontent.com/BafS/Kaudio/master/docs/swagger.yaml
+JsonPatchOperationData	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/IdentityMru.json
+Lat,Lon	1	2	https://raw.githubusercontent.com/Aallam/GeoLocation-API/master/api/swagger.yaml
+Ledger query syntax	1	1	https://raw.githubusercontent.com/kadena-io/juno/master/swagger/juno-swagger.json
+Location	1	1	https://raw.githubusercontent.com/Tidetech/tidetech-apiary/master/swagger.yaml
+MAC Address	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+MS	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+MachineGroupActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+MailSectionType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+Major Version.Minor Version.Build YYMM.Build Relea...	1	3	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/communications/afc.yaml
+MediaType	1	1	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+MetadataType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Search.json
+MongoDB ObjectId	1	2	https://raw.githubusercontent.com/BafS/Kaudio/master/docs/swagger.yaml
+Nome Cognome	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+None or combination elements in Set {LIVESTOCK, GO...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+NotificationResult	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ServiceHooks.json
+NotificationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ServiceHooks.json
+OAUTH2 (IAM)	1	1	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/main/resources/api/zally-api.yaml
+OK	1	1	https://raw.githubusercontent.com/zhanggbj/bosh-swagger/master/docs/swagger/swagger.json
+ObjectId	1	37	https://raw.githubusercontent.com/TimeZynk/timezynk-api-spec/master/spec/swagger.yaml
+OpenSearch SRU	1	2	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+OrganizationSearchKind	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Organization.json
+OssResourceType	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+P#D where # is the number of days.	1	1	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/communications/afc.yaml
+PipelineDefinitionExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineDefinitionTriggerType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PlanGroupStatusFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Task.json
+ProjectState	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Core.json
+PropertyPair	1	1	https://raw.githubusercontent.com/hellosnow/simple_doc/master/jehuan_simple_test/swagger.json
+Prozentsatz	1	1	https://raw.githubusercontent.com/hypoport/europace2-api/master/Produktanbieterdarlehensdaten/swagger.yaml
+QueryDeletedOption	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+QueryExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+QueryMembership	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Identities.json
+RGB	1	1	https://raw.githubusercontent.com/kbessinger/lamda_proc/master/example/swagger.yaml
+Rating	1	3	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+RecommendationInput	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Recommendation.json
+RecommendationType	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Recommendation.json
+Region	1	1	https://raw.githubusercontent.com/Tidetech/tidetech-apiary/master/swagger.yaml
+ReleaseDefinitionExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseExpands	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseQueryOrder	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseReference	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+ReleaseStatus	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReportingRevisionsExpand	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+ResourceName	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Commerce.json
+ResponseType	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/DelegatedAuthorization.json
+ResultDetails	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+ReviewSearchCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+Risk1,Risk2,Risk3,Risk4,Risk5	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+SINGLE element in Downslope set +  , + SINGLE elem...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET { <10cm ; 10-50cm ; 50cm-1m ...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET {5m ; 10m ; 15m ; 20m ; 25m}	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET {WEST ; NORTH ; SOUTH ; EAST...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SUBSET of SET = { Bare ; Trees ; Shrubs ; Sub-shru...	1	10	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SecureFileActionFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+Set of 'CallerId', 'SmsSender'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	7	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	14	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Single element in {FLAT (0-2%); GENTLE (3-5%); MOD...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Size(2)	1	3	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+StreamContent	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+StreamedBatch	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+String - None or combination elements in Set {LIVE...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+String - SINGLE element in Downslope set + , + S...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+String - Single element in Set {tree cover, >25% c...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+SubscriptionQueryFlags	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Notification.json
+TaskAgentPoolActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskAgentPoolType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskAgentQueueActionFilter	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskResult	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TestSessionSource	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+Text	1	22	https://raw.githubusercontent.com/ReDeployIO/swagger-api/master/swagger.json
+TfvcChangesetSearchCriteria	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcLabelRequestData	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcShelvesetRequestData	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcVersionDescriptor	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TimeZoneInfo	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Accounts.json
+Token XXXXXXXX	1	1	https://raw.githubusercontent.com/malaonline/Server/master/server/app/api/api.yaml
+TreeStructureGroup	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+UNSPECIFIED	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+UTC Unix epoch	1	1	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+UTF-8	1	8	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+UUID V4	1	1	https://raw.githubusercontent.com/TimVosch/gomeetup-REST/master/api/swagger/swagger.yaml
+UsageSummaryQueryCriteria	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Utilization.json
+User already exists	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+User doesn't exist	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+UserType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/UserMapping.json
+VariableGroupActionFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+WXXXXX	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+WidgetScope	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Dashboard.json
+WorkItemErrorPolicy	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+WorkItemExpand	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+X;Y;Z	1	4	https://raw.githubusercontent.com/InfiniteRam/mwissues-nodejs-server/master/tools/server-api.yaml
+X;Y;Z;W	1	2	https://raw.githubusercontent.com/InfiniteRam/mwissues-nodejs-server/master/tools/server-api.yaml
+Y-m-d	1	4	https://raw.githubusercontent.com/otmjka/testswagger/master/api.json
+YYYY-MM-DD 24HH:MM:SS.USSS	1	1	https://raw.githubusercontent.com/21dotco/sensor21/master/manifest.yaml
+YYYY-MM-DDThh:mm:ss+00:00	1	2	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+YYYY-MM-DDThh:mm:ssTZD	1	1	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-MM-dd	1	3	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-MM-ddThh:mm:ssTZD	1	3	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-mm-dd	1	2	https://raw.githubusercontent.com/microKettle/kettle-frontdesk/master/swagger.yaml
+YYYY-mm-ddT07:01:36+0000	1	1	https://raw.githubusercontent.com/ganesansays/socialmessage-api/master/api/swagger/swagger.yaml
+[0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/kadena-io/juno/master/swagger/juno-swagger.json
+^[a-z](?:[a-z_]*[a-z])?$	1	1	https://raw.githubusercontent.com/blinkboxbooks/magrathea/master/swagger/admin.yaml
+a=b&	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+a=foo&b=bar	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+abignumber	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+accessibility	1	2	https://raw.githubusercontent.com/Pastor/modules/master/rest-oauth2/src/main/resources/api.v1.0.3.yaml
+anyURI	1	1	https://raw.githubusercontent.com/wol190/ETSI-ISG-MEC/master/APIs/location/v1/LocationAPI.json
+application/js	1	1	https://raw.githubusercontent.com/igp-tech/igp-site-provider-doc/master/spec/swagger.yaml
+application/json or text/json	1	5	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+application/pdf	1	2	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/frowhy/Swagger2Postman/master/swagger.json
+array (ProjectPropertyFilter)	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Project.json
+array (SubjectDescriptor)	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Graph.json
+ascii	1	17	https://raw.githubusercontent.com/fli-iam/CARMIN/master/carmin.yaml
+average/min/max/numeric (1 -> 99.999)	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+base58[:ISO4217]	1	1	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+base64encodedImage	1	1	https://raw.githubusercontent.com/KayEm/display-blinky/master/DisplayPi.Web/api/swagger.yaml
+bibtex	1	1	https://raw.githubusercontent.com/wikimedia/citoid/master/spec.yaml
+bigint	1	2	https://raw.githubusercontent.com/zaxgithub/sample_yaml/master/sample1.yaml
+character	1	3	https://raw.githubusercontent.com/keerthanat/Mayday/master/Documents/MayDay_REST_API_Documentation.yaml
+character varying	1	4	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+charcater	1	1	https://raw.githubusercontent.com/keerthanat/Mayday/master/Documents/MayDay_REST_API_Documentation.yaml
+com.boaweb.objectid	1	2	https://raw.githubusercontent.com/nh32rg/hooktest/master/service.yaml
+com.eagleinvsys.camel.processors.jsonconverter.Res...	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+com.eagleinvsys.mashup.objects.GenericPositionMash...	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+com.eagleinvsys.objects.TSR	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+comma-seperated list	1	15	https://raw.githubusercontent.com/eleven41/skeddly-api-docs/master/skeddly-api.yaml
+composite	1	1	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+composite_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+convert_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+convert_html_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+copy_metadata_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+customdateformat	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+dataTime	1	2	https://raw.githubusercontent.com/ltriggimgstg/testnode/master/config/swagger.yaml
+date-type	1	1	https://raw.githubusercontent.com/nemesi8s/falcon.io/master/api/falcon.yaml
+date/comments/rating/random	1	1	https://raw.githubusercontent.com/vitush93/mffun/master/docs/api.yaml
+date_time	1	2	https://raw.githubusercontent.com/ghentlivinglab/Personalized-mobility-information-service-solution-1/master/2015-2016-api-mobiliteitscentrum/swagger.json
+dates	1	1	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+day	1	1	https://raw.githubusercontent.com/NoctivagusObitus/EinkaufsApp-Backend/master/swagger.yaml
+dc	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+dd/mm/yyyy	1	1	https://raw.githubusercontent.com/ewiener/pace_funding/master/swagger/swagger.json
+dictionary of string	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+doube	1	1	https://raw.githubusercontent.com/esaip-dotnet/quiz/master/swagger.json
+doubl	1	1	https://raw.githubusercontent.com/rominaracca/seminarioIUA/master/Swagger/swagger.yaml
+double,double	1	2	https://raw.githubusercontent.com/netoht/mobile-api/master/src/main/resources/static/public/swagger.yaml
+ellipse_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+email only	1	1	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+email standard	1	1	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+env-prod-dc	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+falsy	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+fieldname	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+file-name	1	1	https://raw.githubusercontent.com/miloscitakovic/api-descriptions/master/content-management/swagger/content-management.json
+filter	1	9	https://raw.githubusercontent.com/flapjack/flapjack.io/master/lib/swagger/api.json
+float - Expected values are between 0 and 1. where...	1	2	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
+folder-path	1	1	https://raw.githubusercontent.com/miloscitakovic/api-descriptions/master/content-management/swagger/content-management.json
+formData	1	1	https://raw.githubusercontent.com/yulane/myblog/master/api.myblog/public/doc/swagger.json
+glob-style string pattern	1	5	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+guid+guid	1	1	https://raw.githubusercontent.com/BristechSRM/comms/master/Comms/api.json
+hexadecimal	1	3	https://raw.githubusercontent.com/0verseas/0verSchool/master/api/swagger.yaml
+hexstring	1	2	https://raw.githubusercontent.com/MaxLeap/Docs/master/zh/REST/API/api.json
+hh:mm	1	1	https://raw.githubusercontent.com/ghentlivinglab/Personalized-mobility-information-service-solution-1/master/2015-2016-api-mobiliteitscentrum/swagger.json
+hh:mm:ss	1	1	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+html	1	3	https://raw.githubusercontent.com/6aika/api-paatos/master/paatos.swagger.yaml
+http-method	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+ia32	1	8	https://raw.githubusercontent.com/CodingFishWu/se350-project3/master/docs/api.yaml
+image_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+incoming, outgoing or both	1	2	https://raw.githubusercontent.com/netgroup-polito/neo4jmanager/master/WebContent/neo4jmanager.yaml
+initeger	1	1	https://raw.githubusercontent.com/savardiego/21tiles/master/manifest.yaml
+int11	1	7	https://raw.githubusercontent.com/guodont/a-tech-backend/master/docs/swagger-atech-api.yaml
+int128	1	1	https://raw.githubusercontent.com/donnerruebe/HAW_AIP_2015/master/APIDOC/FlightOpGreenAPIFlight.yaml
+int23	1	3	https://raw.githubusercontent.com/damianpeterson/roundpal-api/master/web/documentation/roundpal.json
+int3	1	3	https://raw.githubusercontent.com/guodont/a-tech-backend/master/docs/swagger-atech-api.yaml
+int32a	1	1	https://raw.githubusercontent.com/nokia-cdp/developer-ecosystem/master/resources/sdks/REST-APIs/swaggerdocs-6.0/swagger.yaml
+int64'	1	1	https://raw.githubusercontent.com/notfred/lrweb/master/webservices/nodejs-server/api/swagger.yaml
+int64;	1	2	https://raw.githubusercontent.com/DarkSKull2/careteammodel/master/model/swagger.yaml
+int66	1	1	https://raw.githubusercontent.com/rustanddust/itinerary-backend-doc/master/swagger.yaml
+int664	1	1	https://raw.githubusercontent.com/inf-uach/SophiaAPI/master/Docs/swagger.json
+ipaddress	1	5	https://raw.githubusercontent.com/apollo17march/data-distribution-api/master/swagger.yaml
+iso-8601 date	1	4	https://raw.githubusercontent.com/kheob/FIT5140-Server/master/static/swagger.yaml
+iso-date-time	1	2	https://raw.githubusercontent.com/SuysWimi/kambi-player-store/master/swagger.yaml
+iso8601-timestamp	1	1	https://raw.githubusercontent.com/thewizardplusplus/vk-group-stats/master/docs/api.yaml
+items */{total-items} where {total-items} is a num...	1	1	https://raw.githubusercontent.com/sometimesiwonder/test123/master/v0001.json
+items {start}-{end}/{total-items} where {total-ite...	1	4	https://raw.githubusercontent.com/sometimesiwonder/test123/master/v0001.json
+json-schema-ref	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+json:json-schema-ref	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+label	1	1	https://raw.githubusercontent.com/spilio/chefArchitect.github.io/master/assets/apispots/swaggered/img/swagger.json
+language	1	2	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+language-map	1	1	https://raw.githubusercontent.com/shield-9/MBXP/master/swagger.json
+lat,lng	1	1	https://raw.githubusercontent.com/parapety/PubsAPI/master/web/swagger.json
+latitude	1	2	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+line_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+list of ids	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+login success	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+longitude	1	2	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+m or f	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+machine1+machine2+...	1	1	https://raw.githubusercontent.com/thomasheckmann/zxinfo-services/master/swagger.yaml
+machineName	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+map	1	2	https://raw.githubusercontent.com/corebob/olims-api/master/docs/api.json
+md5sum	1	14	https://raw.githubusercontent.com/openstack/kloudbuster/master/kb_server/kloudbuster-swagger.yaml
+media type e.g. image/png	1	1	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
+merge_to_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+meta:api-version	1	2	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:file-name	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:license	1	6	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:meta-identifier	1	1	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+meta:phone-number	1	1	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+meta:timezone	1	1	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+meta:title	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meters	1	1	https://raw.githubusercontent.com/theSuess/openspotmap/master/api/v0/swagger.yaml
+millisec	1	2	https://raw.githubusercontent.com/capehorn/swagger-vertx-elm/master/src/main/resources/upbeat-api.json
+mime	1	1	https://raw.githubusercontent.com/shield-9/MBXP/master/swagger.json
+mime type	1	2	https://raw.githubusercontent.com/airbusgeo/api-docs/master/view.yaml
+mimetype	1	5	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+mmddyyyy	1	1	https://raw.githubusercontent.com/tradestation/api-docs/master/spec/swagger.yaml
+mongodb-objectid	1	1	https://raw.githubusercontent.com/thewizardplusplus/vk-group-stats/master/docs/api.yaml
+multipart/form-data	1	1	https://raw.githubusercontent.com/XiaChen2016/expense-tracker/master/Documents/TrackrAPI(2.1).json
+m|km|cm|mm|mi|sm|ft|in|yd	1	1	https://raw.githubusercontent.com/Aallam/GeoLocation-API/master/api/swagger.yaml
+name	1	8	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+nickname	1	1	https://raw.githubusercontent.com/s0nerik/BugTracktor/master/api/swagger/swagger.yaml
+normalized location	1	1	https://raw.githubusercontent.com/stevenpollack/dairy_queen/master/swagger.yaml
+ocr_operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+ocr_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+ocr_text_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+onixContributorRole	1	1	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+onixProductForm	1	1	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+operation_response_common	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+palindrome	1	1	https://raw.githubusercontent.com/Tzinov15/SwaggerBank/master/demo/demoApi.yaml
+passwrod	1	1	https://raw.githubusercontent.com/lixingwang/go-swagger-files/master/SwaggerValidationIssues.json
+pdf_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+plain/text	1	2	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+postal code	1	2	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+process	1	1	https://raw.githubusercontent.com/Pastor/modules/master/rest-oauth2/src/main/resources/api.v1.0.3.yaml
+propertyName ASC | DESC	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+propertyname ASC|DESC	1	6	https://raw.githubusercontent.com/KaloNikolov/node-js-to-azure-deployment/master/api/swagger.yaml
+qr_code_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+raw	1	1	https://raw.githubusercontent.com/influxdata/chronograf/master/server/swagger.json
+rectangle_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+rgb	1	2	https://raw.githubusercontent.com/masaru-takano/DeviceConnect-Spec/master/api/light.json
+rison	1	9	https://raw.githubusercontent.com/cogniteev/oncrawl-api-swagger-v1/master/swagger.yaml
+route-handler	1	11	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+rtf_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+seconds	1	1	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+secure_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+semantic-iri	1	3	https://raw.githubusercontent.com/6aika/api-paatos/master/paatos.swagger.yaml
+sensorSchema	1	1	https://raw.githubusercontent.com/mfeneley/LargeScale/master/dist/api-docs.json
+sha256	1	4	https://raw.githubusercontent.com/e-gob/API-SES-Wrapper/master/OpenAPI.yaml
+sharepoint_file	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+signup failed	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+signup success	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+spectral hash	1	1	https://raw.githubusercontent.com/stuchalk/OSDB/master/app/webroot/files/swagger.json
+split_operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+split_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+sqlite3 DATETIME	1	1	https://raw.githubusercontent.com/pepaslabs/TrivialGutenbergTweetsAPI/master/spec.yaml
+street name and number	1	2	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+string {0-2% ; 3-5% ; 6-10% ; 11-15% ; 16-30% ; 31...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+subscriber-outflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+swagger	1	1	https://raw.githubusercontent.com/miqui/oneview-synergy-openapi/master/swagger.yaml
+telephone	1	1	https://raw.githubusercontent.com/azurestandard/api-spec/master/public.json
+test	1	3	https://raw.githubusercontent.com/mauricesvay/SketchfabDataApi/master/swagger.json
+text/plain	1	1	https://raw.githubusercontent.com/10Duke/java-client-idp/master/com.tenduke.client.java.sample/src/main/resources/user_api_v1.json
+text_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+textarea	1	1	https://raw.githubusercontent.com/mdsina/selectel-dns-api/master/swagger.json
+texto	1	4	https://raw.githubusercontent.com/ismaelaraujo/posUnipe/master/swagger.json
+time_range	1	1	https://raw.githubusercontent.com/epforgpl/_mojePanstwo-API-Server/master/app/webroot/swagger-bdl.json
+timestamp without time zone	1	4	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+truthy, any value apart from false or 0 will be tr...	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+type1+type2+...	1	1	https://raw.githubusercontent.com/thomasheckmann/zxinfo-services/master/swagger.yaml
+tzinfo	1	3	https://raw.githubusercontent.com/flapjack/flapjack.io/master/lib/swagger/api.json
+uint256	1	3	https://raw.githubusercontent.com/genecyber/RibbitFlow/master/public/api-spec/spec.yaml
+union	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+unique name of the asset	1	1	https://raw.githubusercontent.com/sagarkrkv/assetStore/master/swagger_server/swagger/swagger.yaml
+unit8	1	2	https://raw.githubusercontent.com/Dataman-Cloud/omega-api-docs/master/apiv3/api-doc.yaml
+unix-time	1	1	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+unsigned integer	1	1	https://raw.githubusercontent.com/HundertTage/Server/master/Swagger.yaml
+unt64	1	1	https://raw.githubusercontent.com/montaltomarco/snaparound----backEnd/master/spec/v1.0.json
+url-encoded utf-8	1	8	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+utc	1	5	https://raw.githubusercontent.com/johng/HeatMap/master/WebServer/swagger.yaml
+utf8	1	9	https://raw.githubusercontent.com/gti525/h17-reseau-social/master/storage/api-docs/api-docs.json
+uuuid	1	1	https://raw.githubusercontent.com/libopenstorage/specs/master/api/openstorage.yaml
+variable but set	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+vsg:subscriber-inflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-vsg/swagger.yaml
+vsg:subscriber-outflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-vsg/swagger.yaml
+wrong	1	1	https://raw.githubusercontent.com/Azure/autorest/master/src/modeler/AutoRest.Swagger.Tests/Resource/Swagger/Validation/invalid-format.json
+wrong password	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+x..y	1	2	https://raw.githubusercontent.com/bptlab/chimera/master/docu/rest/swagger.yaml
+xtype:mac-address	1	16	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+xtype:network-identifier	1	6	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+xxx@yyy	1	2	https://raw.githubusercontent.com/noelo/fusedemo/master/MessagingAPI/main/resources/swagger/swagger.yaml
+yearmonth	1	1	https://raw.githubusercontent.com/randing89/swagger-model/master/test/swagger.json
+yyyy-MM-dd HH:mm	1	2	https://raw.githubusercontent.com/motation/ai15-price-and-revenue/master/docs/flightop.yaml
+yyyy-MM-dd'T'HH:mm:ss'Z'	1	4	https://raw.githubusercontent.com/nbonavia/bet-swagger/master/swagger.json
+yyyy-mm-dd	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+yyyymmdd	1	4	https://raw.githubusercontent.com/andy-zhangtao/v22/master/doc/api.json
+zip	1	2	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+“train”, “tram”, “bus”, “vline” or “nightrider”	1	1	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml

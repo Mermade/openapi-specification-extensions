@@ -1,689 +1,689 @@
 format	definitions	instances	example
-int32	11781	74407	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-time	5893	26965	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int64	5762	68963	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uuid	5681	9759	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-url	4853	5284	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-double	1334	18685	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date	845	6993	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uri	492	1709	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-float	441	2370	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-string	354	4981	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-email	284	563	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer	207	1382	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-password	199	346	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-byte	161	424	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dateTime	110	509	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-datetime	96	410	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int	74	408	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-decimal	66	1675	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-binary	65	163	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-boolean	57	352	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-number	46	663	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-long	44	268	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time	33	62	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-json	28	89	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-JSON	23	5665	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-guid	22	167	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-text	21	121	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-phone	19	31	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-timestamp	19	68	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UUID	18	64	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-array	17	30	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int16	17	55	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-id	14	87	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uint32	14	72	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-URL	13	19	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-base64	12	21	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-mm-dd	12	104	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Int32	11	43	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-	10	169	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DD	10	19	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-jwt	10	16	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-required	9	360	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-mm-dd	8	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-file	8	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-String	7	17	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mail	7	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-object	7	35	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uid	7	24	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Date	6	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum	6	38	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hash	6	19	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hostname	6	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer64	6	17	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-money	6	21	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-GUID	5	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Integer	5	22	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-bool	5	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-csv	5	79	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-currency	5	22	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-full-date	5	32	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int6	5	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ip	5	19	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ip-address	5	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uint16	5	13	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uint64	5	50	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-urn	5	18	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DateTime	4	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 8601	4	16	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-XXX-XXXX-XXXX	4	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY	4	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DD-HH-MM-SSSSS	4	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-address	4	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int64;	4	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ipv4	4	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-numeric	4	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-objectid	4	39	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar	4	61	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0/1	3	67	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
->0	3	34	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Bearer token	3	30	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-CVE-YYYY-NNNN	3	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Two letters ISO (de,en)	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Y-m-d H:i:s	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^\d+$	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-cisco-sa-XXX	3	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-Time	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date_time	3	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dd/mm/yyyy	3	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-duration	3	14	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hex	3	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-html	3	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-in32	3	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int1	3	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int10	3	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int11	3	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int8	3	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-objectId	3	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-path	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-phone-number	3	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-signed integer	3	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-srtring	3	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-timeSpan	3	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-tinyint	3	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyyMMddTHHmmss	3	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-$ref '#/definitions/AppliedDiscount'	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-10	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-12345	2	12	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-14 символов	2	22	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-16 hex-символов	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-20	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DD/MM/YYYY	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Float	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Guid	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IPv4 Address	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IPv4 CIDR address	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 3166-1 alfa 2	2	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 3166-1 alpha-2	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 639-1	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO8601	2	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Int64	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MIME	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ObjectID	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Two Letters ISO (de,en)	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-URI	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UiT	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-\d+	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^S*$	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^\d*$	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-alphanumeric	2	21	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-char 1	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-char 2	2	12	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-code	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-color	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-coma delimited values	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-comma-sepreated list of answer-ids	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-custom	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-data	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-data-time	2	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-format	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-fullyear-date-month-date-mday	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dd-mm-yyyy	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dd/MM/yyyy HH24:MI:ss	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-e-mail	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-email;	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum - citizenship test - citizenship conferral - ...	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum(F,J)	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-epoch	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-generic-id	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-identity	2	36	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-image	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-in	2	24	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-innt64	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int 11	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int-or-string	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin0Max7	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin1Max3	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin1Max32	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin46Max9600	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer32	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intn64	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ipv6	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso-3166-1-alpha-2	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso8601	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-java.util.date	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-locale	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-markdown	2	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mask	2	23	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-maxLen200	2	25	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-maxLen255	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-maxLen36	2	20	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-maxLen36AlphaNumericDashUnderscore	2	42	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-maxLen400	2	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-md5	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mm/dd/yyyy	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-name	2	17	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-phone_number	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-real	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-rfc3986	2	44	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-seconds	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-short	2	14	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-small	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-sort[id]=asc	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-text/xml	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-textarea	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time-span	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-timezone	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uint	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-unix_timestamp	2	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-utc-millisec	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-utf-8	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uuid4	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 10	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 100	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 12	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 128	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 20	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 25	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 250	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 255	2	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 30	2	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 50	2	21	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 60	2	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 64	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar 9	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yes | no	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-mm	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-mm-dd hh:ii:ss	2	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-mm-ddThh:MM:ssZ	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-#$ref/definitions/Calculator.subtract.params	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-%d-%m-%y:%M-%h	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-(+7)9091234567	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-+ve	1	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
--180 до 180 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
--90 до 90 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-/\A\h{40}\z/	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-/^(?:[a-zA-Z0-9]{4}-?){4}$/	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-/root/path/to/application	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-/wiki/{article-id}	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0 -> 100	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0 or 1	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0-255	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0/1/2/3	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0000-00-00 00:00:00	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-00000	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0909999999	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-0|1|2	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1 or 0	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1,2,3	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1-2147483647	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1-digit code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1.0, 9.6.41	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-10 Digits	1	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-123456789012|1234567890123456	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-123@abc	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-13-letter id	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-14-letter id	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1452736523	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1990-01-10	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1=visible, 0=hidden, -1=pending deletion	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-1|2|3...	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-2-letter ISO country code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-200000	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-2015-05-15	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-2016-12-31 21:00	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-2016-12-31 21:00:00.344000	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-2017-03-10T09:12:33.001Z level: type: integer form...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-24/12/2017	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-3-digit code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-3-letter currency code, lower case	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-3-letter state code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-31/12/2017	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-32 characters	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-3411	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-4 Digits	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-4-digit Australian postcode	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-408 character string.	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-450 character string.	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-48 bit MAC address	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5 Digits	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5-digit code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5.90	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-50	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5322905523	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-581cefbcassdfffabad8b8aded0.jpg	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-581cefbcf577abad8b8adea4181	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-581cefbcf577abad8b8adea4182	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-58337137f577ab5c3ffea8eb	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-5|10...	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-657364819919284.jpg	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-77788666622211	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-8	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-9-digit code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-9011xxx	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-<<Name of doc| Profile | username>> and no_answers...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-<=2	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-<categoryid> or <categoryname>	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-?	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-A	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-A value returned from message-view-types endpoint	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-AND OR What...	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ARRAY	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ASC or DESC in uppercase	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ASC,DESC	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Alias room sample	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Any string	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-BSON ObjectID	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-BSON objectID	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Base64 encoded	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Basic xxxx	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Basic: base64 encode	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Bearer zasxcd123qwerf	1	18	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Boolean	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Bronze, Silver, Gold, Platinum	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-CHART	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Capitalized boolean	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Cash, Z8, Poynt	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ChargeModeType	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ChargePointType	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ChargingFacilityType	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ConnectorStandard	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Cool party	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Credit, Redeem	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DATE,PRICE,RELAVANCE	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DESC (or ASC?)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DM100151743	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-DMSP3603,DMSP3602	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Date ISO-8601	1	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Datetime	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Datetime ISO 8601	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Descriptive text for policy violation	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Dmitry	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Double	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-E.164	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ETSI, ENUM, NOT, DONE	1	27	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Email	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Employee	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Enumeration name	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Free/Basic/Plus	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-GMT Timestamp	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-HEX	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-HLS	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-HTML	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-HTTPS Image URL	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Hex RGB	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IATA code of airport	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IBAN	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ID or Email	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IMSI	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IPv4 IP address	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IPv4 address	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-IPv4 based subnet	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 4217	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO 8601 duration	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO-2	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO-639	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO-8601 Date format YYYY-MM-DDTHH:mm:ss	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO-8601 time (HH':'mm':'ss.FFFFFFF)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO-9362	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO4217	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO8061	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ISO_3166-1_alpha-2	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Initials Firstname Lastname	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-JWT Token	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-JWT token	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Jackson	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Kozyrev	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Lat:Lng	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Lenght<128 (Великолепно)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Lenght<256 (Все было весело)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Lenght<256 (Не, было по-другому)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Light, Dark	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Long	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Lowercase alphanumeric	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MAC	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MCC from Enum	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MD5	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MM-YYYY	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MM/DD/YYYY	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MM/DD/YYYY hh:mm	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-MM/DD/YYYY hh:mm TT	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Michael	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-My comment	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-My room name	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-NAF code from Enum	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Not specified...	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Number	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ObjectId	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ObjectId ('581cefbcf577abad8b8a4eа3')	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ObjectId ('581cefbcf577abad8b8aded0')	1	21	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ObjectId ('58337137f577ab5c3ffea8eb')	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-One of the values from preview-types endpoint	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-One of the values from trigger-types endpoint	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-PONG	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Party documentation description	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Party documentation sample	1	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Plain Text	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Planning	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-PlugType	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-QAM	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-RFC 3986	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-SPARQL or SPARQL Update query	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Security	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Single word hybris key	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Sting	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-TABLE	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-TECI	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-TX-{10 Digits}	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Text to put into response body. Omit to let implem...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Two letter ISO Language Code	1	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UK Postcode	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UNIX timestamp	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-URL encoded string	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-USD	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UTF-8	1	40	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UUID for logo picture	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UUID for signature picture	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UUID of user that created item	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UUID of user that modified item	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-UiT + phone_number	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Untitled material databas	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(10)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(100)	1	32	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(1000)	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(15)	1	12	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(20)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(200)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(250)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(50)	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(500)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-VarChar(75)	1	10	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Visa, Discover, Mastercard	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-WBR_RR/SuppliersPortalAdmin	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-WILDBERRIES\the.username	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-XX	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-XX/XX	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-XXXX-XXXX	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Y	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Y-m-d	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DD HH:MM:SS	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DD hh:mm:ss	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DDTHH:MM:SSZ	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DDThh:mm:ss.sTZD	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DD_HH24:MI:SS	1	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYY-MM-DDtHH24:MI:SSz	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYYMM	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-YYYYMMDD	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[0,11] chars. 1/2	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[0,255]	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[1-9][0-9]{9}	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[4,45] chars	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[?, 254]	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[?,20] chars	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[?,45]	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[A-Z]{2}[0-9]{4}	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[imageName1, imageName2 ..]	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[min]-[max]	1	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-[min]-[max]/[Total]	1	11	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-\d+\.\d+\.\d+	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-\d{2}:\d{2}	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-\d{4}-\d{2}-\d{2}	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^([0-5][0-9]:[0-5][0-9]$	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^([0-9a-zA-Z-]+[\.])+[0-9a-zA-Z-]+$	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^C\d+$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^[0-9]{1,2}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^[0-9]{1,3}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^[\wぁ-んァ-ン一-龠 　]{1,30}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^\d{4}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^\w{1,30}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^ap-northeast-1:[\w-]{36}$	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-^https://s3-ap-northeast-1.amazonaws.com/[\w-/.]{1...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-abc,122002,122001	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-abcd1234	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-af7c2f47-f8c0-466d-8b3a-9b158860fba6	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-alarmstate	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-alpha-2	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ana/luiz/maria	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-any	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-anypassword	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-base58check	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-base64 image	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-base64url	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-bigint	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-byte32	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-cents	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-character varying	1	264	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-checkbox	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-clob	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-cloudinaryID	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-com.alertdriving.esb.account.Account	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-comma delimited list of Connect company ids	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-crontab	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-crypted string	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-cuc	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-curie	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-customer-specific	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-d/m/y H:i:s	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date  2011-03-12T00:00:00	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date (RFC-3339)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date yyyy-mm-dd	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-only	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-string	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-time(iso8601 with timezone)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-timestamp	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dateTIme	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dateonly	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dates	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-datetime (RFC-3339)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dateyyyy-mm-ddThh:mm	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dd-mm-yy	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-dd/MM/yy	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-deciaml	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-decimal value	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-diman-mich@yandex.ru	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-double for percents, int for units and amount	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-double64	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-duration literal	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-email address	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-email(30)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-en-US	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum - CASH - ROLLOVER_401K - WELLS_TRADE_ACCOUNT ...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum - issued - closed - in_manual - in_process - ...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum - monday - tuesday - wednesday - thursday - f...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum -APPROVED -UNAPPROVED	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum value	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum values	1	13	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum values or UUID	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum('1','2','U')	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum('Normal', 'Chateado', 'Critico', 'Insatisfeit...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum=['starting', 'started', 'paused', 'finishing'...	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enum_name	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-enumeration	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-facebook,vkontakte	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-fbcf581cefbcf577581cefbcf577abad8b8	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-field1,field2	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-flaot	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-flloat	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-g	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-gtin13	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hex color code	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hex_color	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hexadecimal without pound sign	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-host	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hour	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hours	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-hstore	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-http address	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-https://api.app-eventa.com/media/avatars/581cefbcf...	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-https://api.app-eventa.com/media/covers/9140845298...	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-https://google.com	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-https://google.com/pic.jpg	1	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iban	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ican	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-icao	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-in64	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int 32	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int.	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int128	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int17	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int2	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int255	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int3	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int32	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int32`	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int63	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int64 required:true	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int92	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin0Max21845	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intMin0Max65535	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer 0-600	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer or string	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integer/float	1	13	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integerMin0Max60000000	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-integet	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-interger	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-intt32	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ip address	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-ipaddress	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso-4217	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso-4217-alpha	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-iso8601 datetime	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-issn code	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-jsonb	1	6	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-jsoon	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-key	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-label	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-language code	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-language-map	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-latitude,longitude	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-link	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-list	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-localdate	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-longint	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-longtext	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mac	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-male/female	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-manual (hmc order) OR custom (specific set of rule...	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-map	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mediumint 9	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-meters	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mime	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-mongoID	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-name of field to sort	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-natural	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-newpassword	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-not required	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-null	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-numbers	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-object-id	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-objectId:Explorer	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-objectId:Tip	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-oldpassword	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-opaque	1	14	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-optional/required	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-pasword	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-percent	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-phonenumber	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-positive integer	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-precision	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-readonly	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-referenced capability ID	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-regexp	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-relative URL to mapping	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-rgb	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-selector	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-serial	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-sha1	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-short-date	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-sid	1	19	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-smallint	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-softwared.d	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-station	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-strin	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-string(20)	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-string(30)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-string-time	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-stringt	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-success	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-svg	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-tel	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-text/plain	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time (RFC-3339-like)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time-bucket	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time-data	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time-date	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-time-only	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-timestamp with time zone	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-timestamp without time zone	1	68	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-tinyint(1)	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-token	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-true/false	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-tryte	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-twitter handle	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uatg	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-unicode	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-unique	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-unix time	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-unix-timestamp	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-upc	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-urlToken	1	8	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-user_email@host.org	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-username	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-utf8	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-utl	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uuid.v4	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uuidv4	1	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-uuis	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-valid_json	1	22	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-valid_url	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-values of CampaignStatus enumeration	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(1)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(10)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(100)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(128)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(15)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(20)	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(200)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(30)	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(45)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar(70)	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-varchar2	1	14	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-versionNumber	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-x.x.x.x	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-xml	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-xxx	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-xxxx	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-xxxx-xx-xx	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-y-m-d	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-year	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-year-month-day hout:minute:seconds	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yes	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yourmail@hostmail.com	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy, yyyy-mm, yyyy-mm-dd	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-MM-dd	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-MM-dd HH:mm	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyy-MM-dd'T'HH:mm:ss.SSSZ	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
+int32	11781	74407	https://api.swaggerhub.com/apis/zzm628/test1/1.0.0
+date-time	5893	26965	https://api.swaggerhub.com/apis/zzm628/test1/1.0.0
+int64	5762	68963	https://api.swaggerhub.com/apis/zzm628/test1/1.0.0
+uuid	5681	9759	https://api.swaggerhub.com/apis/zyhnjust/getName/1.0.0
+url	4853	5284	https://api.swaggerhub.com/apis/zyhnjust/getName/1.0.0
+double	1334	18685	https://api.swaggerhub.com/apis/zsohnel/zeshop/1.0.0
+date	845	6993	https://api.swaggerhub.com/apis/ztolley/datahub/1.0.0
+uri	492	1709	https://api.swaggerhub.com/apis/zsohnel/zeshop/1.0.0
+float	441	2370	https://api.swaggerhub.com/apis/ztolley/datahub/1.0.0
+string	354	4981	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+email	284	563	https://api.swaggerhub.com/apis/zuora/notification-service_public_api/1.0.0
+integer	207	1382	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+password	199	346	https://api.swaggerhub.com/apis/zoooN/Ordzhonikidze_API/1.0.0
+byte	161	424	https://api.swaggerhub.com/apis/zhilvis/signify-pdf-signer/1.0.0
+dateTime	110	509	https://api.swaggerhub.com/apis/zwarag/idea-db/0.2.1
+datetime	96	410	https://api.swaggerhub.com/apis/zackrspv/PPOS/1.0.0
+int	74	408	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+decimal	66	1675	https://api.swaggerhub.com/apis/zackrspv/PPOS/1.0.0
+binary	65	163	https://api.swaggerhub.com/apis/zopeff/Test/1.0.0
+boolean	57	352	https://api.swaggerhub.com/apis/Wildberries/DocumentsStorage/1.2.1
+number	46	663	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+long	44	268	https://api.swaggerhub.com/apis/zuora/uom/1.0.0
+time	33	62	https://api.swaggerhub.com/apis/uironz/gora-api/0.2.0
+json	28	89	https://api.swaggerhub.com/apis/wagagt/tecniscan/v1
+JSON	23	5665	https://api.swaggerhub.com/apis/unfetter/cti-stix-store/0.2.1
+guid	22	167	https://api.swaggerhub.com/apis/zoooN/Ordzhonikidze_API/1.0.0
+text	21	121	https://api.swaggerhub.com/apis/WeP/GSTR1_D/1.0.0
+phone	19	31	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+timestamp	19	68	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+UUID	18	64	https://api.swaggerhub.com/apis/wharrison/dealerapi/1.0
+array	17	30	https://api.swaggerhub.com/apis/Wengema/Test/1.0.0
+int16	17	55	https://api.swaggerhub.com/apis/yaninasabon/yaml-file_for_deal_hub_and_manage_sales/1.1.0
+id	14	87	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+uint32	14	72	https://api.swaggerhub.com/apis/wuxiuchao/L3VPN-SBI/1.0
+URL	13	19	https://api.swaggerhub.com/apis/yashoda.lingegowda/price-api/DRAFT
+base64	12	21	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+yyyy-mm-dd	12	104	https://api.swaggerhub.com/apis/VKoptev/Affise/2.0
+Int32	11	43	https://api.swaggerhub.com/apis/webron/talenyaext/1.0.1
+	10	169	https://api.swaggerhub.com/apis/yusufunwala/identity/1.0.0
+YYYY-MM-DD	10	19	https://api.swaggerhub.com/apis/zerocaps/zerocaps-test1/0.0.6
+jwt	10	16	https://api.swaggerhub.com/apis/Vivien/users-api/1.0.0
+required	9	360	https://api.swaggerhub.com/apis/shashikant_prodio/CURBSIDE_API/1.0.1
+YYYY-mm-dd	8	11	https://api.swaggerhub.com/apis/vvidotto/FundService/1.0.0
+file	8	8	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+String	7	17	https://api.swaggerhub.com/apis/Zackary.B.Jerabek/GetProfile/1.0.0
+mail	7	7	https://api.swaggerhub.com/apis/yehuda/kodak-api/1.0.1
+object	7	35	https://api.swaggerhub.com/apis/vignesh_a/firstDataAPI/3.0.0
+uid	7	24	https://api.swaggerhub.com/apis/torrange/Tour/1.0.0
+Date	6	11	https://api.swaggerhub.com/apis/tdang2/College-Measure/1.0.0
+enum	6	38	https://api.swaggerhub.com/apis/zxspeccy/allegro-orders/0.0.1
+hash	6	19	https://api.swaggerhub.com/apis/ums-dev/HOTSTAR-UM-COMPOSITE/0.0.1
+hostname	6	8	https://api.swaggerhub.com/apis/wangzw/test/1.0.0
+integer64	6	17	https://api.swaggerhub.com/apis/lmira/propertyCrossMdpa/1.0.0
+money	6	21	https://api.swaggerhub.com/apis/wenbo-lotusflare/subscription-manager/1.0.0
+GUID	5	9	https://api.swaggerhub.com/apis/RedRoof/Reservations/v1
+Integer	5	22	https://api.swaggerhub.com/apis/vignesh_a/firstDataAPI/3.0.0
+bool	5	7	https://api.swaggerhub.com/apis/lauriChu/PropertyCross_ApI/1.0.0
+csv	5	79	https://api.swaggerhub.com/apis/stink123456/exorath_servers/1.0.0
+currency	5	22	https://api.swaggerhub.com/apis/s.pieri/Elixir.Connector/1.0.0
+full-date	5	32	https://api.swaggerhub.com/apis/pavb/Flyoff/0.0.1
+int6	5	5	https://api.swaggerhub.com/apis/timskitour/timstest-alfresco-rest-api/1
+ip	5	19	https://api.swaggerhub.com/apis/wangzw/test/1.0.0
+ip-address	5	5	https://api.swaggerhub.com/apis/vagur/freeely-device_control_and_monitoring_api/0.0.1
+uint16	5	13	https://api.swaggerhub.com/apis/wencan/iwesee/1.0.0
+uint64	5	50	https://api.swaggerhub.com/apis/wencan/iwesee/1.0.0
+urn	5	18	https://api.swaggerhub.com/apis/rjweeks/securemessage/1.0.0
+DateTime	4	8	https://api.swaggerhub.com/apis/torbent/rm-risk/1.0
+ISO 8601	4	16	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+XXX-XXXX-XXXX	4	4	https://api.swaggerhub.com/apis/kjh15011/ThingPlug2Serivce/1.0.0
+YYYY	4	4	https://api.swaggerhub.com/apis/yates009/IRE/1.2
+YYYY-MM-DD-HH-MM-SSSSS	4	8	https://api.swaggerhub.com/apis/kjh15011/ThingPlug2Serivce/1.0.0
+address	4	6	https://api.swaggerhub.com/apis/surveylocal/SurveyLocal/1.0.0
+int64;	4	8	https://api.swaggerhub.com/apis/robert.newman21/Notes/1
+ipv4	4	5	https://api.swaggerhub.com/apis/Raphx/vmlauncher-server/1.0.0
+numeric	4	9	https://api.swaggerhub.com/apis/NyKo24/ms-modele/1.0.0
+objectid	4	39	https://api.swaggerhub.com/apis/Vivien/modules-api/1.0.0
+varchar	4	61	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+0/1	3	67	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+>0	3	34	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+Bearer token	3	30	https://api.swaggerhub.com/apis/timfogarty-deluxe/SferaSAP/1.0.0
+CVE-YYYY-NNNN	3	6	https://api.swaggerhub.com/apis/santosomar/openVuln/0.0.3
+Two letters ISO (de,en)	3	5	https://api.swaggerhub.com/apis/dolice/SitecoreNotifications/1.0.0
+Y-m-d H:i:s	3	5	https://api.swaggerhub.com/apis/warlock121/pelmennaya-api/1.0.0
+^\d+$	3	5	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+cisco-sa-XXX	3	6	https://api.swaggerhub.com/apis/santosomar/openVuln/0.0.3
+date-Time	3	5	https://api.swaggerhub.com/apis/tiscca/GeschaeftsfallApi/v0.1
+date_time	3	4	https://api.swaggerhub.com/apis/sgerardi/Airwave/1.0.0
+dd/mm/yyyy	3	11	https://api.swaggerhub.com/apis/ViajerosAdoquier/api/0.0.1
+duration	3	14	https://api.swaggerhub.com/apis/rimoe/TM1Rest/10.2.2.6
+hex	3	4	https://api.swaggerhub.com/apis/vagur/freeely-device_control_and_monitoring_api/0.0.1
+html	3	3	https://api.swaggerhub.com/apis/treesoft/digital-platform/1.0.0
+in32	3	6	https://api.swaggerhub.com/apis/Smirl/Jacquard/4.0.0
+int1	3	4	https://api.swaggerhub.com/apis/Kelhen/bluebox-oic_services/1.0.0
+int10	3	10	https://api.swaggerhub.com/apis/walker/Tallyfy/1.0.0
+int11	3	9	https://api.swaggerhub.com/apis/mohanasrinivasan/RentSher/v1
+int8	3	3	https://api.swaggerhub.com/apis/ofitz/SteakServer/1.0.0
+objectId	3	3	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+path	3	5	https://api.swaggerhub.com/apis/Signiant/MediaShuttle/1.0.0
+phone-number	3	5	https://api.swaggerhub.com/apis/suesse/SupplyOrders/1
+signed integer	3	3	https://api.swaggerhub.com/apis/Zied_SIK_SLEM/AC_SDK_PLAY/1.0.0
+srtring	3	3	https://api.swaggerhub.com/apis/vlcservices/vlc-talz-dosage-service-v2/1.0.0
+timeSpan	3	6	https://api.swaggerhub.com/apis/mboriani/Board/1.0.0
+tinyint	3	4	https://api.swaggerhub.com/apis/waden34/StrumAndSip/1.0.0
+yyyyMMddTHHmmss	3	7	https://api.swaggerhub.com/apis/PALFINGER/PALIPEDIA-BACKEND/1.0
+$ref '#/definitions/AppliedDiscount'	2	2	https://api.swaggerhub.com/apis/mrk/qa_api/1.0.0
+1	2	6	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+10	2	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+12345	2	12	https://api.swaggerhub.com/apis/ncapeta/gpadf/0.0.1
+14 символов	2	22	https://api.swaggerhub.com/apis/adaskin.turbotechnology.ru/T9Gate.devel/1.0
+16 hex-символов	2	10	https://api.swaggerhub.com/apis/adaskin.turbotechnology.ru/T9Gate.devel/1.0
+20	2	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+DD/MM/YYYY	2	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+Float	2	2	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+Guid	2	2	https://api.swaggerhub.com/apis/mboriani/Board/1.0.0
+IPv4 Address	2	6	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+IPv4 CIDR address	2	6	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+ISO 3166-1 alfa 2	2	8	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+ISO 3166-1 alpha-2	2	2	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
+ISO 639-1	2	5	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+ISO8601	2	8	https://api.swaggerhub.com/apis/kuindji.quantomic/ssocial/1.0.0
+Int64	2	3	https://api.swaggerhub.com/apis/verrice/ScribesAPI/1.0.0
+MIME	2	10	https://api.swaggerhub.com/apis/wuxiuchao/L3VPN-SBI/1.0
+ObjectID	2	3	https://api.swaggerhub.com/apis/TPXP/Webaz-Licences/1.0.0
+Two Letters ISO (de,en)	2	2	https://api.swaggerhub.com/apis/dolice/SitecoreNotifications/1.0.0
+URI	2	3	https://api.swaggerhub.com/apis/vinnarasu/ncs-marketplace/1.0.0
+UiT	2	3	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+\d+	2	7	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+^S*$	2	10	https://api.swaggerhub.com/apis/vidcentum/portal/1.0.0
+^\d*$	2	2	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+alphanumeric	2	21	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+char 1	2	6	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+char 2	2	12	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+code	2	2	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+color	2	2	https://api.swaggerhub.com/apis/treesoft/digital-platform/1.0.0
+coma delimited values	2	2	https://api.swaggerhub.com/apis/nchursin/LS_DescribeAPI/0.1.0
+comma-sepreated list of answer-ids	2	2	https://api.swaggerhub.com/apis/jpunz/mc-503_ex_2/1.0.0
+custom	2	5	https://api.swaggerhub.com/apis/ponelat/aww-snap/1.0.0
+data	2	4	https://api.swaggerhub.com/apis/pperzyna/lider-parking/1.0.0
+data-time	2	9	https://api.swaggerhub.com/apis/Zetaphor/big-commerce_catalog_api/3.0.0b
+date-format	2	3	https://api.swaggerhub.com/apis/sanjeev/gpi-api/1.0.15
+date-fullyear-date-month-date-mday	2	2	https://api.swaggerhub.com/apis/DBiT/pigal/v0
+dd-mm-yyyy	2	7	https://api.swaggerhub.com/apis/FF2i/api-passerelles/0.0.1
+dd/MM/yyyy HH24:MI:ss	2	4	https://api.swaggerhub.com/apis/indiegente/senati_api/1.1.0
+e-mail	2	4	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+email;	2	2	https://api.swaggerhub.com/apis/kazmierczakpiotr3/TestProject/1.0.0
+enum - citizenship test - citizenship conferral - ...	2	2	https://api.swaggerhub.com/apis/ndis/marketplaceServices/1.0
+enum(F,J)	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+epoch	2	4	https://api.swaggerhub.com/apis/wenbo-lotusflare/subscription-manager/1.0.0
+generic-id	2	2	https://api.swaggerhub.com/apis/pchipman/provider-search/1.0.0
+identity	2	36	https://api.swaggerhub.com/apis/trntga/forum/0.1.0
+image	2	7	https://api.swaggerhub.com/apis/darkwater84/multicomm-app_api/1.0.0
+in	2	24	https://api.swaggerhub.com/apis/damien.broqua/HomePlannerWS/0.0.1
+innt64	2	2	https://api.swaggerhub.com/apis/joaosoranz/marketplace-api/1.0.0
+int 11	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+int-or-string	2	2	https://api.swaggerhub.com/apis/kiranmeduri/kubernetes-apiserver/unversioned
+intMin0Max7	2	4	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin1Max3	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin1Max32	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin46Max9600	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+integer32	2	5	https://api.swaggerhub.com/apis/manciniadriano/ENERGIS/1.0.0
+intn64	2	2	https://api.swaggerhub.com/apis/joaosoranz/marketplace-api/1.0.0
+ipv6	2	2	https://api.swaggerhub.com/apis/helen/mock-test/1.0
+iso-3166-1-alpha-2	2	3	https://api.swaggerhub.com/apis/przemeksroka/customer-api/1.0.0
+iso8601	2	2	https://api.swaggerhub.com/apis/kv109/SOLID/1.0.0
+java.util.date	2	6	https://api.swaggerhub.com/apis/vm001uec/campaign/1.0.0
+locale	2	2	https://api.swaggerhub.com/apis/vaganovk/InvisiblePaaS/1.0.0
+markdown	2	11	https://api.swaggerhub.com/apis/marianosabatucciemerios/Q4P/1.0.0
+mask	2	23	https://api.swaggerhub.com/apis/townie/products-api/1.0.0
+maxLen200	2	25	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen255	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen36	2	20	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen36AlphaNumericDashUnderscore	2	42	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen400	2	8	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+md5	2	6	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+mm/dd/yyyy	2	4	https://api.swaggerhub.com/apis/ums-dev/HOTSTAR-UM-COMPOSITE/0.0.1
+name	2	17	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+phone_number	2	3	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+real	2	2	https://api.swaggerhub.com/apis/MitchellBurton/WXTiles/v0
+rfc3986	2	44	https://api.swaggerhub.com/apis/kfolinus-endava/wam-left_shark_consumer_portal_api_documentation/1.2.4
+seconds	2	7	https://api.swaggerhub.com/apis/wenbo-lotusflare/subscription-manager/1.0.0
+short	2	14	https://api.swaggerhub.com/apis/RedRoof/RediStayApi/v1
+small	2	2	https://api.swaggerhub.com/apis/rajeshknigam/Student/1.0.0
+sort[id]=asc	2	4	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+text/xml	2	2	https://api.swaggerhub.com/apis/VolkerZippel/proof-of_concept/1.0.0
+textarea	2	3	https://api.swaggerhub.com/apis/mdsina/selectel-dns/1.0.0
+time-span	2	7	https://api.swaggerhub.com/apis/Mithardir/merz-project_84_test/v1
+timezone	2	2	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+uint	2	5	https://api.swaggerhub.com/apis/wthiti/Cazzme/1.0.0
+unix_timestamp	2	6	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
+utc-millisec	2	10	https://api.swaggerhub.com/apis/midoblgsm/serviceBroker/1.0
+utf-8	2	10	https://api.swaggerhub.com/apis/kfolinus-endava/wam-left_shark_consumer_portal_api_documentation/1.2.4
+uuid4	2	5	https://api.swaggerhub.com/apis/darkspark/image-service/1.0.0
+varchar 10	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 100	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 12	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 128	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 20	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 25	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 250	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 255	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 30	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 50	2	21	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 60	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 64	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 9	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+yes | no	2	2	https://api.swaggerhub.com/apis/krachman/appmixer-components/1
+yyyy-mm	2	4	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
+yyyy-mm-dd hh:ii:ss	2	10	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+yyyy-mm-ddThh:MM:ssZ	2	2	https://api.swaggerhub.com/apis/lcfrs/planet.v0.test/v0
+#$ref/definitions/Calculator.subtract.params	1	1	https://api.swaggerhub.com/apis/fboranek/calculator-example/1.0.0
+%d-%m-%y:%M-%h	1	2	https://api.swaggerhub.com/apis/kyzi007/iac-billing/1.0.0
+(+7)9091234567	1	5	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
++ve	1	11	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+-180 до 180 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+-90 до 90 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+/\A\h{40}\z/	1	1	https://api.swaggerhub.com/apis/nepalez/Gero/0
+/^(?:[a-zA-Z0-9]{4}-?){4}$/	1	1	https://api.swaggerhub.com/apis/pulsedns/PulseDNS/1.0.0
+/root/path/to/application	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+/wiki/{article-id}	1	1	https://api.swaggerhub.com/apis/rj-jesus/makerlab/0.0.1
+0	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+0 -> 100	1	5	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+0 or 1	1	2	https://api.swaggerhub.com/apis/rohit.menon/Adminder-Web/1.0.0
+0-255	1	1	https://api.swaggerhub.com/apis/paulmandal/led-control-api/0.0.1
+0/1/2/3	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+0000-00-00 00:00:00	1	4	https://api.swaggerhub.com/apis/stephan.reins/storefronts/1.0.0
+00000	1	1	https://api.swaggerhub.com/apis/dianacerra0901/registro-unico_services/2.0.2
+0909999999	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+0|1|2	1	4	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+1 or 0	1	1	https://api.swaggerhub.com/apis/brainsolutions/AnnaWebApi/1.0
+1,2,3	1	1	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+1-2147483647	1	1	https://api.swaggerhub.com/apis/pulsedns/PulseDNS/1.0.0
+1-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+1.0, 9.6.41	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+10 Digits	1	9	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+123456789012|1234567890123456	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+123@abc	1	1	https://api.swaggerhub.com/apis/baljeet.singh/login/1.0.0
+13-letter id	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+14-letter id	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+1452736523	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+1990-01-10	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+1=visible, 0=hidden, -1=pending deletion	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+1|2|3...	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+2-letter ISO country code	1	1	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+200000	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+2015-05-15	1	2	https://api.swaggerhub.com/apis/jakubk/BCM-xG/1
+2016-12-31 21:00	1	8	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+2016-12-31 21:00:00.344000	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+2017-03-10T09:12:33.001Z level: type: integer form...	1	1	https://api.swaggerhub.com/apis/SnehansuBhuyan/Test/1.0.0
+24/12/2017	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+3-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+3-letter currency code, lower case	1	1	https://api.swaggerhub.com/apis/paulmandal/ads-api/1.0.0
+3-letter state code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+31/12/2017	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+32 characters	1	1	https://api.swaggerhub.com/apis/AIRMAP-kevin/user/0.0.2
+3411	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+4 Digits	1	4	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+4-digit Australian postcode	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+408 character string.	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+450 character string.	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+48 bit MAC address	1	2	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+5	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+5 Digits	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+5-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+5.90	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+50	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+5322905523	1	1	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+581cefbcassdfffabad8b8aded0.jpg	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+581cefbcf577abad8b8adea4181	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+581cefbcf577abad8b8adea4182	1	5	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+58337137f577ab5c3ffea8eb	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+5|10...	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+657364819919284.jpg	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+77788666622211	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+8	1	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+9-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+9011xxx	1	4	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+<<Name of doc| Profile | username>> and no_answers...	1	1	https://api.swaggerhub.com/apis/art/get_discussion/v1
+<=2	1	1	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+<categoryid> or <categoryname>	1	1	https://api.swaggerhub.com/apis/LakanaEngineering/Lakana_RESTful_API_V2.13/2.13
+?	1	3	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+A	1	1	https://api.swaggerhub.com/apis/ttkdroid/Test/1.0.0
+A value returned from message-view-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+AND OR What...	1	4	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+ARRAY	1	4	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+ASC or DESC in uppercase	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+ASC,DESC	1	4	https://api.swaggerhub.com/apis/mohanasrinivasan/RentSher/v1
+Alias room sample	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Any string	1	2	https://api.swaggerhub.com/apis/fabianandres/ehb-api_definition/1.0.0
+BSON ObjectID	1	1	https://api.swaggerhub.com/apis/mlipson/title2/1.0.0
+BSON objectID	1	5	https://api.swaggerhub.com/apis/mlipson/title2/1.0.0
+Base64 encoded	1	1	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+Basic xxxx	1	1	https://api.swaggerhub.com/apis/timfogarty-deluxe/SferaSAP/1.0.0
+Basic: base64 encode	1	1	https://api.swaggerhub.com/apis/sparklemotion/snap-story_v_2_for_android/2.0.0
+Bearer zasxcd123qwerf	1	18	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+Boolean	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+Bronze, Silver, Gold, Platinum	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+CHART	1	1	https://api.swaggerhub.com/apis/liang3404814/lc-lelab/3.0.0
+Capitalized boolean	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Cash, Z8, Poynt	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+ChargeModeType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ChargePointType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ChargingFacilityType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ConnectorStandard	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+Cool party	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Credit, Redeem	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+DATE,PRICE,RELAVANCE	1	4	https://api.swaggerhub.com/apis/mohanasrinivasan/RentSher/v1
+DESC (or ASC?)	1	1	https://api.swaggerhub.com/apis/anson/Testing3/0.0.1
+DM100151743	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+DMSP3603,DMSP3602	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+Date ISO-8601	1	7	https://api.swaggerhub.com/apis/danielkonimbo/Konimbo/1.0.0
+Datetime	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+Datetime ISO 8601	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Descriptive text for policy violation	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+Dmitry	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Double	1	8	https://api.swaggerhub.com/apis/amira123456/experiment-createdpredictive_exp/2.0
+E.164	1	3	https://api.swaggerhub.com/apis/mayboroda/smart-connector-backoffice/1
+ETSI, ENUM, NOT, DONE	1	27	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+Email	1	1	https://api.swaggerhub.com/apis/njrasser/test/1.0.0
+Employee	1	1	https://api.swaggerhub.com/apis/alexzaitzev/stages/1.0.0
+Enumeration name	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+Free/Basic/Plus	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+GMT Timestamp	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+HEX	1	1	https://api.swaggerhub.com/apis/antonfos/ics/1.0.0
+HLS	1	1	https://api.swaggerhub.com/apis/happyesthete/channel-services_api/2.7.0
+HTML	1	1	https://api.swaggerhub.com/apis/DanskSupermarked/PublicAPIs/1
+HTTPS Image URL	1	4	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Hex RGB	1	3	https://api.swaggerhub.com/apis/dept/urfu/0.0.0
+IATA code of airport	1	2	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+IBAN	1	1	https://api.swaggerhub.com/apis/Chetana14/IBANNameCheck/1.0.0
+ID or Email	1	1	https://api.swaggerhub.com/apis/rayhan/employee-app_api/1.0.0
+IMSI	1	6	https://api.swaggerhub.com/apis/c9katayama/SORACOM/20160405
+IPv4 IP address	1	1	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+IPv4 address	1	2	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+IPv4 based subnet	1	1	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+ISO	1	1	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+ISO 4217	1	2	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ISO 8601 duration	1	1	https://api.swaggerhub.com/apis/amilos/Entitlements/v1
+ISO-2	1	5	https://api.swaggerhub.com/apis/mayboroda/smart-connector-backoffice/1
+ISO-639	1	1	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+ISO-8601 Date format YYYY-MM-DDTHH:mm:ss	1	4	https://api.swaggerhub.com/apis/chench/aggiefeed/1.0.0
+ISO-8601 time (HH':'mm':'ss.FFFFFFF)	1	2	https://api.swaggerhub.com/apis/stefanraffeiner/homeaway-hsapi_swagger_definition/10
+ISO-9362	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ISO4217	1	3	https://api.swaggerhub.com/apis/iliya/Currencies/1.0.0
+ISO8061	1	2	https://api.swaggerhub.com/apis/kuindji.quantomic/ssocial/1.0.0
+ISO_3166-1_alpha-2	1	3	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+Initials Firstname Lastname	1	1	https://api.swaggerhub.com/apis/DBiT/larbiz/v0
+JWT Token	1	3	https://api.swaggerhub.com/apis/MatusMaterna/Intranet/1.0.0
+JWT token	1	1	https://api.swaggerhub.com/apis/MatusMaterna/Intranet/1.0.0
+Jackson	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Kozyrev	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lat:Lng	1	3	https://api.swaggerhub.com/apis/grishkov.mn/Claris.Map/1.0.0
+Lenght<128 (Великолепно)	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lenght<256 (Все было весело)	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lenght<256 (Не, было по-другому)	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Light, Dark	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Long	1	1	https://api.swaggerhub.com/apis/vignesh_a/firstDataAPI/3.0.0
+Lowercase alphanumeric	1	3	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+MAC	1	4	https://api.swaggerhub.com/apis/manciniadriano/ENERGIS/1.0.0
+MCC from Enum	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+MD5	1	1	https://api.swaggerhub.com/apis/devtest/EmployBridge/1.0.0
+MM-YYYY	1	1	https://api.swaggerhub.com/apis/lmaderuelo/hbRestAPI/1.0.0
+MM/DD/YYYY	1	5	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+MM/DD/YYYY hh:mm	1	1	https://api.swaggerhub.com/apis/ajeets1971/VirtualDriveThru/1.0.0
+MM/DD/YYYY hh:mm TT	1	2	https://api.swaggerhub.com/apis/ajeets1971/VirtualDriveThru/1.0.0
+Michael	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+My comment	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+My room name	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+NAF code from Enum	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+Not specified...	1	6	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+Number	1	1	https://api.swaggerhub.com/apis/pattch/OrgDB/1.0.0
+ObjectId	1	1	https://api.swaggerhub.com/apis/ejvinotto/FirstDraft/1.0.0
+ObjectId ('581cefbcf577abad8b8a4eа3')	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+ObjectId ('581cefbcf577abad8b8aded0')	1	21	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+ObjectId ('58337137f577ab5c3ffea8eb')	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+One of the values from preview-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+One of the values from trigger-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+PONG	1	1	https://api.swaggerhub.com/apis/bynd.markosamuli/healthcheck/1.0.0
+Party documentation description	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Party documentation sample	1	7	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Plain Text	1	1	https://api.swaggerhub.com/apis/ok200/FLZ/1.0.0
+Planning	1	1	https://api.swaggerhub.com/apis/jakubk/BCM-xG/1
+PlugType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+QAM	1	1	https://api.swaggerhub.com/apis/happyesthete/channel-services_api/2.7.0
+RFC 3986	1	4	https://api.swaggerhub.com/apis/matryer/AuthStar/1.0.0
+SPARQL or SPARQL Update query	1	1	https://api.swaggerhub.com/apis/keski/rest-spin/1.0.0
+Security	1	1	https://api.swaggerhub.com/apis/vinnarasu/ncs-marketplace/1.0.0
+Single word hybris key	1	1	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+Sting	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+TABLE	1	3	https://api.swaggerhub.com/apis/liang3404814/lc-lelab/3.0.0
+TECI	1	1	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+TX-{10 Digits}	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Text to put into response body. Omit to let implem...	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+Two letter ISO Language Code	1	7	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+UK Postcode	1	1	https://api.swaggerhub.com/apis/BRupholdt/Mosaic/1.0.0
+UNIX timestamp	1	1	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+URL encoded string	1	5	https://api.swaggerhub.com/apis/keski/rest-spin/1.0.0
+USD	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+UTF-8	1	40	https://api.swaggerhub.com/apis/morfn/self-service_help_admin_api/2.0.0
+UUID for logo picture	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+UUID for signature picture	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+UUID of user that created item	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+UUID of user that modified item	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+UiT + phone_number	1	2	https://api.swaggerhub.com/apis/dianacerra0901/registro-unico_services/2.0.2
+Untitled material databas	1	1	https://api.swaggerhub.com/apis/natellium/material-database/1.0.0
+VarChar(10)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(100)	1	32	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(1000)	1	8	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(15)	1	12	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(20)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(200)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(250)	1	1	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(50)	1	6	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(500)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(75)	1	10	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+Visa, Discover, Mastercard	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+WBR_RR/SuppliersPortalAdmin	1	4	https://api.swaggerhub.com/apis/Wildberries/DocumentsStorage/1.2.1
+WILDBERRIES\the.username	1	4	https://api.swaggerhub.com/apis/Wildberries/DocumentsStorage/1.2.1
+XX	1	3	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+XX/XX	1	1	https://api.swaggerhub.com/apis/Avizacherman/dibs-api/2.0.0
+XXXX-XXXX	1	1	https://api.swaggerhub.com/apis/ttkdroid/Test/1.0.0
+Y	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+Y-m-d	1	2	https://api.swaggerhub.com/apis/qup-dev/admin3-api/1.0.0
+YYYY-MM-DD HH:MM:SS	1	3	https://api.swaggerhub.com/apis/jakerator/tracker_api/1.0.0
+YYYY-MM-DD hh:mm:ss	1	4	https://api.swaggerhub.com/apis/yates009/IRE/1.2
+YYYY-MM-DDTHH:MM:SSZ	1	8	https://api.swaggerhub.com/apis/diegofguillen/localSports/1.0.0
+YYYY-MM-DDThh:mm:ss.sTZD	1	1	https://api.swaggerhub.com/apis/drakkar/AuditTrail/1.0.0
+YYYY-MM-DD_HH24:MI:SS	1	9	https://api.swaggerhub.com/apis/paulredmond79/i-q_sonar_se_rest_api/2017-01-25.1
+YYYY-MM-DDtHH24:MI:SSz	1	1	https://api.swaggerhub.com/apis/AllUnite/all-unite_traffic_api/2.12
+YYYYMM	1	1	https://api.swaggerhub.com/apis/juggerd/cpc/0.0.0
+YYYYMMDD	1	1	https://api.swaggerhub.com/apis/juggerd/cpc/0.0.0
+[0,11] chars. 1/2	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[0,255]	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[1-9][0-9]{9}	1	1	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+[4,45] chars	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[?, 254]	1	6	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+[?,20] chars	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[?,45]	1	3	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+[A-Z]{2}[0-9]{4}	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+[imageName1, imageName2 ..]	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+[min]-[max]	1	11	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+[min]-[max]/[Total]	1	11	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+\d+\.\d+\.\d+	1	1	https://api.swaggerhub.com/apis/patrick.jungermann/cdp.content.data.content-store/1.0.0
+\d{2}:\d{2}	1	8	https://api.swaggerhub.com/apis/benoit.c/APIFrontBackStation/0.0.2
+\d{4}-\d{2}-\d{2}	1	2	https://api.swaggerhub.com/apis/benoit.c/APIFrontBackStation/0.0.2
+^([0-5][0-9]:[0-5][0-9]$	1	5	https://api.swaggerhub.com/apis/p1p3/ReportingAPI/1.0.0
+^([0-9a-zA-Z-]+[\.])+[0-9a-zA-Z-]+$	1	2	https://api.swaggerhub.com/apis/rebel-l/SessionService/0.2.0
+^C\d+$	1	1	https://api.swaggerhub.com/apis/helen/as-rest-api-xml/1.0
+^[0-9]{1,2}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^[0-9]{1,3}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^[\wぁ-んァ-ン一-龠 　]{1,30}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^\d{4}$	1	1	https://api.swaggerhub.com/apis/rlmartin/payment_service/0.1.0
+^\w{1,30}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^ap-northeast-1:[\w-]{36}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^https://s3-ap-northeast-1.amazonaws.com/[\w-/.]{1...	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+abc,122002,122001	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+abcd1234	1	1	https://api.swaggerhub.com/apis/julianohsf/Rapaze/1.0.0
+af7c2f47-f8c0-466d-8b3a-9b158860fba6	1	2	https://api.swaggerhub.com/apis/natellium/material-database/1.0.0
+alarmstate	1	1	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+alpha-2	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ana/luiz/maria	1	2	https://api.swaggerhub.com/apis/estevaolucas/Clubinho/0.0.1
+any	1	1	https://api.swaggerhub.com/apis/jowie/HypeBird/0.1b
+anypassword	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+base58check	1	2	https://api.swaggerhub.com/apis/rodders1991/WineProject/1.0.0
+base64 image	1	1	https://api.swaggerhub.com/apis/DibbsZA/BlockEx/0.0.1
+base64url	1	2	https://api.swaggerhub.com/apis/RobyHyde/recruiting/1.0
+bigint	1	8	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+byte32	1	1	https://api.swaggerhub.com/apis/praveennagpal/reinsurance-contracts_api/1.0.0
+cents	1	1	https://api.swaggerhub.com/apis/paulmandal/ads-api/1.0.0
+character varying	1	264	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+checkbox	1	3	https://api.swaggerhub.com/apis/atmacaberke/Anheuser-Busch/1.0
+clob	1	6	https://api.swaggerhub.com/apis/happysathya/OpenDirectAPI/1.0
+cloudinaryID	1	1	https://api.swaggerhub.com/apis/salockhart/CrapMap/1.0.0
+com.alertdriving.esb.account.Account	1	1	https://api.swaggerhub.com/apis/royzhu/account-system/0.0.1
+comma delimited list of Connect company ids	1	1	https://api.swaggerhub.com/apis/danielcgreen/analyze-api/v1
+crontab	1	1	https://api.swaggerhub.com/apis/vagur/freeely-device_control_and_monitoring_api/0.0.1
+crypted string	1	1	https://api.swaggerhub.com/apis/Fede72/Falesia/1.0.0
+cuc	1	5	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+curie	1	1	https://api.swaggerhub.com/apis/buske/RareConnect/0.1.0
+customer-specific	1	2	https://api.swaggerhub.com/apis/alexswilliams/skillsforge_rde_event_api/0.9
+d/m/y H:i:s	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+date  2011-03-12T00:00:00	1	3	https://api.swaggerhub.com/apis/LakanaEngineering/Lakana_RESTful_API_V2.13/2.13
+date (RFC-3339)	1	4	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+date yyyy-mm-dd	1	2	https://api.swaggerhub.com/apis/bip42/prismacloud/1.0.0
+date-only	1	5	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+date-string	1	1	https://api.swaggerhub.com/apis/Denys/dreamscloud/1.0.0
+date-time(iso8601 with timezone)	1	1	https://api.swaggerhub.com/apis/ethan_lee/sway-ml-py/1.0.0
+date-timestamp	1	5	https://api.swaggerhub.com/apis/lohengrin332/CINC_export/1.0.0
+dateTIme	1	1	https://api.swaggerhub.com/apis/SamuelMcAravey/VendorLink/1.0.0
+dateonly	1	2	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+dates	1	1	https://api.swaggerhub.com/apis/mehdichamouma/awimarket/1.0.0
+datetime (RFC-3339)	1	2	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+dateyyyy-mm-ddThh:mm	1	1	https://api.swaggerhub.com/apis/GatoPresto/credit-the_americas_management_api_mapi/1.0.0-b
+dd-mm-yy	1	1	https://api.swaggerhub.com/apis/wilvergonzalez.delta/meykos/v1
+dd/MM/yy	1	2	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+deciaml	1	1	https://api.swaggerhub.com/apis/huawei.li/rest/1.0.0
+decimal value	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+diman-mich@yandex.ru	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+double for percents, int for units and amount	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+double64	1	1	https://api.swaggerhub.com/apis/kovda/UMKA/1.0.0
+duration literal	1	1	https://api.swaggerhub.com/apis/athind94/Canopi/0.1.0
+email address	1	1	https://api.swaggerhub.com/apis/vvdl/AuthenticationServer/0.1
+email(30)	1	1	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+en-US	1	4	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+enum - CASH - ROLLOVER_401K - WELLS_TRADE_ACCOUNT ...	1	1	https://api.swaggerhub.com/apis/mbedoian/mont/1
+enum - issued - closed - in_manual - in_process - ...	1	1	https://api.swaggerhub.com/apis/megakrutak/zaymer-api/1.0
+enum - monday - tuesday - wednesday - thursday - f...	1	1	https://api.swaggerhub.com/apis/immi/appointments/0.1
+enum -APPROVED -UNAPPROVED	1	1	https://api.swaggerhub.com/apis/angeltooth/hkjc-api_specifications/1.0
+enum value	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum values	1	13	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum values or UUID	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum('1','2','U')	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+enum('Normal', 'Chateado', 'Critico', 'Insatisfeit...	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+enum=['starting', 'started', 'paused', 'finishing'...	1	1	https://api.swaggerhub.com/apis/Mirann/JeFile.Monitor/1.0.0
+enum_name	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enumeration	1	1	https://api.swaggerhub.com/apis/fktpp/ProductsViaTfs/1.0.0
+facebook,vkontakte	1	3	https://api.swaggerhub.com/apis/talaka/api.talaka.user/1.0.0
+fbcf581cefbcf577581cefbcf577abad8b8	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+field1,field2	1	1	https://api.swaggerhub.com/apis/rebel-l/SessionService/0.2.0
+flaot	1	1	https://api.swaggerhub.com/apis/lackneets/vaults/1.0.0
+flloat	1	1	https://api.swaggerhub.com/apis/electrific_wp4/Electrific_CSP_ADAS/0.1.0
+g	1	4	https://api.swaggerhub.com/apis/feymartynov/putinway/0.0.1
+gtin13	1	2	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+hex color code	1	1	https://api.swaggerhub.com/apis/ankobi/PickToLightControl/1.0.0
+hex_color	1	2	https://api.swaggerhub.com/apis/ninjudd/yarn/1.0.0
+hexadecimal without pound sign	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+host	1	1	https://api.swaggerhub.com/apis/helen/mock-test/1.0
+hour	1	2	https://api.swaggerhub.com/apis/rubendura/Hypit/v2.0.0
+hours	1	1	https://api.swaggerhub.com/apis/rikeshkarki/Airlines/1.0.0
+hstore	1	8	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+http address	1	4	https://api.swaggerhub.com/apis/ankobi/PickToLightControl/1.0.0
+https://api.app-eventa.com/media/avatars/581cefbcf...	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://api.app-eventa.com/media/covers/9140845298...	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://google.com	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://google.com/pic.jpg	1	7	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+iban	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ican	1	1	https://api.swaggerhub.com/apis/alyen/pts6_wherehouse/1.0.0
+icao	1	3	https://api.swaggerhub.com/apis/fabersolutions/flightSchedule/1.0.0
+in64	1	1	https://api.swaggerhub.com/apis/sune/Legatbogen/1.0.0
+int 32	1	1	https://api.swaggerhub.com/apis/manl/PC-Core-REST-API/1.0.0
+int.	1	1	https://api.swaggerhub.com/apis/davidwtf/IaaSOS/v1
+int128	1	4	https://api.swaggerhub.com/apis/oMittens/ni-database/1.0.0
+int17	1	1	https://api.swaggerhub.com/apis/guilhermehahn/buscaDadosBeneficiario/1.0.0
+int2	1	2	https://api.swaggerhub.com/apis/skulzer/Test/1.0.0
+int255	1	1	https://api.swaggerhub.com/apis/hrawal/Test/1.0.0
+int3	1	4	https://api.swaggerhub.com/apis/Kelhen/bluebox-oic_services/1.0.0
+int32	1	1	https://api.swaggerhub.com/apis/andix25/LAG/1.0.0
+int32`	1	1	https://api.swaggerhub.com/apis/tonyt1/RoboSim/1.0.0
+int63	1	1	https://api.swaggerhub.com/apis/davidwudv/kugou_user_assets/0.9.4
+int64 required:true	1	1	https://api.swaggerhub.com/apis/lucksonmachaya/Client/1.0.0
+int92	1	1	https://api.swaggerhub.com/apis/lauriChu/PropertyCross_ApI/1.0.0
+intMin0Max21845	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+intMin0Max65535	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+integer 0-600	1	1	https://api.swaggerhub.com/apis/kdhamric/crossbrowsertesting-com_live_tests_api/3.0.0
+integer or string	1	1	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+integer/float	1	13	https://api.swaggerhub.com/apis/danielkonimbo/Konimbo/1.0.0
+integerMin0Max60000000	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+integet	1	1	https://api.swaggerhub.com/apis/x31forest/LINSI/1
+interger	1	1	https://api.swaggerhub.com/apis/mchurakou/world-shop_api/1.0
+intt32	1	1	https://api.swaggerhub.com/apis/ashrafk/ahs-apis/1.6.4
+ip address	1	1	https://api.swaggerhub.com/apis/alexphi/CertificationAPI/1.0.0
+ipaddress	1	5	https://api.swaggerhub.com/apis/apollo17march/api-for_debugger_built_for_remote_instances_of_scrapper/0.0.1
+iso	1	2	https://api.swaggerhub.com/apis/bart.goormans/tct_selligent_customer/1.0.0
+iso-4217	1	2	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+iso-4217-alpha	1	1	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+iso8601 datetime	1	4	https://api.swaggerhub.com/apis/rikeshkarki/Airlines/1.0.0
+issn code	1	2	https://api.swaggerhub.com/apis/ppKrauss/issnl-resolver/1.0.0
+jsonb	1	6	https://api.swaggerhub.com/apis/analia.garciain/Eventos/1.0.0
+jsoon	1	1	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+key	1	2	https://api.swaggerhub.com/apis/Enketo/enketo-express-oc-account-manager/1.0.0
+label	1	1	https://api.swaggerhub.com/apis/kinlane/API/v1
+language code	1	3	https://api.swaggerhub.com/apis/domenik.antosch/SitecoreProspects/1.0.0
+language-map	1	1	https://api.swaggerhub.com/apis/shield-9/minerva-api/0.1.0
+latitude,longitude	1	1	https://api.swaggerhub.com/apis/theSuess/openspotmap/v0
+link	1	3	https://api.swaggerhub.com/apis/geekyapi/sample_api/1.0.0
+list	1	1	https://api.swaggerhub.com/apis/guillaumeo/febreze-home_hackathon_api/1.0
+localdate	1	5	https://api.swaggerhub.com/apis/sune/Legatbogen/1.0.0
+longint	1	1	https://api.swaggerhub.com/apis/akulshin/Drova_server_POC/1.0.0
+longtext	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+mac	1	1	https://api.swaggerhub.com/apis/fifco/api-trackend/1.0.0
+male/female	1	1	https://api.swaggerhub.com/apis/Denys/dreamscloud/1.0.0
+manual (hmc order) OR custom (specific set of rule...	1	5	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+map	1	2	https://api.swaggerhub.com/apis/kanxg/test/1.0.0
+mediumint 9	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+meters	1	1	https://api.swaggerhub.com/apis/theSuess/openspotmap/v0
+mime	1	1	https://api.swaggerhub.com/apis/shield-9/minerva-api/0.1.0
+mongoID	1	1	https://api.swaggerhub.com/apis/salockhart/CrapMap/1.0.0
+name of field to sort	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+natural	1	2	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+newpassword	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+not required	1	1	https://api.swaggerhub.com/apis/dipakmali/Prompto_api/1.1.0
+null	1	4	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+numbers	1	1	https://api.swaggerhub.com/apis/SarfarazAlam/LCExchangeDesktop/1.0.0
+object-id	1	2	https://api.swaggerhub.com/apis/seangallavan/config/0.0.1
+objectId:Explorer	1	1	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+objectId:Tip	1	1	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+oldpassword	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+opaque	1	14	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+optional/required	1	2	https://api.swaggerhub.com/apis/momin_aadil/Orbango_Api/1.0.0
+pasword	1	2	https://api.swaggerhub.com/apis/estevaolucas/Clubinho/0.0.1
+percent	1	2	https://api.swaggerhub.com/apis/Cryowatt/LendingClubAPI/v1
+phonenumber	1	1	https://api.swaggerhub.com/apis/badbod99/LMS-Mobile-API/1.0.0.0
+positive integer	1	3	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+precision	1	1	https://api.swaggerhub.com/apis/thehe/SalesViewer/1.0.0
+readonly	1	2	https://api.swaggerhub.com/apis/dengit/Curriculum/3.1.1
+referenced capability ID	1	1	https://api.swaggerhub.com/apis/shirisha/CapabilityTest/1.0.0
+regexp	1	1	https://api.swaggerhub.com/apis/ponelat/ALotOfDotComs/0.0.2
+relative URL to mapping	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+rgb	1	1	https://api.swaggerhub.com/apis/repitch/Croco/1.0.0
+selector	1	4	https://api.swaggerhub.com/apis/wuxiuchao/VPC-SBI/0.1.0a
+serial	1	1	https://api.swaggerhub.com/apis/benscoterbk/getProgramByLoc/1.0.0
+sha1	1	5	https://api.swaggerhub.com/apis/pekebuda/test/1
+short-date	1	1	https://api.swaggerhub.com/apis/pchipman/SmallGroupEnrollment/1.0.0
+sid	1	19	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+smallint	1	1	https://api.swaggerhub.com/apis/stafot/ExchangeRates/0.1
+softwared.d	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+station	1	4	https://api.swaggerhub.com/apis/h0rnyc0rny/Test/1.0.0
+strin	1	1	https://api.swaggerhub.com/apis/Colbap/Liveboards/1.0.0
+string(20)	1	4	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+string(30)	1	1	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+string-time	1	3	https://api.swaggerhub.com/apis/timhilco/UdpPersons/1.0.0
+stringt	1	1	https://api.swaggerhub.com/apis/continuumsecurity/IriusRisk/1
+success	1	1	https://api.swaggerhub.com/apis/davidboy/ChoirMaster/0.0.2
+svg	1	1	https://api.swaggerhub.com/apis/nuge88/maps-4_news_api/0.1
+tel	1	2	https://api.swaggerhub.com/apis/aspdoctor/web-api/0.1.0
+text/plain	1	2	https://api.swaggerhub.com/apis/Vagas3D/vagas3d-api/1.0.0
+time (RFC-3339-like)	1	2	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+time-bucket	1	2	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+time-data	1	1	https://api.swaggerhub.com/apis/dejwoo/ECN/0.0.1
+time-date	1	3	https://api.swaggerhub.com/apis/dejwoo/ECN/0.0.1
+time-only	1	3	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+timestamp with time zone	1	4	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+timestamp without time zone	1	68	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+tinyint(1)	1	5	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+token	1	1	https://api.swaggerhub.com/apis/marianosabatucciemerios/Q4P/1.0.0
+true/false	1	1	https://api.swaggerhub.com/apis/grahamhardy/dxGetAbout/1.0.0
+tryte	1	1	https://api.swaggerhub.com/apis/davad/iota-dashboard/1.0.0
+twitter handle	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+uatg	1	1	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+unicode	1	1	https://api.swaggerhub.com/apis/MaelP/ToDo/1.0.0
+unique	1	4	https://api.swaggerhub.com/apis/lieroz/Joking-Hazard/1.0.0
+unix time	1	1	https://api.swaggerhub.com/apis/theoldmoon0602/inspix-server/1.0.0
+unix-timestamp	1	1	https://api.swaggerhub.com/apis/hafster/DeliverIt/1.0.0
+upc	1	1	https://api.swaggerhub.com/apis/benscoterbk/getProgramByLoc/1.0.0
+urlToken	1	8	https://api.swaggerhub.com/apis/zerocaps/zerocaps-test1/0.0.6
+user_email@host.org	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+username	1	1	https://api.swaggerhub.com/apis/zvfvrv/BeWanted/1.0.0
+utf8	1	1	https://api.swaggerhub.com/apis/DibbsZA/ChainTradeAPI/1.0.0
+utl	1	1	https://api.swaggerhub.com/apis/massimilianoregis/dante/1.0.0
+uuid.v4	1	2	https://api.swaggerhub.com/apis/SeiyaMogami/eiyo-tool/1.0.0
+uuidv4	1	5	https://api.swaggerhub.com/apis/pdok/manipulatie/0.3
+uuis	1	1	https://api.swaggerhub.com/apis/gfaieta/CustomerOrder/1.0.0
+valid_json	1	22	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+valid_url	1	4	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+values of CampaignStatus enumeration	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+varchar(1)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(10)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(100)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(128)	1	1	https://api.swaggerhub.com/apis/murvisbit/0AuthApi/1.0.0
+varchar(15)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(20)	1	3	https://api.swaggerhub.com/apis/DeepakBhatia/Test/1.0.0.0
+varchar(200)	1	1	https://api.swaggerhub.com/apis/murvisbit/Login/1.0.0
+varchar(30)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(45)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(70)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar2	1	14	https://api.swaggerhub.com/apis/berniechiu/familymart_vendors/1.0.0
+versionNumber	1	1	https://api.swaggerhub.com/apis/samholder/lines-service/1.4.0
+x.x.x.x	1	1	https://api.swaggerhub.com/apis/sylphlin/host_status/1.0.0
+xml	1	1	https://api.swaggerhub.com/apis/ihartney/oracle-commerce_cloud_service_17_1/2017.02.14
+xxx	1	1	https://api.swaggerhub.com/apis/kaysid/Consumption_Framework/1.0.0
+xxxx	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+xxxx-xx-xx	1	2	https://api.swaggerhub.com/apis/slallana/histogram-api/1.0
+y-m-d	1	3	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+year	1	1	https://api.swaggerhub.com/apis/nksoff/cherry-pick-project-api/0.1.0
+year-month-day hout:minute:seconds	1	1	https://api.swaggerhub.com/apis/asikranjm/Playos_Connect/1.0.0
+yes	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+yourmail@hostmail.com	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+yyyy, yyyy-mm, yyyy-mm-dd	1	1	https://api.swaggerhub.com/apis/GatoPresto/credit-the_americas_management_api_mapi/1.0.0-b
+yyyy-MM-dd	1	1	https://api.swaggerhub.com/apis/cyoungmark/LAPI/1.0
+yyyy-MM-dd HH:mm	1	1	https://api.swaggerhub.com/apis/duskov/JIMS/1.0.0
+yyyy-MM-dd'T'HH:mm:ss.SSSZ	1	2	https://api.swaggerhub.com/apis/himapratap/AAP/1.0.0
 yyyy-mm-dd HH:mm:ss	1	2	D:\nodejs\analysis\swaggerhub\kvarts+test@1.0.0.yaml
-yyyyMMddThhmmss	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-yyyymmdd	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-zip	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Великолепно	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Москва	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Россия	1	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-Строка, длиной он 0 до 127	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
+yyyyMMddThhmmss	1	1	https://api.swaggerhub.com/apis/dolice/Parts/1.0.0
+yyyymmdd	1	3	https://api.swaggerhub.com/apis/bart.goormans/tct_selligent_customer/1.0.0
+zip	1	1	https://api.swaggerhub.com/apis/anandhi/document_signer_service/1.0.0
+Великолепно	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Москва	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Россия	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Строка, длиной он 0 до 127	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
