@@ -264,11 +264,6 @@ Device_ID	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 #/definitions/TaydennysHakuohje	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 '90x90' | '195'x'195' | '584'x'584'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 'CallerId' | 'SmsSender'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-'completed={result_url}' : query successfuly processed. You can download results via /jsproxy/schema, /jsproxy/data endpoints
-'fault={error_message}' : error occurred during query proccesing
-'progress={percentage}%; hash={query_hash}' : query is currently processed
-'pending={position_in_queue}; hash={query_hash}' : query is in queue to be processed
-	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ([0-9]+[-])*[0-9]+	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 (format to define)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 +XXAABBCCDDEE	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
