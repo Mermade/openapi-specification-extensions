@@ -139,7 +139,7 @@ custom	2	5	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 data	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 data-time	2	9	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 date-format	2	3	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-date-fullyear"-"date-month"-"date-mday	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
+date-fullyear-date-month-date-mday	2	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 dd-mm-yyyy	2	7	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 dd/MM/yyyy HH24:MI:ss	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 e-mail	2	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
@@ -544,7 +544,7 @@ int17	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int2	1	2	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int255	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int3	1	4	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
-int32"	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
+int32	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int32`	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int63	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
 int64 required:true	1	1	https://api.swaggerhub.com/apis/zen4ever/public-api/1.0
