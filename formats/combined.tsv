@@ -1,147 +1,1221 @@
 format	definitions	instances	example
-int32	830	16591	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-int64	598	9148	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-date-time	560	8824	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-double	315	2133	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-float	151	1833	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-date	140	1201	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-byte	130	681	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-string	105	1925	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uint64	68	720	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uuid	66	808	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-email	64	151	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-password	62	211	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uint32	45	209	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-boolean	44	420	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-google-datetime	38	190	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-integer	37	161	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uri	37	5855	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-url	29	97	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-binary	28	117	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-dateTime	25	259	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-int-or-string	22	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-json	21	36	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uint16	19	68	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-duration	15	154	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-ip-address	14	14	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-google-duration	13	28	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-int	11	31	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-datetime	8	12	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-google-fieldmask	8	26	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-local-date-time	6	12	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uint8	6	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-date-time-rfc1123	5	825	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-identityref	5	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-inet:uri	5	27	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-leafref	5	160	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-long	5	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-number	5	23	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-enumeration	4	18	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-id	4	77	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:description	4	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:password	4	100	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:access-role	4	100	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:unique-identifier	4	143	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-yang:date-and-time	4	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-ISO-8601	3	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-URL	3	7	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-UUID	3	39	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-YYYY-MM-DD	3	15	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-array	3	5	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-float32	3	12	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-ipv4	3	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-semver	3	32	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:isolation	3	18	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-/^(\d+\.)?(\d+\.)?(\*|\d+)$/	2	37	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-DateTime	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Example: Bearer <token>	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-JSON	2	61	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-String	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-as returned by /charts	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-attributeID=value	2	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-base64	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-byte array	2	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-date-format	2	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-date-time-time	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-google	2	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-guid	2	7	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-includefield=attributeID	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-label	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-latitude,longitude	2	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-phone	2	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-short	2	22	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-svg	2	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:flow-identifier	2	43	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-yyyy-mm-ddThh:MM:ssZ	2	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-...	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-CVE-YYYY-NNNN	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-CombinationID	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Empty string if true	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Eurobetrag	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Format	1	1	D:\nodejs\analysis\defs\node-red@node-red-node-swagger-swagger-locales-en-US-swagger.json.yaml
-GUID	1	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Integer	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Ledger query syntax	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-ObjectId	1	37	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Prozentsatz	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-Standard Thumbnail	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-The extending format for the previously mentioned type.	1	1	D:\nodejs\analysis\defs\node-red@node-red-node-swagger-swagger-locales-en-US-swagger.json.yaml
-Y-m-d	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-YYYY	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-[0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-| delimited field names	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-| delimited integers	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-| delimited model names	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-bin	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-cisco-sa-XXX	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-command separated list	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-composite	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-countrycode	1	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-csv	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-dd/mm/yyyy	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-decimal	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-doube	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-double location.	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-enum	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-extid	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-float64	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-full-date	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-hostname	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-id64	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-int12	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-int16	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-key-value pairs	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-language-map	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-latitude	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-locale	1	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-longitude	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-markdown	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-mask	1	4	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-md5sum	1	14	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:email-address	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:meta-identifier	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:person-name	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:phone-number	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-meta:timezone	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-mime	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-mmddyyyy	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-mode-identifier	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-n/a	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-route-handler	1	11	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-slug	1	8	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-special_encoded	1	1	D:\nodejs\analysis\defs\mission-liao@pyswagger-pyswagger-tests-data-v2_0-schema-extension-swagger.json.yaml
-spectral hash	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-subscriber-outflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-textarea	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-time	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-timezone	1	3	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uid	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-uint	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-vsg:subscriber-inflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-vsg:subscriber-outflow	1	10	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:mac-address	1	16	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-xtype:network-identifier	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-yang:yang-identifier	1	6	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-yearmonth	1	1	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
-zip	1	2	https://raw.githubusercontent.com/wso2/carbon-apimgt/master/components/apimgt/org.wso2.carbon.apimgt.core/src/test/resources/swagger.json
+int32	21845	174879	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+int64	12780	135194	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+date-time	10125	57036	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+uuid	6587	15091	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+url	5058	5945	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-machinelearning/2016-05-01-preview/swagger/webservices.json
+double	4100	39398	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+date	2202	15518	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-mobileengagement/2014-12-01/swagger/mobile-engagement.json
+float	1563	9049	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-sql/2014-04-01/swagger/sql.core.json
+string	1177	12200	http://zappiti.com/api/zappiti-player-4k/swagger/swagger.yaml
+byte	784	2243	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-mobileengagement/2014-12-01/swagger/mobile-engagement.json
+uri	763	10974	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-mobileengagement/2014-12-01/swagger/mobile-engagement.json
+password	745	1198	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-servermanagement/2016-07-01-preview/swagger/servermanagement.json
+email	677	1356	https://developer.citrixonline.com/sites/default/files/citrix/citrix-apis/gotoassistseeit.json
+integer	545	3657	https://uebermaps.com/api/v2/apidocs
+binary	284	637	https://raw.githubusercontent.com/kevinoid/appveyor-swagger/master/swagger.yaml
+JSON	244	18441	https://raw.githubusercontent.com/yantrashala/gulp-loopback-swagger-validator/master/test/generatedCode.json
+dateTime	242	1252	https://firefox.settings.services.mozilla.com/v1/__api__
+uint64	236	1348	https://www.googleapis.com/discovery/v1/apis/youtubeAnalytics/v1beta1/rest
+int	197	1219	http://api.docs.import.io/schedule/swagger.json
+boolean	183	1026	https://raw.githubusercontent.com/zicar123/NLog/master/documentation/ApiDescription.yaml
+	182	16144	https://raw.githubusercontent.com/zhangkailikelly/CSVA/master/csvajianguan/api/test.json
+datetime	137	551	http://apidoc.apacta.com/swagger.yaml
+decimal	125	3364	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-commerce/2015-06-01-preview/swagger/commerce.json
+uint32	119	656	https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest
+json	103	300	https://watchful.li/api/v1/api-docs/
+long	91	562	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-mobileengagement/2014-12-01/swagger/mobile-engagement.json
+int-or-string	82	82	https://raw.githubusercontent.com/yiqinguo/kubernetes-annotation/master/federation/apis/openapi-spec/swagger.json
+text	79	267	https://raw.githubusercontent.com/weching/swagger-files/master/automation/yaml/AllElementsSwagger-go.yaml
+duration	77	396	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/insights/2016-03-01/swagger/insightsClient_MetricDefinitions.json
+bytes	72	833	https://raw.githubusercontent.com/zlpcrmm/fabric/master/core/rest/rest_api.json
+number	71	821	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+T	60	64	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/vscommerce.json
+google-datetime	59	282	https://youtubereporting.googleapis.com/$discovery/rest?version=v1
+time	54	363	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Guilherme-Isidoro/master/CMO/docs/CMO%20requests.yaml
+int16	48	175	https://raw.githubusercontent.com/yourapiexpert/restify-template/master/003%20Endpoints/specs/swagger.yaml
+guid	45	283	https://raw.githubusercontent.com/solidbrackets/appconfig_api_nodejs/master/swagger/swagger.json
+URL	37	75	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/test/resources/fixtures/api_spa.yaml
+UUID	35	148	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/string_formats.yaml
+array	31	57	https://raw.githubusercontent.com/xibosignage/xibo-cms/master/web/swagger.json
+date-time-rfc1123	31	2188	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-iothub/2016-02-03/swagger/iothub.json
+phone	27	44	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+uint16	27	144	https://raw.githubusercontent.com/wxiaof2005/Docker/master/api/swagger.yaml
+base64	25	45	https://raw.githubusercontent.com/Xilef09/hackernewsASW/master/api/api.yaml
+id	25	221	https://raw.githubusercontent.com/VirlanValentin/WADe_UReR/master/swagger_final.yaml
+file	24	52	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Erick-Lopes/master/Perfc-Swagger-doc.yaml
+varchar	24	378	https://raw.githubusercontent.com/Karthik45/HerokuApp/master/api/swagger.yaml
+YYYY-MM-DD	22	63	https://raw.githubusercontent.com/sittor/back/master/swagger/result.json
+timestamp	22	75	https://raw.githubusercontent.com/Turnierserver/Turnierserver/master/Frontend/api.yaml
+as returned by /charts	21	95	https://raw.githubusercontent.com/ywx217/docker-netdata/master/netdata/web/netdata-swagger.yaml
+DateTime	19	55	https://raw.githubusercontent.com/swapnanildeb/raml-testing/master/blockapps-docs/blockapps-docs/dist/swagger.json
+google-duration	19	40	https://safebrowsing.googleapis.com/$discovery/rest?version=v4
+ip-address	18	18	https://raw.githubusercontent.com/wxiaof2005/Docker/master/api/swagger.yaml
+ipv4	18	63	https://raw.githubusercontent.com/sendgrid/sendgrid-oai/master/oai.json
+base64url	17	68	https://raw.githubusercontent.com/wangf1/hello-world/master/NorthwindODataV4_OpenAPI.json
+int8	17	176	https://raw.githubusercontent.com/swe-zzf/docker-crane/master/doc/api/v1/api-doc.yaml
+uid	17	92	https://raw.githubusercontent.com/open311/schema-validation/master/schema/georeport-v2/swagger.json
+uint8	17	25	https://raw.githubusercontent.com/youarebee/server/master/html/js/api.json
+any text	16	75	https://raw.githubusercontent.com/ywx217/docker-netdata/master/netdata/web/netdata-swagger.yaml
+A string containing the base currency and quote cu...	15	69	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+Int32	15	101	https://raw.githubusercontent.com/rafael-pinho/docker-examples/master/docker-compose/tdc-sampa-2016-devops-java/node-api/configuration/swagger.json
+enum	14	101	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+isbn	14	27	https://raw.githubusercontent.com/luxe-eng/koa-spec/master/test/data/query_parameter_string_isbn.yaml
+A decimal number encoded as a string. The amount o...	13	93	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+A string conforming to RFC 3339 (https://tools.iet...	13	212	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+Signed 32-bit integer	13	42	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/Tenant.json
+Stream	13	35	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcessTemplate.json
+http status code	13	26	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/Tenant.json
+yyyy-mm-dd	13	106	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+A decimal number encodes as a string. The amount o...	12	112	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+array (string)	12	47	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+float32	12	59	http://support.beanstream.com/restapi/swagger.json
+hostname	12	18	https://raw.githubusercontent.com/sendgrid/sendgrid-oai/master/oai.json
+integer32	12	43	https://raw.githubusercontent.com/snowygaming/artspace-api/master/swagger.json
+String representation of the numerical OANDA-assig...	11	272	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+currency	11	32	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/quotations.yaml
+google-fieldmask	11	49	https://spanner.googleapis.com/$discovery/rest?version=v1
+path	11	15	https://raw.githubusercontent.com/Wei1234c/dockerfiles/master/ARMv7/notebook/notebook/services/api/api.yaml
+svg	11	11	https://raw.githubusercontent.com/swapnanildeb/raml-testing/master/blockapps-docs/blockapps-docs/dist/swagger.json
+xss-token	11	171	https://raw.githubusercontent.com/XiaChen2016/expense-tracker/master/Documents/TrackrAPI(2.1).json
+String	10	27	https://raw.githubusercontent.com/yolanda6/test/master/courseAPI-4.json
+date-format	10	48	https://watchful.li/api/v1/api-docs/
+jwt	10	16	https://api.swaggerhub.com/apis/Vivien/users-api/1.0.0
+A decimal number encoded as a string. The amount o...	9	94	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+YYYY-mm-dd	9	13	https://raw.githubusercontent.com/microKettle/kettle-frontdesk/master/swagger.yaml
+csv	9	86	https://raw.githubusercontent.com/SnapMD/virtualcare-api-docs/master/spec/swagger.yaml
+object	9	37	https://raw.githubusercontent.com/GorillaArm/adviewers-backend/master/storage/docs/api-docs.json
+required	9	360	https://api.swaggerhub.com/apis/shashikant_prodio/CURBSIDE_API/1.0.1
+???	8	8	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/hackweek.yaml
+Date	8	14	https://raw.githubusercontent.com/xtraclabs/appreg/master/api/swagger.yaml
+ISO 8601	8	32	https://raw.githubusercontent.com/BristechSRM/sessions-deprecated/master/Sessions/api.json
+URI	8	13	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+YYYY	8	8	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+data-time	8	16	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/examples/nakadi.yaml
+full-date	8	36	https://raw.githubusercontent.com/JenaStark/SwaggerAPI/master/swagger.yaml
+hex	8	19	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+mask	8	164	https://raw.githubusercontent.com/peircechow/peircechow.github.io/master/scripts/swagger_to_markdown/swagger.json
+CVE-YYYY-NNNN	7	14	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+JContainer	7	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+JTokenType	7	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TimeSpan	7	18	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Utilization.json
+bool	7	9	https://raw.githubusercontent.com/eSteemApp/steemapi/master/swagger.json
+cisco-sa-XXX	7	14	https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml
+ip	7	23	https://raw.githubusercontent.com/ServerChef/serverchef-system-helpers/master/swagger/api.yaml
+mail	7	7	https://api.swaggerhub.com/apis/yehuda/kodak-api/1.0.1
+objectid	7	59	https://raw.githubusercontent.com/PokeSec/EPManage/master/Management-API.yaml
+time-date	7	19	https://raw.githubusercontent.com/ubirch/ubirchApiDocs/master/swaggerDocs/ubirch/chain_service/1.0/ubirch_chain_service_api.yaml
+yyyy-mm-ddThh:MM:ssZ	7	8	https://raw.githubusercontent.com/nmdanny/perservant-loans/master/assets/swaggerPersonAPI.json
+/^(\d+\.)?(\d+\.)?(\*|\d+)$/	6	111	https://raw.githubusercontent.com/stjosephcontent/app-registry/master/services/nodejs/api/swagger/swagger.yaml
+GUID	6	12	https://raw.githubusercontent.com/BrightstarDB/BrightstarDB/master/src/core/BrightstarDB.Server.AspNet/assets/swagger.json
+Integer	6	23	https://raw.githubusercontent.com/amadeus-travel-innovation-sandbox/sandbox-content/master/swagger.yml
+JToken	6	6	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Security.json
+The string representation of the OANDA-assigned Or...	6	96	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+The string representation of the OANDA-assigned Tr...	6	82	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+any	6	23	https://raw.githubusercontent.com/mangoWarrior42/itemfinder/master/target/classes/swagger.yaml
+data	6	8	https://raw.githubusercontent.com/AlinaMoskieva/Department/master/target/Department-1.5/WEB-INF/classes/Swagger/swaggerDepartment.yaml
+enumeration	6	22	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+filename	6	18	https://raw.githubusercontent.com/Wei1234c/dockerfiles/master/ARMv7/notebook/notebook/services/api/api.yaml
+hash	6	19	https://api.swaggerhub.com/apis/ums-dev/HOTSTAR-UM/0.0.1
+identityref	6	8	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+inet:uri	6	41	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+integer64	6	17	https://api.swaggerhub.com/apis/lmira/propertyCrossMdpa/1.0.0
+leafref	6	161	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+money	6	21	https://api.swaggerhub.com/apis/wenbo-lotusflare/subscription-manager/1.0.0
+short	6	43	https://raw.githubusercontent.com/syncore/a2sapi/master/a2sapi-swagger.yaml
+uint	6	10	https://raw.githubusercontent.com/open311/schema-validation/master/schema/georeport-v2/swagger.json
+utc-millisec	6	48	http://api.docs.import.io/swagger.json
+A string containing an ISO 4217 currency (http://e...	5	6	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+JWT Tokens	5	5	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/test/resources/fixtures/api_with_toplevel_scope.yaml
+ObjectID	5	179	https://raw.githubusercontent.com/migueloop/mp/master/event-manager/back/api/swagger/swagger.yaml
+Standard Thumbnail	5	5	https://raw.githubusercontent.com/NYTimes/public_api_specs/master/most_popular_api/most_popular_api_v2.json
+array (int32)	5	13	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+color	5	7	https://raw.githubusercontent.com/peircechow/peircechow.github.io/master/scripts/swagger_to_markdown/swagger.json
+countryCode	5	5	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+date-time-time	5	5	https://raw.githubusercontent.com/ArmRay/Arm_Ray_App/master/swagger_ui/search/api/swagger.yaml
+float64	5	9	https://raw.githubusercontent.com/olebedev/go-tgbot/master/swagger.yaml
+in32	5	10	https://raw.githubusercontent.com/asarium/fs2netd-nodejs/master/public/api/v1/swagger.yaml
+in64	5	5	https://raw.githubusercontent.com/patrick246/webrtcangular/master/swagger.json
+int2	5	16	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Pedro-Velloso/master/swagger.json
+int4	5	13	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Paula-Luisa/master/pkmon.yaml
+int6	5	5	https://api.swaggerhub.com/apis/timskitour/timstest-alfresco-rest-api/1
+int64;	5	10	https://raw.githubusercontent.com/DarkSKull2/careteammodel/master/model/swagger.yaml
+local-date-time	5	10	https://raw.githubusercontent.com/MyPureCloud/purecloud_api_sdk_ruby/master/swagger.json
+locale	5	26	http://learnifier.com/apidocs/learnifier.json
+meta:description	5	9	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+timezone	5	11	http://learnifier.com/apidocs/learnifier.json
+urn	5	18	https://api.swaggerhub.com/apis/rjweeks/securemessage/1.0.0
+uuid4	5	8	https://raw.githubusercontent.com/Turnierserver/Turnierserver/master/Frontend/api.yaml
+Either the Order's OANDA-assigned OrderID or the O...	4	8	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_position.yaml
+HH:MM	4	4	https://raw.githubusercontent.com/axa-azure-deployment/hackzurich2016-axa/master/rest-app/dist/swagger.yaml
+HttpResponseMessage	4	72	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+ISO-8601	4	9	https://raw.githubusercontent.com/zalando/innkeeper/master/swagger.yaml
+ISO8061	4	6	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+Single	4	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Work.json
+XXX-XXXX-XXXX	4	4	https://api.swaggerhub.com/apis/kjh15011/ThingPlug2User/1.0.0
+YYYY-MM-DD-HH-MM-SSSSS	4	8	https://api.swaggerhub.com/apis/kjh15011/ThingPlug2User/1.0.0
+YYYYMMDD	4	14	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger.yaml
+[0-9]{1,3}	4	4	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/avataxbr/transactions-api.json
+address	4	6	https://api.swaggerhub.com/apis/surveylocal/SurveyLocal/1.0.0
+base58	4	8	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+command separated list	4	4	http://recsvm.rummblelabs.com/api-spec/seldon.json
+date_time	4	6	https://raw.githubusercontent.com/ghentlivinglab/Personalized-mobility-information-service-solution-1/master/2015-2016-api-mobiliteitscentrum/swagger.json
+dd/mm/yyyy	4	12	https://raw.githubusercontent.com/ewiener/pace_funding/master/swagger/swagger.json
+epoch	4	10	https://raw.githubusercontent.com/tilosradio/web2-backend/master/restapi/src/main/resources/tilos.yaml
+google	4	8	https://api.apis.guru/v2/swagger.json
+html	4	6	https://raw.githubusercontent.com/6aika/api-paatos/master/paatos.swagger.yaml
+int11	4	16	https://raw.githubusercontent.com/guodont/a-tech-backend/master/docs/swagger-atech-api.yaml
+latitude,longitude	4	6	https://raw.githubusercontent.com/theSuess/openspotmap/master/api/v0/swagger.yaml
+markdown	4	15	https://raw.githubusercontent.com/Welfenlab/tutor-student/master/src/swagger.yaml
+md5	4	8	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Caio-Henrique-Menezes/master/easytrip/docs/ET_swagger.yaml
+meta:password	4	100	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+nested arrays	4	4	https://raw.githubusercontent.com/zalando-incubator/play-swagger/master/swagger-parser/src/test/resources/validations/nested_arrays_validation.yaml
+numeric	4	9	https://api.swaggerhub.com/apis/NyKo24/ms-modele/1.0.0
+regexp	4	7	https://raw.githubusercontent.com/russell/fairy-slipper-migration/master/conversion_files/compute-v2-swagger.json
+udid	4	8	https://raw.githubusercontent.com/VirlanValentin/WADe_UReR/master/swagger_final.yaml
+unixtime	4	17	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/keyvault/2016-10-01/swagger/keyvault.json
+xtype:access-role	4	100	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+xtype:unique-identifier	4	143	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+yang:date-and-time	4	22	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+"-"-delimited string with format "{siteID}-{divisi...	3	75	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+0/1	3	67	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+>0	3	34	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+As stored in database	3	3	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger.yaml
+Bearer token	3	30	https://api.swaggerhub.com/apis/timfogarty-deluxe/SferaSAP/1.0.0
+CLXXXX	3	10	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger.yaml
+CLXXXXX	3	9	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger.yaml
+Float	3	3	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+IMSI	3	18	https://raw.githubusercontent.com/soracom/soracom-sdk-swift/master/Whatever/swagger/api-definition/soracom-api.en.json
+IOU8061	3	3	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+ISO 3166-1 alpha-2	3	4	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+Int64	3	5	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+Signed 16-bit integer	3	15	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.json
+Two letters ISO (de,en)	3	5	https://api.swaggerhub.com/apis/dolice/SitecoreNotifications/1.0.0
+Y-m-d	3	8	http://apidoc.apacta.com/swagger.yaml
+Y-m-d H:i:s	3	5	https://api.swaggerhub.com/apis/warlock121/pelmennaya-api/1.0.0
+^\d+$	3	5	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+application/zip	3	3	https://raw.githubusercontent.com/zagovorichev/swagger-json-collector/master/tests/samples/QtiItem.json
+asc/desc	3	3	https://raw.githubusercontent.com/vitush93/mffun/master/docs/api.yaml
+base58check	3	6	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+base64 image	3	3	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+big number	3	4	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+countrycode	3	9	http://learnifier.com/apidocs/learnifier.json
+date-Time	3	5	https://api.swaggerhub.com/apis/tiscca/GeschaeftsfallApi/v0.1
+extid	3	12	http://learnifier.com/apidocs/learnifier.json
+flow/partner_date:time	3	32	https://raw.githubusercontent.com/bochen2014/swagger-cors-support/master/api/swagger.yaml
+full-date YYYY-MM-DD	3	39	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.json
+id64	3	6	http://learnifier.com/apidocs/learnifier.json
+int1	3	4	https://api.swaggerhub.com/apis/Kelhen/bluebox-oic_services/1.0.0
+int10	3	10	https://api.swaggerhub.com/apis/walker/Tallyfy/1.0.0
+mediawiki	3	3	https://raw.githubusercontent.com/wikimedia/mediawiki-services-restbase/master/v1/citoid.yaml
+name	3	25	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+objectId	3	3	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+percentage	3	3	https://raw.githubusercontent.com/zhuliliang/cloudapi/master/src/main/yaml/quotations.yaml
+phone-number	3	5	https://api.swaggerhub.com/apis/suesse/SupplyOrders/1
+precision	3	3	https://raw.githubusercontent.com/SalesViewer/salesviewer-api/master/swagger/salesviewer-api.swagger.json
+regex	3	13	https://raw.githubusercontent.com/stepsic-microsoft-com/ScriptConnector/master/api.json
+seconds	3	8	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+semver	3	32	https://raw.githubusercontent.com/wcatron/ionic-cloud-sdk-php/master/src/API/versions/2.0.0-beta.0/push/swagger.json
+signed integer	3	3	https://api.swaggerhub.com/apis/Zied_SIK_SLEM/AC_SDK_PLAY/1.0.0
+single	3	6	https://raw.githubusercontent.com/Kensze/Svensk-Fotboll/master/Swagger-export/swagger.json
+srtring	3	3	https://api.swaggerhub.com/apis/vlcservices/vlc-talz-dosage-service-v2/1.0.0
+stringDcJobsByDate	3	3	https://raw.githubusercontent.com/PlexConnectAdmin/WindowsFormApplications/master/Swagger%20files/Test/DemandCaster.json
+textarea	3	4	https://raw.githubusercontent.com/mdsina/selectel-dns-api/master/swagger.json
+timeSpan	3	6	https://api.swaggerhub.com/apis/mboriani/board-api/0.0.1
+tinyint	3	4	https://api.swaggerhub.com/apis/waden34/StrumAndSip/1.0.0
+title	3	3	D:\nodejs\analysis\defs_github_large\wikimedia+restbase@v1-random.yaml
+token	3	6	https://raw.githubusercontent.com/Kesshou/Kesshou-Server/master/public/swagger.json
+tryte	3	3	https://raw.githubusercontent.com/davad/iota-dashboard/master/config/swagger.yaml
+uuidw	3	3	https://raw.githubusercontent.com/a1422020484/apidoc/master/src/main/resources/data/swagger_new.json
+whateverformat	3	3	https://raw.githubusercontent.com/farazsid/Test/master/src/ResourceManagement/ApiManagement/ApiManagement.Tests/Resources/SwaggerPetStoreV2.json
+xtype:isolation	3	18	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+yyyyMMddTHHmmss	3	7	https://api.swaggerhub.com/apis/PALFINGER/PALIPEDIA-BACKEND/1.0
+$ref '#/definitions/AppliedDiscount'	2	2	https://api.swaggerhub.com/apis/mrk/qa_api/1.0.0
+/^Bearer .+/	2	8	https://raw.githubusercontent.com/blinkboxbooks/reading-service/master/swagger/reading-service-public.yaml
+/^[a-z](?:[a-z\-0-9]*[a-z0-9])?$/	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+1	2	6	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+10	2	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+12345	2	12	https://api.swaggerhub.com/apis/ncapeta/gpadf/0.0.1
+14 символов	2	22	https://api.swaggerhub.com/apis/adaskin.turbotechnology.ru/T9Gate.devel/1.0
+16 byte random value	2	2	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.yaml
+16 byte string returned by /users/access	2	16	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.yaml
+16 hex-символов	2	10	https://api.swaggerhub.com/apis/adaskin.turbotechnology.ru/T9Gate.devel/1.0
+20	2	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+A user specifier may have one of 3 formats: the OA...	2	4	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_user.yaml
+Basic base64 encoded login:password	2	2	https://raw.githubusercontent.com/javakisagh/file-cloud-doc/master/swagger.yaml
+Change	2	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+DD/MM/YYYY	2	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+Either the Trade's OANDA-assigned TradeID or the T...	2	4	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_trade.yaml
+FolderPathQueryOrder	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+GetWorkItemTypeExpand	2	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcessDefinitions.json
+Guid	2	2	https://api.swaggerhub.com/apis/mboriani/board-api/0.0.1
+IPv4 Address	2	6	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+IPv4 CIDR address	2	6	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+ISO 3166-1 alfa 2	2	8	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+ISO 639-1	2	5	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+ISO4217:BASE58	2	2	https://raw.githubusercontent.com/webwallet/api-old/master/api/swagger/swagger.yaml
+ISO8601	2	8	https://api.swaggerhub.com/apis/kuindji.quantomic/ssocial/1.0.0
+Interval of cloud coverage in percent	2	6	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of dates in ISO 8601	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of incidence angle in degrees	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+Interval of resolution in meter	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+IssuedToken	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Identities.json
+Locale	2	2	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger-content.json
+MIME	2	10	https://api.swaggerhub.com/apis/wuxiuchao/L3VPN-SBI/1.0
+MessageML	2	6	https://raw.githubusercontent.com/symphonyoss/symphony-java-client/master/symphony-apis/agent/api/src/main/resources/agentAPI.yaml
+ObjectId	2	38	https://raw.githubusercontent.com/TimeZynk/timezynk-api-spec/master/spec/swagger.yaml
+OperationStatus	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Search.json
+Single element in set {0-15% ; 15-35% ; 35-60% ; >...	2	21	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+TBD	2	3	https://raw.githubusercontent.com/KaloNikolov/node-js-to-azure-deployment/master/api/swagger.yaml
+The string 'Bearer ' followed by the token.	2	2	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_primitives.yaml
+Timespan	2	2	https://raw.githubusercontent.com/Microsoft/mobile-center-cli/master/swagger/bifrost.swagger.before.json
+Two Letters ISO (de,en)	2	2	https://api.swaggerhub.com/apis/dolice/SitecoreNotifications/1.0.0
+UTF-8	2	48	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+UiT	2	3	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+VersionControlRecursionType	2	8	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+WKT Geometric objects	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+XML	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E5%85%B1%E9%80%9A%E6%80%A7%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96%20%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2(API)%E8%A6%8F%E7%AF%84.yaml
+ZIP	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E5%85%B1%E9%80%9A%E6%80%A7%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96%20%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2(API)%E8%A6%8F%E7%AF%84.yaml
+\"|\" delimited field names	2	8	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\"|\" delimited integers	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\"|\" delimited model names	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\d+	2	7	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+^S*$	2	10	https://api.swaggerhub.com/apis/vidcentum/portal/1.0.0
+^[0-9a-f]{8}$	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+^[a-z](?:[a-z\-0-9]*[a-z0-9])?$	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
+^\d*$	2	2	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
+algorithm-and-colon-and-hexstring	2	2	https://raw.githubusercontent.com/WASAPI-Community/data-transfer-apis/master/ait-reference-specification/transfer_api_archive-it_v1.yaml
+alphanumeric	2	21	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+application/x-www-form-urlencoded	2	2	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+array (uuid)	2	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+as-is	2	25	https://raw.githubusercontent.com/barsgroup/barsup-demo/master/src/barsup_demo/swagger-message.json
+bigint	2	10	https://raw.githubusercontent.com/zaxgithub/sample_yaml/master/sample1.yaml
+byte array	2	10	https://raw.githubusercontent.com/OpenEye-Contrib/OEMicroservices/master/docs/api-swagger.yaml
+case-sensitive	2	4	https://raw.githubusercontent.com/fraunhoferfokus/fic2-cenr/master/swagger/swagger.yaml
+char	2	20	https://raw.githubusercontent.com/Azure/autorest/master/src/generator/AutoRest.CSharp.Unit.Tests/Resource/Bug470/Bug470.yaml
+char 1	2	6	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+char 2	2	12	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+character varying	2	268	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+code	2	2	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+coma delimited values	2	2	https://api.swaggerhub.com/apis/nchursin/LS_DescribeAPI/0.1.0
+comma-sepreated list of answer-ids	2	2	https://api.swaggerhub.com/apis/jpunz/mc-503_ex_2/1.0.0
+count	2	4	https://raw.githubusercontent.com/SixArm/swagger-starter/master/examples/swagger.json
+cpf	2	4	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Jose-Lisboa/master/eventSys/docs/eventSys%20API.yaml
+currency-code	2	2	https://raw.githubusercontent.com/jharmn/swagger-api-checkstyle/master/examples/uber/swagger.yaml
+custom	2	5	https://api.swaggerhub.com/apis/ponelat/aww-snap/1.0.0
+date-fullyear"-"date-month"-"date-mday	2	2	https://api.swaggerhub.com/apis/DBiT/pigal/v0
+dates	2	2	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
+dd-mm-yyyy	2	7	https://api.swaggerhub.com/apis/FF2i/api-passerelles/0.0.1
+dd/MM/yyyy HH24:MI:ss	2	4	https://api.swaggerhub.com/apis/indiegente/senati_api/1.1.0
+e-mail	2	4	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+email;	2	2	https://api.swaggerhub.com/apis/kazmierczakpiotr3/TestProject/1.0.0
+enum - BOOKED - CANCELLED - PAID - UPDATE_REQUESTE...	2	2	https://raw.githubusercontent.com/maasglobal/maas-tsp-api/master/specs/maas-v1.json
+enum - citizenship test - citizenship conferral - ...	2	2	https://api.swaggerhub.com/apis/ndis/marketplaceServices/1.0
+enum(F,J)	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+flow-id	2	13	https://raw.githubusercontent.com/zalando/nakadi-manual/master/docs/api-spec-oai/nakadi-oai-0.5.1.yaml
+freeform	2	8	https://raw.githubusercontent.com/SixArm/swagger-starter/master/examples/swagger.json
+generic-id	2	2	https://api.swaggerhub.com/apis/pchipman/provider-search/1.0.0
+geoPoint	2	3	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+hashed password	2	2	https://raw.githubusercontent.com/springblock/Chaincore/master/src/BlockEx/BlockExAPI/api/swagger.yaml
+identity	2	36	https://api.swaggerhub.com/apis/trntga/forum/0.1.0
+image	2	7	https://api.swaggerhub.com/apis/darkwater84/multicomm-app_api/1.0.0
+in	2	24	https://api.swaggerhub.com/apis/damien.broqua/HomePlannerWS/0.0.1
+innt64	2	2	https://api.swaggerhub.com/apis/joaosoranz/marketplace-api/1.0.0
+int 11	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+int12	2	2	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Pedro-Velloso/master/swagger.json
+int128	2	5	https://raw.githubusercontent.com/donnerruebe/HAW_AIP_2015/master/APIDOC/FlightOpGreenAPIFlight.yaml
+int3	2	7	https://raw.githubusercontent.com/guodont/a-tech-backend/master/docs/swagger-atech-api.yaml
+int32g	2	2	https://raw.githubusercontent.com/tfg-2016-ASU/tfg-2016-ASU/master/api/swaggerVersion1.yaml
+int32t	2	2	https://raw.githubusercontent.com/jobeq/api/master/specification.yaml
+int5	2	2	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Paula-Luisa/master/pkmon.yaml
+intMin0Max7	2	4	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin1Max3	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin1Max32	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intMin46Max9600	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+intn64	2	2	https://api.swaggerhub.com/apis/joaosoranz/marketplace-api/1.0.0
+ipaddress	2	10	https://raw.githubusercontent.com/apollo17march/data-distribution-api/master/swagger.yaml
+ipv6	2	2	https://api.swaggerhub.com/apis/helen/mock-test/1.0
+iso-3166-1-alpha-2	2	3	https://api.swaggerhub.com/apis/przemeksroka/customer-api/1.0.0
+iso8601	2	2	https://api.swaggerhub.com/apis/kv109/SOLID/1.0.0
+java.util.date	2	6	https://api.swaggerhub.com/apis/vm001uec/express-campaign_creation_api/1.0.0
+jwt token	2	2	https://raw.githubusercontent.com/cmatcham/healthy-kids/master/documentation/api.yaml
+key-value pairs	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+label	2	2	https://raw.githubusercontent.com/spilio/chefArchitect.github.io/master/assets/apispots/swaggered/img/swagger.json
+language-map	2	2	https://raw.githubusercontent.com/shield-9/MBXP/master/swagger.json
+map	2	4	https://raw.githubusercontent.com/corebob/olims-api/master/docs/api.json
+maxLen200	2	25	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen255	2	2	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen36	2	20	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen36AlphaNumericDashUnderscore	2	42	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+maxLen400	2	8	https://api.swaggerhub.com/apis/wuxiuchao/WANVPN-NBI/0.1.0
+meta:email-address	2	7	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:person-name	2	8	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meters	2	2	https://raw.githubusercontent.com/theSuess/openspotmap/master/api/v0/swagger.yaml
+miles	2	2	https://raw.githubusercontent.com/Tzinov15/SwaggerBank/master/test/mockYamls/missingExamplesHiking.yaml
+milliseconds	2	17	https://raw.githubusercontent.com/gogithubalex/dmcFrontend/master/restapi/DMCInterfaceSwagger.yaml
+mime	2	2	https://raw.githubusercontent.com/shield-9/MBXP/master/swagger.json
+mm/dd/yyyy	2	4	https://api.swaggerhub.com/apis/ums-dev/HOTSTAR-UM/0.0.1
+n/a	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+non-iso-duration	2	12	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/arm-datalake-analytics/job/2015-11-01-preview/swagger/job.json
+objectID	2	10	https://raw.githubusercontent.com/masterdessi2016/RestAPI/master/dist/api-docs.json
+phone_number	2	3	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+png	2	4	https://raw.githubusercontent.com/wikimedia/mediawiki-services-graphoid/master/spec.yaml
+real	2	2	https://api.swaggerhub.com/apis/MitchellBurton/WXTiles/v0
+rfc3986	2	44	https://api.swaggerhub.com/apis/kfolinus-endava/wam-left_shark_consumer_portal_api_documentation/1.2.4
+rgb	2	3	https://raw.githubusercontent.com/masaru-takano/DeviceConnect-Spec/master/api/light.json
+serialized json array of '#/definitions/Cursor'	2	2	https://raw.githubusercontent.com/zalando/nakadi-manual/master/docs/api-spec-oai/nakadi-oai-0.5.1.yaml
+services	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E5%85%B1%E9%80%9A%E6%80%A7%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96%20%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2(API)%E8%A6%8F%E7%AF%84.yaml
+slug	2	14	https://raw.githubusercontent.com/laincloud/sso-ldap/master/apidoc/swagger.json
+small	2	2	https://api.swaggerhub.com/apis/rajeshknigam/Student/1.0.0
+smiles	2	6	https://raw.githubusercontent.com/DouglasConnect/ChemIdConvert/master/swagger.yaml
+sort[id]=asc	2	4	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+text/html	2	4	https://raw.githubusercontent.com/psomashe/amc-interview/master/binary-tree-rest-master/api/swagger/swagger.yaml
+text/plain	2	3	https://raw.githubusercontent.com/10Duke/java-client-idp/master/com.tenduke.client.java.sample/src/main/resources/user_api_v1.json
+text/xml	2	2	https://api.swaggerhub.com/apis/VolkerZippel/proof-of_concept/1.0.0
+time-span	2	7	https://api.swaggerhub.com/apis/Mithardir/merz-project_84_test/v1
+timestamp without time zone	2	72	https://raw.githubusercontent.com/PierreRochard/primeng-postgrest/master/index.json
+unix_timestamp	2	6	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
+url-path	2	4	https://raw.githubusercontent.com/nicko7i/vcnc/master/vcnc-rest/api/v2api.yaml
+utf-8	2	10	https://api.swaggerhub.com/apis/kfolinus-endava/wam-left_shark_consumer_portal_api_documentation/1.2.4
+utf8	2	10	https://raw.githubusercontent.com/gti525/h17-reseau-social/master/storage/api-docs/api-docs.json
+varchar 10	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 100	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 12	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 128	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 20	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 25	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 250	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 255	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 30	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 50	2	21	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 60	2	9	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 64	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+varchar 9	2	3	https://api.swaggerhub.com/apis/morvanabonin/kinghost-api/1.0
+xtype:flow-identifier	2	43	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-vsg/swagger.yaml
+yang:yang-identifier	2	10	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+yes | no	2	2	https://api.swaggerhub.com/apis/krachman/appmixer-components/1
+yyyy-MM-dd HH:mm	2	3	https://raw.githubusercontent.com/motation/ai15-price-and-revenue/master/docs/flightop.yaml
+yyyy-mm	2	4	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
+yyyy-mm-dd hh:ii:ss	2	10	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+yyyymmdd	2	7	https://raw.githubusercontent.com/andy-zhangtao/v22/master/doc/api.json
+zip	2	3	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+"Device_ID"	1	1	https://raw.githubusercontent.com/jimishio/jimishio.github.io/master/swagger.json
+#$ref/definitions/Calculator.subtract.params	1	1	https://api.swaggerhub.com/apis/fboranek/calculator-example/1.0.0
+#/definitions/Cursor	1	1	https://raw.githubusercontent.com/zalando/nakadi/master/api/nakadi-event-bus-api.yaml
+#/definitions/Hakemus	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Hakemuskausi	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Paatos	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/Taydennys	1	2	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+#/definitions/TaydennysHakuohje	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+%d-%m-%y:%M-%h	1	2	https://api.swaggerhub.com/apis/kyzi007/iac-billing/1.0.0
+'90x90' | '195'x'195' | '584'x'584'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+'CallerId' | 'SmsSender'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+'completed={result_url}' : query successfuly proce...	1	1	https://raw.githubusercontent.com/dgrechka/FetchClimateAPI/master/API.yaml
+(+7)9091234567	1	5	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+([0-9]+[-])*[0-9]+	1	1	https://raw.githubusercontent.com/frankvanes/dll-swagger/master/swagger.json
+(format to define)	1	1	https://raw.githubusercontent.com/sweng-epfl/2015-team-phisicists/master/serviceAPI.yaml
++XXAABBCCDDEE	1	2	https://raw.githubusercontent.com/sittor/back/master/swagger/result.json
++ve	1	11	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+-180 до 180 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+-90 до 90 с 6 десятичными знаками	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+-?\w+	1	1	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/avataxbr/companies-api.json
+.*	1	1	https://raw.githubusercontent.com/swagger-api/swagger-codegen/master/modules/swagger-codegen/src/test/resources/2_0/responseHeaderTest.yaml
+...	1	1	https://raw.githubusercontent.com/pericles-project/SPIN-rule-engine/master/apidocs/ui/swagger.json
+/(\W\w+\-?)+/	1	4	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/Foo/Bar	1	2	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+/\A([\w+\-](\.[\w+\-])?)+@[a-z\d\-]+(\.[a-z]+)*\.[...	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/\A\h{40}\z/	1	1	https://api.swaggerhub.com/apis/nepalez/Gero/0
+/\d+/	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+/^(?:[a-zA-Z0-9]{4}-?){4}$/	1	1	https://api.swaggerhub.com/apis/pulsedns/PulseDNS/1.0.0
+/^[a-zA-Z0-9]+$/	1	1	https://raw.githubusercontent.com/blinkboxbooks/storage-service/master/swagger/admin.yaml
+/^bbbmap:[a-zA-Z0-9]+:/	1	1	https://raw.githubusercontent.com/blinkboxbooks/storage-service/master/swagger/admin.yaml
+/root/path/to/application	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+/wiki/{article-id}	1	1	https://api.swaggerhub.com/apis/rj-jesus/makerlab/0.0.1
+0	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+0    Train (metropolitan) 1    Tram 2    Bus (metr...	1	1	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml
+0 -> 100	1	5	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+0 or 1	1	2	https://api.swaggerhub.com/apis/rohit.menon/Adminder-Web/1.0.0
+0-16	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+0-255	1	1	https://api.swaggerhub.com/apis/paulmandal/led-control-api/0.0.1
+0/1/2/3	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+0000-00-00 00:00:00	1	4	https://api.swaggerhub.com/apis/stephan.reins/storefronts/1.0.0
+00000	1	1	https://api.swaggerhub.com/apis/dianacerra0901/registro-unico_services/2.0.2
+0909999999	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+0\d{7}X\d	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+0nnnnnnnnn	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+0|1|2	1	4	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+1 or 0	1	1	https://api.swaggerhub.com/apis/brainsolutions/AnnaWebApi/1.0
+1,2,3	1	1	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+1-2147483647	1	1	https://api.swaggerhub.com/apis/pulsedns/PulseDNS/1.0.0
+1-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+1.0, 9.6.41	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+10 Digits	1	9	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+123456789012|1234567890123456	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+123@abc	1	1	https://api.swaggerhub.com/apis/baljeet.singh/login/1.0.0
+13-letter id	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+14-letter id	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+1452736523	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+1990-01-10	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+1=visible, 0=hidden, -1=pending deletion	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+1|2|3...	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+2-letter ISO country code	1	1	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+200000	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+2015-05-15	1	2	https://api.swaggerhub.com/apis/jakubk/BCM-xG/1
+2016-12-31 21:00	1	8	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+2016-12-31 21:00:00.344000	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+2017-02-17T12:14:24+0200	1	1	https://raw.githubusercontent.com/geekhub-php/CheTheatre/master/doc/theatre.json
+2017-03-10T09:12:33.001Z level: type: integer form...	1	1	https://api.swaggerhub.com/apis/SnehansuBhuyan/Test/1.0.0
+24/12/2017	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+3-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+3-letter currency code, lower case	1	1	https://api.swaggerhub.com/apis/paulmandal/ads-api/1.0.0
+3-letter state code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+31/12/2017	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+32 characters	1	1	https://api.swaggerhub.com/apis/AIRMAP-kevin/user/0.0.2
+3411	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+4 Digits	1	4	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+4-digit Australian postcode	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+408 character string.	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+450 character string.	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+48 bit MAC address	1	2	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+5	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+5 Digits	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+5-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+5.90	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+50	1	1	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+5322905523	1	1	https://api.swaggerhub.com/apis/zezeron/hedefIN/v2
+581cefbcassdfffabad8b8aded0.jpg	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+581cefbcf577abad8b8adea4181	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+581cefbcf577abad8b8adea4182	1	5	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+58337137f577ab5c3ffea8eb	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+5|10...	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+64 chars hex	1	2	https://raw.githubusercontent.com/RCasatta/ew-core/master/ewcore/bin/manifest.yaml
+657364819919284.jpg	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+77788666622211	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+8	1	3	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+9-digit code	1	1	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+9011xxx	1	4	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+<<Name of doc| Profile | username>> and no_answers...	1	1	https://api.swaggerhub.com/apis/art/get_discussion/v1
+<=2	1	1	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+<categoryid> or <categoryname>	1	1	https://api.swaggerhub.com/apis/LakanaEngineering/Lakana_RESTful_API_V2.13/2.13
+>= 0	1	1	https://raw.githubusercontent.com/Jumpscale/_archive/master/agentcontroller8/agent-swagger.yaml
+>= 1	1	1	https://raw.githubusercontent.com/Jumpscale/_archive/master/agentcontroller8/agent-swagger.yaml
+?	1	3	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+A	1	1	https://api.swaggerhub.com/apis/ttkdroid/Test/1.0.0
+A value returned from message-view-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+AAAA-MM-GG	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+AAAAMMGG	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+AND OR What...	1	4	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+ARRAY	1	4	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+ASC - DESC	1	5	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+ASC or DESC in uppercase	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+ASC,DESC	1	4	https://api.swaggerhub.com/apis/mohanasrinivasan/RentSher/v1
+ASC|DESC	1	1	https://raw.githubusercontent.com/10Duke/java-client-idp/master/com.tenduke.client.java.sample/src/main/resources/user_api_v1.json
+AVC Id	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+AccountProviderNamespace	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Commerce.json
+Airport Id	1	2	https://raw.githubusercontent.com/motation/ai15-price-and-revenue/master/docs/flightop.yaml
+Alias room sample	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Any string	1	2	https://api.swaggerhub.com/apis/fabianandres/ehb-api_definition/1.0.0
+ApprovalStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ApprovalType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+BSON ObjectID	1	1	https://api.swaggerhub.com/apis/mlipson/title2/1.0.0
+BSON objectID	1	5	https://api.swaggerhub.com/apis/mlipson/title2/1.0.0
+Base64	1	2	https://raw.githubusercontent.com/ISS-Analytics/canvas-lms-visualizations-api/master/public/swagger.yaml
+Base64 encoded	1	1	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+Base64-url-encoded JWT (JSON Web Token)	1	2	https://raw.githubusercontent.com/webwallet/swagger/master/swagger.yaml
+Basic xxxx	1	1	https://api.swaggerhub.com/apis/timfogarty-deluxe/SferaSAP/1.0.0
+Basic: base64 encode	1	1	https://api.swaggerhub.com/apis/sparklemotion/snap-story_v_2_for_android/2.0.0
+Bearer zasxcd123qwerf	1	18	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+Boolean	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+Bronze, Silver, Gold, Platinum	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+BuildQueryOrder	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildReason	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildReference	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+BuildResult	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildStatus	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+BuildType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+CHART	1	1	https://api.swaggerhub.com/apis/liang3404814/lc-lelab/3.0.0
+CLXXXXXX,	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+CancellationToken	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Drop.json
+Capitalized boolean	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Cash, Z8, Poynt	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+ChangeList	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+Char	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Security.json
+ChargeModeType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ChargePointType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ChargingFacilityType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+Column name	1	5	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+Column_Type_Format	1	2	https://raw.githubusercontent.com/yolanda6/test/master/courseAPI-4.json
+CombinationID	1	2	https://raw.githubusercontent.com/TimeZynk/timezynk-api-spec/master/spec/swagger.yaml
+CommentSortOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+CommentTrackingCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+ConnectOptions	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Locations.json
+ConnectedServiceKind	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Core.json
+ConnectorStandard	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+Cool party	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Credit, Redeem	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+CultureInfo	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Accounts.json
+CustomTestFieldScope	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+DATE,PRICE,RELAVANCE	1	4	https://api.swaggerhub.com/apis/mohanasrinivasan/RentSher/v1
+DEFINITELYALPHANUMERIC	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+DEFINITELYNUMERIC	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+DESC	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+DESC (or ASC?)	1	1	https://api.swaggerhub.com/apis/anson/Testing3/0.0.1
+DM100151743	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+DMSP3603,DMSP3602	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+Date ISO-8601	1	7	https://api.swaggerhub.com/apis/danielkonimbo/Konimbo/1.0.0
+DateTimeOffset	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+Datetime	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+Datetime ISO 8601	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+DayOfWeek	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Work.json
+Decimal	1	2	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml
+DefinitionQueryOrder	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+DefinitionRunInfo	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TestImpact.json
+DefinitionType	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+DeploymentGroupActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+DeploymentGroupExpands	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+DeploymentOperationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+DeploymentStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+Descriptive text for policy violation	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+Dmitry	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Double	1	8	https://api.swaggerhub.com/apis/amira123456/experiment-createdpredictive_exp/2.0
+E.164	1	3	https://api.swaggerhub.com/apis/mayboroda/smart-connector-backoffice/1
+ETSI, ENUM, NOT, DONE	1	27	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+Either 'all' or a version number.	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+Email	1	1	https://api.swaggerhub.com/apis/njrasser/test/1.0.0
+Embed URL for this attachment	1	1	https://raw.githubusercontent.com/fabito/api-doc/master/curation/curation_api.yaml
+Embed URL for this attachment (* TODO - o que eh i...	1	1	https://raw.githubusercontent.com/fabito/api-doc/master/cards/cards_api.yaml
+Employee	1	1	https://api.swaggerhub.com/apis/alexzaitzev/stages/1.0.0
+Empty string if true	1	1	https://raw.githubusercontent.com/wiki-ai/ores/master/ores/wsgi/templates/v2_swagger.json
+Enumeration name	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+Eurobetrag	1	1	https://raw.githubusercontent.com/hypoport/europace2-api/master/Produktanbieterdarlehensdaten/swagger.yaml
+ExtensionRequestState	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ExtensionManagement.json
+ExtensionValidationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+FolderQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+Foo/Bar	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+For local Authentication this is the User's email ...	1	1	https://raw.githubusercontent.com/xhape/ideamarket-api/master/api/swagger/swagger.yaml
+Format : yyyy-mm-dd 	1	4	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Free/Basic/Plus	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+GMT Timestamp	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+GetBehaviorsExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcess.json
+GetFieldsExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+GetProcessExpandLevel	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTrackingProcess.json
+GitBaseVersionDescriptor	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitPullRequestSearchCriteria	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitPushSearchCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitQueryCommitsCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitTargetVersionDescriptor	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GitVersionDescriptor	1	6	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+GivenNames FamilyName (Alias)	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+HEX	1	1	https://api.swaggerhub.com/apis/antonfos/ics/1.0.0
+HLS	1	1	https://api.swaggerhub.com/apis/happyesthete/channel-services_api/2.7.0
+HTML	1	1	https://api.swaggerhub.com/apis/DanskSupermarked/PublicAPIs/1
+HTTP response code	1	1	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+HTTPS Image URL	1	4	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Hex RGB	1	3	https://api.swaggerhub.com/apis/dept/urfu/0.0.0
+Hex16	1	12	https://raw.githubusercontent.com/favweb/news-hacks-other/master/onos_swagger.json
+HistoryEntry	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Git.json
+IATA code of airport	1	2	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+IBAN	1	1	https://api.swaggerhub.com/apis/Chetana14/IBANNameCheck/1.0.0
+ID or Email	1	1	https://api.swaggerhub.com/apis/rayhan/employee-app_api/1.0.0
+IP	1	1	https://raw.githubusercontent.com/MrJellyB/procitor/master/api/swagger.yaml
+IPv4 IP address	1	1	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+IPv4 address	1	2	https://api.swaggerhub.com/apis/cisco-ccf-nws/VPNaaS/1.0.0
+IPv4 based subnet	1	1	https://api.swaggerhub.com/apis/swamin7191/getTripEvent/1.0.0
+ISBN-13	1	2	https://raw.githubusercontent.com/juleux/Ice-and-Fire-API/master/swagger.yaml
+ISO	1	1	https://api.swaggerhub.com/apis/Icdev/affise-api/2
+ISO 4217	1	2	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ISO 8601 duration	1	1	https://api.swaggerhub.com/apis/amilos/Entitlements/v1
+ISO 8601 formatted date string	1	4	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+ISO-2	1	5	https://api.swaggerhub.com/apis/mayboroda/smart-connector-backoffice/1
+ISO-639	1	1	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+ISO-8601 Date format YYYY-MM-DDTHH:mm:ss	1	4	https://api.swaggerhub.com/apis/chench/aggiefeed/1.0.0
+ISO-8601 time (HH':'mm':'ss.FFFFFFF)	1	2	https://api.swaggerhub.com/apis/stefanraffeiner/homeaway-hsapi_swagger_definition/10
+ISO-9362	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ISO4217	1	3	https://api.swaggerhub.com/apis/iliya/Currencies/1.0.0
+ISO8601-UTC	1	2	https://raw.githubusercontent.com/jesuspc/time_machine/master/priv/static/swagger.json
+ISO_3166-1_alpha-2	1	3	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+Inbound or Outbound	1	1	https://raw.githubusercontent.com/SPHornsby/metrominder/master/swagger.json
+Initials Firstname Lastname	1	1	https://api.swaggerhub.com/apis/DBiT/larbiz/v0
+JSON_CALLBACK	1	5	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+JValue	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Npm.json
+JWT	1	2	https://raw.githubusercontent.com/BafS/Kaudio/master/docs/swagger.yaml
+JWT Token	1	3	https://api.swaggerhub.com/apis/MatusMaterna/Intranet/1.0.0
+JWT token	1	1	https://api.swaggerhub.com/apis/MatusMaterna/Intranet/1.0.0
+Jackson	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+JsonPatchOperationData	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/IdentityMru.json
+Kozyrev	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lat,Lon	1	2	https://raw.githubusercontent.com/Aallam/GeoLocation-API/master/api/swagger.yaml
+Lat:Lng	1	3	https://api.swaggerhub.com/apis/grishkov.mn/Claris.Map/1.0.0
+Ledger query syntax	1	1	https://raw.githubusercontent.com/kadena-io/juno/master/swagger/juno-swagger.json
+Lenght<128 (Великолепно)	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lenght<256 (Все было весело)	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Lenght<256 (Не, было по-другому)	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Light, Dark	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+Location	1	1	https://raw.githubusercontent.com/Tidetech/tidetech-apiary/master/swagger.yaml
+Long	1	1	https://api.swaggerhub.com/apis/vignesh_a/firstDataAPI/3.0.0
+Lowercase alphanumeric	1	3	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+MAC	1	4	https://api.swaggerhub.com/apis/manciniadriano/ENERGIS/1.0.0
+MAC Address	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+MCC from Enum	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+MD5	1	1	https://api.swaggerhub.com/apis/devtest/EmployBridge/1.0.0
+MM-YYYY	1	1	https://api.swaggerhub.com/apis/lmaderuelo/hbRestAPI/1.0.0
+MM/DD/YYYY	1	5	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+MM/DD/YYYY hh:mm	1	1	https://api.swaggerhub.com/apis/ajeets1971/VirtualDriveThru/1.0.0
+MM/DD/YYYY hh:mm TT	1	2	https://api.swaggerhub.com/apis/ajeets1971/VirtualDriveThru/1.0.0
+MS	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+MachineGroupActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+MailSectionType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+Major Version.Minor Version.Build YYMM.Build Relea...	1	3	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/communications/afc.yaml
+MediaType	1	1	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+MetadataType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Search.json
+Michael	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+MongoDB ObjectId	1	2	https://raw.githubusercontent.com/BafS/Kaudio/master/docs/swagger.yaml
+My comment	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+My room name	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+NAF code from Enum	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+Nome Cognome	1	1	https://raw.githubusercontent.com/salvioner/SE_16_182870_175020_173715_P/master/API/API.yaml
+None or combination elements in Set {LIVESTOCK, GO...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Not specified...	1	6	https://api.swaggerhub.com/apis/pelle1024/VNF/1.0.0
+NotificationResult	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ServiceHooks.json
+NotificationStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/ServiceHooks.json
+Number	1	1	https://api.swaggerhub.com/apis/pattch/OrgDB/1.0.0
+OAUTH2 (IAM)	1	1	https://raw.githubusercontent.com/zalando-incubator/zally/master/server/src/main/resources/api/zally-api.yaml
+OK	1	1	https://raw.githubusercontent.com/zhanggbj/bosh-swagger/master/docs/swagger/swagger.json
+ObjectId ('581cefbcf577abad8b8a4eа3')	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+ObjectId ('581cefbcf577abad8b8aded0')	1	21	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+ObjectId ('58337137f577ab5c3ffea8eb')	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+One of the values from preview-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+One of the values from trigger-types endpoint	1	1	https://api.swaggerhub.com/apis/flipmokid/web-messaging_admin_api/0.0.13
+OpenSearch SRU	1	2	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
+OrganizationSearchKind	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Organization.json
+OssResourceType	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+P#D where # is the number of days.	1	1	https://raw.githubusercontent.com/Avalara/developer-dot/master/dynamic/swagger/communications/afc.yaml
+PONG	1	1	https://api.swaggerhub.com/apis/bynd.markosamuli/healthcheck/1.0.0
+Party documentation description	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Party documentation sample	1	7	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+PipelineDefinitionExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineDefinitionTriggerType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+PipelineStatus	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Pipeline.json
+Plain Text	1	1	https://api.swaggerhub.com/apis/ok200/FLZ/1.0.0
+PlanGroupStatusFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Task.json
+Planning	1	1	https://api.swaggerhub.com/apis/jakubk/BCM-xG/1
+PlugType	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ProjectState	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Core.json
+PropertyPair	1	1	https://raw.githubusercontent.com/hellosnow/simple_doc/master/jehuan_simple_test/swagger.json
+Prozentsatz	1	1	https://raw.githubusercontent.com/hypoport/europace2-api/master/Produktanbieterdarlehensdaten/swagger.yaml
+QAM	1	1	https://api.swaggerhub.com/apis/happyesthete/channel-services_api/2.7.0
+QueryDeletedOption	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Build.json
+QueryExpand	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+QueryMembership	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Identities.json
+RFC 3986	1	4	https://api.swaggerhub.com/apis/matryer/AuthStar/1.0.0
+RGB	1	1	https://raw.githubusercontent.com/kbessinger/lamda_proc/master/example/swagger.yaml
+Rating	1	3	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+RecommendationInput	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Recommendation.json
+RecommendationType	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Recommendation.json
+Region	1	1	https://raw.githubusercontent.com/Tidetech/tidetech-apiary/master/swagger.yaml
+ReleaseDefinitionExpands	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseDefinitionQueryOrder	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseExpands	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseQueryOrder	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReleaseReference	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+ReleaseStatus	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Release.json
+ReportingRevisionsExpand	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+ResourceName	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Commerce.json
+ResponseType	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/DelegatedAuthorization.json
+ResultDetails	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+ReviewSearchCriteria	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/CodeReview.json
+Risk1,Risk2,Risk3,Risk4,Risk5	1	1	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+SINGLE element in Downslope set +  , + SINGLE elem...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET { <10cm ; 10-50cm ; 50cm-1m ...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET {5m ; 10m ; 15m ; 20m ; 25m}	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE element in SET {WEST ; NORTH ; SOUTH ; EAST...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SPARQL or SPARQL Update query	1	1	https://api.swaggerhub.com/apis/keski/rest-spin/1.0.0
+SUBSET of SET = { Bare ; Trees ; Shrubs ; Sub-shru...	1	10	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+SecureFileActionFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+Security	1	1	https://api.swaggerhub.com/apis/vinnarasu/ncs-marketplace/1.0.0
+Set of 'CallerId', 'SmsSender'	1	1	https://raw.githubusercontent.com/tylerlong/ringcentral-csharp-codegen/master/specs/basic.json
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	7	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	14	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Single element in {FLAT (0-2%); GENTLE (3-5%); MOD...	1	2	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+Single word hybris key	1	1	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+Size(2)	1	3	https://raw.githubusercontent.com/EpykOS/msipymeDocs/master/api/api/swagger.yaml
+Sting	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
+StreamContent	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+StreamedBatch	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+String - None or combination elements in Set {LIVE...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+String - SINGLE element in Downslope set + "," + S...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+String - Single element in Set {tree cover, >25% c...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+SubscriptionQueryFlags	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Notification.json
+TABLE	1	3	https://api.swaggerhub.com/apis/liang3404814/lc-lelab/3.0.0
+TECI	1	1	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+TX-{10 Digits}	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+TaskAgentPoolActionFilter	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskAgentPoolType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskAgentQueueActionFilter	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TaskResult	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+TestSessionSource	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Test.json
+Text	1	22	https://raw.githubusercontent.com/ReDeployIO/swagger-api/master/swagger.json
+Text to put into response body. Omit to let implem...	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+TfvcChangesetSearchCriteria	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcLabelRequestData	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcShelvesetRequestData	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TfvcVersionDescriptor	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Tfvc.json
+TimeZoneInfo	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Accounts.json
+Token XXXXXXXX	1	1	https://raw.githubusercontent.com/malaonline/Server/master/server/app/api/api.yaml
+TreeStructureGroup	1	4	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+Two letter ISO Language Code	1	7	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+UK Postcode	1	1	https://api.swaggerhub.com/apis/BRupholdt/Mosaic/1.0.0
+UNIX timestamp	1	1	https://api.swaggerhub.com/apis/stinethebean/ClaimCompass-Microsoft2/1.0.0
+UNSPECIFIED	1	1	https://raw.githubusercontent.com/dwojciec/test/master/src/main/resources/ahoi.swagger.json
+URL encoded string	1	5	https://api.swaggerhub.com/apis/keski/rest-spin/1.0.0
+USD	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+UTC Unix epoch	1	1	https://raw.githubusercontent.com/mg4tv/API-spec/master/swagger.yaml
+UUID V4	1	1	https://raw.githubusercontent.com/TimVosch/gomeetup-REST/master/api/swagger/swagger.yaml
+UUID for logo picture	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+UUID for signature picture	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+UUID of user that created item	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+UUID of user that modified item	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+UiT + phone_number	1	2	https://api.swaggerhub.com/apis/dianacerra0901/registro-unico_services/2.0.2
+Untitled material databas	1	1	https://api.swaggerhub.com/apis/natellium/material-database/1.0.0
+UsageSummaryQueryCriteria	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Utilization.json
+User already exists	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+User doesn't exist	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+UserType	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/UserMapping.json
+VarChar(10)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(100)	1	32	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(1000)	1	8	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(15)	1	12	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(20)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(200)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(250)	1	1	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(50)	1	6	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(500)	1	4	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VarChar(75)	1	10	https://api.swaggerhub.com/apis/tyagi-iiitv/test-balrog/1.0.0
+VariableGroupActionFilter	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
+Visa, Discover, Mastercard	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+WBR_RR/SuppliersPortalAdmin	1	4	https://api.swaggerhub.com/apis/Wildberries/DocumentsStorage/1.2.1
+WILDBERRIES\the.username	1	4	https://api.swaggerhub.com/apis/Wildberries/DocumentsStorage/1.2.1
+WXXXXX	1	1	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger-0.1.3.yaml
+WidgetScope	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Dashboard.json
+WorkItemErrorPolicy	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+WorkItemExpand	1	5	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
+X;Y;Z	1	4	https://raw.githubusercontent.com/InfiniteRam/mwissues-nodejs-server/master/tools/server-api.yaml
+X;Y;Z;W	1	2	https://raw.githubusercontent.com/InfiniteRam/mwissues-nodejs-server/master/tools/server-api.yaml
+XX	1	3	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+XX/XX	1	1	https://api.swaggerhub.com/apis/Avizacherman/dibs-api/2.0.0
+XXXX-XXXX	1	1	https://api.swaggerhub.com/apis/ttkdroid/Test/1.0.0
+Y	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+YYYY-MM-DD 24HH:MM:SS.USSS	1	1	https://raw.githubusercontent.com/21dotco/sensor21/master/manifest.yaml
+YYYY-MM-DD HH:MM:SS	1	3	https://api.swaggerhub.com/apis/jakerator/tracker_api/1.0.0
+YYYY-MM-DD hh:mm:ss	1	4	https://api.swaggerhub.com/apis/yates009/IRE/1.2
+YYYY-MM-DDTHH:MM:SSZ	1	8	https://api.swaggerhub.com/apis/diegofguillen/localSports/1.0.0
+YYYY-MM-DDThh:mm:ss+00:00	1	2	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+YYYY-MM-DDThh:mm:ss.sTZD	1	1	https://api.swaggerhub.com/apis/drakkar/AuditTrail/1.0.0
+YYYY-MM-DDThh:mm:ssTZD	1	1	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-MM-DD_HH24:MI:SS	1	9	https://api.swaggerhub.com/apis/paulredmond79/i-q_sonar_se_rest_api/2017-01-25.1
+YYYY-MM-DDtHH24:MI:SSz	1	1	https://api.swaggerhub.com/apis/AllUnite/all-unite_traffic_api/2.12
+YYYY-MM-dd	1	3	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-MM-ddThh:mm:ssTZD	1	3	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+YYYY-mm-ddT07:01:36+0000	1	1	https://raw.githubusercontent.com/ganesansays/socialmessage-api/master/api/swagger/swagger.yaml
+YYYYMM	1	1	https://api.swaggerhub.com/apis/juggerd/cpc/0.0.0
+[0,11] chars. 1/2	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[0,255]	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[0-9]+%[0-9]+	1	1	https://raw.githubusercontent.com/kadena-io/juno/master/swagger/juno-swagger.json
+[1-9][0-9]{9}	1	1	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+[4,45] chars	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[?, 254]	1	6	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+[?,20] chars	1	1	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+[?,45]	1	3	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+[A-Z]{2}[0-9]{4}	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+[imageName1, imageName2 ..]	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+[min]-[max]	1	11	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+[min]-[max]/[Total]	1	11	https://api.swaggerhub.com/apis/neopost/eccomvp/1.0.0
+\d+\.\d+\.\d+	1	1	https://api.swaggerhub.com/apis/patrick.jungermann/cdp.content.data.content-store/1.0.0
+\d{2}:\d{2}	1	8	https://api.swaggerhub.com/apis/benoit.c/APIFrontBackStation/0.0.2
+\d{4}-\d{2}-\d{2}	1	2	https://api.swaggerhub.com/apis/benoit.c/APIFrontBackStation/0.0.2
+^([0-5][0-9]:[0-5][0-9]$	1	5	https://api.swaggerhub.com/apis/p1p3/ReportingAPI/1.0.0
+^([0-9a-zA-Z-]+[\.])+[0-9a-zA-Z-]+$	1	2	https://api.swaggerhub.com/apis/rebel-l/SessionService/0.2.0
+^C\d+$	1	1	https://api.swaggerhub.com/apis/helen/as-rest-api-xml/1.0
+^[0-9]{1,2}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^[0-9]{1,3}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^[\wぁ-んァ-ン一-龠 　]{1,30}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^[a-z](?:[a-z_]*[a-z])?$	1	1	https://raw.githubusercontent.com/blinkboxbooks/magrathea/master/swagger/admin.yaml
+^\d{4}$	1	1	https://api.swaggerhub.com/apis/rlmartin/payment_service/0.1.0
+^\w{1,30}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^ap-northeast-1:[\w-]{36}$	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+^https://s3-ap-northeast-1.amazonaws.com/[\w-/.]{1...	1	1	https://api.swaggerhub.com/apis/Subaru365/YOLO/0.1.0
+a=b&	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+a=foo&b=bar	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+abc,122002,122001	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+abcd1234	1	1	https://api.swaggerhub.com/apis/julianohsf/Rapaze/1.0.0
+abignumber	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+accessibility	1	2	https://raw.githubusercontent.com/Pastor/modules/master/rest-oauth2/src/main/resources/api.v1.0.3.yaml
+af7c2f47-f8c0-466d-8b3a-9b158860fba6	1	2	https://api.swaggerhub.com/apis/natellium/material-database/1.0.0
+alarmstate	1	1	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+alpha-2	1	1	https://api.swaggerhub.com/apis/electrific_fm/Electrific_CSO/0.1.0
+ana/luiz/maria	1	2	https://api.swaggerhub.com/apis/estevaolucas/Clubinho/0.0.1
+anyURI	1	1	https://raw.githubusercontent.com/wol190/ETSI-ISG-MEC/master/APIs/location/v1/LocationAPI.json
+anypassword	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+application/js	1	1	https://raw.githubusercontent.com/igp-tech/igp-site-provider-doc/master/spec/swagger.yaml
+application/json or text/json	1	5	https://raw.githubusercontent.com/jeedo/fluffy-octo-kumquat/master/api/swagger.json
+application/pdf	1	2	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+application/vnd.tjp_api.v1+json	1	2	https://raw.githubusercontent.com/frowhy/Swagger2Postman/master/swagger.json
+array (ProjectPropertyFilter)	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Project.json
+array (SubjectDescriptor)	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Graph.json
+ascii	1	17	https://raw.githubusercontent.com/fli-iam/CARMIN/master/carmin.yaml
+average/min/max/numeric (1 -> 99.999)	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+base58[:ISO4217]	1	1	https://raw.githubusercontent.com/webwallet/api/master/api/swagger/swagger.yaml
+base64encodedImage	1	1	https://raw.githubusercontent.com/KayEm/display-blinky/master/DisplayPi.Web/api/swagger.yaml
+bibtex	1	1	https://raw.githubusercontent.com/wikimedia/citoid/master/spec.yaml
+bin	1	2	http://rebilly.github.io/RebillyAPI/swagger.json
+byte32	1	1	https://api.swaggerhub.com/apis/praveennagpal/reinsurance-contracts_api/1.0.0
+cents	1	1	https://api.swaggerhub.com/apis/paulmandal/ads-api/1.0.0
+character	1	3	https://raw.githubusercontent.com/keerthanat/Mayday/master/Documents/MayDay_REST_API_Documentation.yaml
+charcater	1	1	https://raw.githubusercontent.com/keerthanat/Mayday/master/Documents/MayDay_REST_API_Documentation.yaml
+checkbox	1	3	https://api.swaggerhub.com/apis/atmacaberke/Anheuser-Busch/1.0
+clob	1	6	https://api.swaggerhub.com/apis/happysathya/OpenDirectAPI/1.0
+cloudinaryID	1	1	https://api.swaggerhub.com/apis/salockhart/CrapMap/1.0.0
+com.alertdriving.esb.account.Account	1	1	https://api.swaggerhub.com/apis/royzhu/account-system/0.0.1
+com.boaweb.objectid	1	2	https://raw.githubusercontent.com/nh32rg/hooktest/master/service.yaml
+com.eagleinvsys.camel.processors.jsonconverter.Res...	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+com.eagleinvsys.mashup.objects.GenericPositionMash...	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+com.eagleinvsys.objects.TSR	1	1	https://raw.githubusercontent.com/andriy-shtanheiev/Angular2-POC/master/src/data/initial-data.json
+comma delimited list of Connect company ids	1	1	https://api.swaggerhub.com/apis/danielcgreen/analyze-api/v1
+comma-seperated list	1	15	https://raw.githubusercontent.com/eleven41/skeddly-api-docs/master/skeddly-api.yaml
+composite	1	1	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+composite_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+convert_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+convert_html_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+copy_metadata_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+crontab	1	1	https://api.swaggerhub.com/apis/vagur/freeely-device_control_and_monitoring_api/0.0.1
+crypted string	1	1	https://api.swaggerhub.com/apis/Fede72/Falesia/1.0.0
+cuc	1	5	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+curie	1	1	https://api.swaggerhub.com/apis/buske/RareConnect/0.1.0
+customdateformat	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+customer-specific	1	2	https://api.swaggerhub.com/apis/alexswilliams/skillsforge_rde_event_api/0.9
+d/m/y H:i:s	1	3	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+dataTime	1	2	https://raw.githubusercontent.com/ltriggimgstg/testnode/master/config/swagger.yaml
+date  2011-03-12T00:00:00	1	3	https://api.swaggerhub.com/apis/LakanaEngineering/Lakana_RESTful_API_V2.13/2.13
+date (RFC-3339)	1	4	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+date yyyy-mm-dd	1	2	https://api.swaggerhub.com/apis/bip42/prismacloud/1.0.0
+date-only	1	5	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+date-string	1	1	https://api.swaggerhub.com/apis/Denys/dreamscloud/1.0.0
+date-time(iso8601 with timezone)	1	1	https://api.swaggerhub.com/apis/ethan_lee/sway-ml-py/1.0.0
+date-timestamp	1	5	https://api.swaggerhub.com/apis/lohengrin332/CINC_export/1.0.0
+date-type	1	1	https://raw.githubusercontent.com/nemesi8s/falcon.io/master/api/falcon.yaml
+date/comments/rating/random	1	1	https://raw.githubusercontent.com/vitush93/mffun/master/docs/api.yaml
+dateTIme	1	1	https://api.swaggerhub.com/apis/SamuelMcAravey/VendorLink/1.0.0
+dateonly	1	2	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+datetime (RFC-3339)	1	2	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+dateyyyy-mm-ddThh:mm	1	1	https://api.swaggerhub.com/apis/GatoPresto/credit-the_americas_management_api_mapi/1.0.0-b
+day	1	1	https://raw.githubusercontent.com/NoctivagusObitus/EinkaufsApp-Backend/master/swagger.yaml
+dc	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+dd-mm-yy	1	1	https://api.swaggerhub.com/apis/wilvergonzalez.delta/meykos/v1
+dd/MM/yy	1	2	https://api.swaggerhub.com/apis/hnquang112/MLoyalty/2.0.0
+deciaml	1	1	https://api.swaggerhub.com/apis/huawei.li/rest/1.0.0
+decimal value	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+dictionary of string	1	3	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Oss.json
+diman-mich@yandex.ru	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+doube	1	1	https://raw.githubusercontent.com/esaip-dotnet/quiz/master/swagger.json
+doubl	1	1	https://raw.githubusercontent.com/rominaracca/seminarioIUA/master/Swagger/swagger.yaml
+double for percents, int for units and amount	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+double,double	1	2	https://raw.githubusercontent.com/netoht/mobile-api/master/src/main/resources/static/public/swagger.yaml
+double64	1	1	https://api.swaggerhub.com/apis/kovda/UMKA/1.0.0
+duration literal	1	1	https://api.swaggerhub.com/apis/athind94/Canopi/0.1.0
+ellipse_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+email address	1	1	https://api.swaggerhub.com/apis/vvdl/AuthenticationServer/0.1
+email only	1	1	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+email standard	1	1	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+email(30)	1	1	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+en-US	1	4	https://api.swaggerhub.com/apis/AndrewBresee/warehouse/0.0.1
+enum - CASH - ROLLOVER_401K - WELLS_TRADE_ACCOUNT ...	1	1	https://api.swaggerhub.com/apis/mbedoian/mont/1
+enum - issued - closed - in_manual - in_process - ...	1	1	https://api.swaggerhub.com/apis/megakrutak/zaymer-api/1.0
+enum - monday - tuesday - wednesday - thursday - f...	1	1	https://api.swaggerhub.com/apis/immi/appointments/0.1
+enum -APPROVED -UNAPPROVED	1	1	https://api.swaggerhub.com/apis/angeltooth/hkjc-api_specifications/1.0
+enum value	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum values	1	13	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum values or UUID	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+enum('1','2','U')	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+enum('Normal', 'Chateado', 'Critico', 'Insatisfeit...	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+enum=['starting', 'started', 'paused', 'finishing'...	1	1	https://api.swaggerhub.com/apis/Mirann/JeFile.Monitor/1.0.0
+enum_name	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+env-prod-dc	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+facebook,vkontakte	1	3	https://api.swaggerhub.com/apis/talaka/api.talaka.user/1.0.0
+falsy	1	1	https://raw.githubusercontent.com/BigstickCarpet/swagger-parser/master/tests/specs/validate-schema/valid/unknown-format.yaml
+fbcf581cefbcf577581cefbcf577abad8b8	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+field1,field2	1	1	https://api.swaggerhub.com/apis/rebel-l/SessionService/0.2.0
+fieldname	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+file-name	1	1	https://raw.githubusercontent.com/miloscitakovic/api-descriptions/master/content-management/swagger/content-management.json
+filter	1	9	https://raw.githubusercontent.com/flapjack/flapjack.io/master/lib/swagger/api.json
+flaot	1	1	https://api.swaggerhub.com/apis/lackneets/vaults/1.0.0
+flloat	1	1	https://api.swaggerhub.com/apis/electrific_wp4/Electrific_CSP_ADAS/0.1.0
+float - Expected values are between 0 and 1. where...	1	2	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
+folder-path	1	1	https://raw.githubusercontent.com/miloscitakovic/api-descriptions/master/content-management/swagger/content-management.json
+formData	1	1	https://raw.githubusercontent.com/yulane/myblog/master/api.myblog/public/doc/swagger.json
+g	1	4	https://api.swaggerhub.com/apis/feymartynov/putinway/0.0.1
+glob-style string pattern	1	5	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+gtin13	1	2	https://api.swaggerhub.com/apis/kevinlli/LocateDrinks/0.1
+guid+guid	1	1	https://raw.githubusercontent.com/BristechSRM/comms/master/Comms/api.json
+hex color code	1	1	https://api.swaggerhub.com/apis/ankobi/PickToLightControl/1.0.0
+hex_color	1	2	https://api.swaggerhub.com/apis/ninjudd/yarn/1.0.0
+hexadecimal	1	3	https://raw.githubusercontent.com/0verseas/0verSchool/master/api/swagger.yaml
+hexadecimal without pound sign	1	1	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+hexstring	1	2	https://raw.githubusercontent.com/MaxLeap/Docs/master/zh/REST/API/api.json
+hh:mm	1	1	https://raw.githubusercontent.com/ghentlivinglab/Personalized-mobility-information-service-solution-1/master/2015-2016-api-mobiliteitscentrum/swagger.json
+hh:mm:ss	1	1	https://raw.githubusercontent.com/CEITECHS/pango-service-registry/master/src/main/resources/pango-api.yaml
+host	1	1	https://api.swaggerhub.com/apis/helen/mock-test/1.0
+hour	1	2	https://api.swaggerhub.com/apis/rubendura/Hypit/v2.0.0
+hours	1	1	https://api.swaggerhub.com/apis/rikeshkarki/Airlines/1.0.0
+hstore	1	8	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+http address	1	4	https://api.swaggerhub.com/apis/ankobi/PickToLightControl/1.0.0
+http-method	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+https://api.app-eventa.com/media/avatars/581cefbcf...	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://api.app-eventa.com/media/covers/9140845298...	1	2	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://google.com	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+https://google.com/pic.jpg	1	7	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+ia32	1	8	https://raw.githubusercontent.com/CodingFishWu/se350-project3/master/docs/api.yaml
+iban	1	1	https://api.swaggerhub.com/apis/nemenemsrouge/be-2_bill_internal_backoffice_api/1.0.0
+ican	1	1	https://api.swaggerhub.com/apis/alyen/pts6_wherehouse/1.0.0
+icao	1	3	https://api.swaggerhub.com/apis/fabersolutions/flightSchedule/1.0.0
+image_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+incoming, outgoing or both	1	2	https://raw.githubusercontent.com/netgroup-polito/neo4jmanager/master/WebContent/neo4jmanager.yaml
+initeger	1	1	https://raw.githubusercontent.com/savardiego/21tiles/master/manifest.yaml
+int 32	1	1	https://api.swaggerhub.com/apis/manl/PC-Core-REST-API/1.0.0
+int.	1	1	https://api.swaggerhub.com/apis/davidwtf/IaaSOS/v1
+int17	1	1	https://api.swaggerhub.com/apis/guilhermehahn/buscaDadosBeneficiario/1.0.0
+int23	1	3	https://raw.githubusercontent.com/damianpeterson/roundpal-api/master/web/documentation/roundpal.json
+int255	1	1	https://api.swaggerhub.com/apis/hrawal/Test/1.0.0
+int32"	1	1	https://api.swaggerhub.com/apis/andix25/LAG/1.0.0
+int32`	1	1	https://api.swaggerhub.com/apis/tonyt1/RoboSim/1.0.0
+int32a	1	1	https://raw.githubusercontent.com/nokia-cdp/developer-ecosystem/master/resources/sdks/REST-APIs/swaggerdocs-6.0/swagger.yaml
+int63	1	1	https://api.swaggerhub.com/apis/davidwudv/kugou_user_assets/0.9.4
+int64 required:true	1	1	https://api.swaggerhub.com/apis/lucksonmachaya/Client/1.0.0
+int64'	1	1	https://raw.githubusercontent.com/notfred/lrweb/master/webservices/nodejs-server/api/swagger.yaml
+int66	1	1	https://raw.githubusercontent.com/rustanddust/itinerary-backend-doc/master/swagger.yaml
+int664	1	1	https://raw.githubusercontent.com/inf-uach/SophiaAPI/master/Docs/swagger.json
+int92	1	1	https://api.swaggerhub.com/apis/lauriChu/PropertyCross_ApI/1.0.0
+intMin0Max21845	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+intMin0Max65535	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+integer 0-600	1	1	https://api.swaggerhub.com/apis/kdhamric/crossbrowsertesting-com_live_tests_api/3.0.0
+integer or string	1	1	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+integer/float	1	13	https://api.swaggerhub.com/apis/danielkonimbo/Konimbo/1.0.0
+integerMin0Max60000000	1	1	https://api.swaggerhub.com/apis/wuxiuchao/L2VPN-NBI/0.1.0
+integet	1	1	https://api.swaggerhub.com/apis/x31forest/LINSI/1
+interger	1	1	https://api.swaggerhub.com/apis/mchurakou/world-shop_api/1.0
+intt32	1	1	https://api.swaggerhub.com/apis/ashrafk/ahs-apis/1.6.4
+ip address	1	1	https://api.swaggerhub.com/apis/alexphi/CertificationAPI/1.0.0
+iso	1	2	https://api.swaggerhub.com/apis/bart.goormans/tct_selligent_customer/1.0.0
+iso-4217	1	2	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+iso-4217-alpha	1	1	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+iso-8601 date	1	4	https://raw.githubusercontent.com/kheob/FIT5140-Server/master/static/swagger.yaml
+iso-date-time	1	2	https://raw.githubusercontent.com/SuysWimi/kambi-player-store/master/swagger.yaml
+iso8601 datetime	1	4	https://api.swaggerhub.com/apis/rikeshkarki/Airlines/1.0.0
+iso8601-timestamp	1	1	https://raw.githubusercontent.com/thewizardplusplus/vk-group-stats/master/docs/api.yaml
+issn code	1	2	https://api.swaggerhub.com/apis/ppKrauss/issnl-resolver/1.0.0
+items */{total-items} where {total-items} is a num...	1	1	https://raw.githubusercontent.com/sometimesiwonder/test123/master/v0001.json
+items {start}-{end}/{total-items} where {total-ite...	1	4	https://raw.githubusercontent.com/sometimesiwonder/test123/master/v0001.json
+json-schema-ref	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+json:json-schema-ref	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+jsonb	1	6	https://api.swaggerhub.com/apis/analia.garciain/Eventos/1.0.0
+jsoon	1	1	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+key	1	2	https://api.swaggerhub.com/apis/Enketo/enketo-express-oc-account-manager/1.0.0
+language	1	2	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+language code	1	3	https://api.swaggerhub.com/apis/domenik.antosch/SitecoreProspects/1.0.0
+lat,lng	1	1	https://raw.githubusercontent.com/parapety/PubsAPI/master/web/swagger.json
+latitude	1	2	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+line_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+link	1	3	https://api.swaggerhub.com/apis/geekyapi/sample_api/1.0.0
+list	1	1	https://api.swaggerhub.com/apis/guillaumeo/febreze-home_hackathon_api/1.0
+list of ids	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS_API_System/master/LandPKS_API_System.yaml
+localdate	1	5	https://api.swaggerhub.com/apis/sune/Legatbogen/1.0.0
+login success	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+longint	1	1	https://api.swaggerhub.com/apis/akulshin/Drova_server_POC/1.0.0
+longitude	1	2	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
+longtext	1	1	https://api.swaggerhub.com/apis/thejayemiller/DNcore/1.0.0
+m or f	1	1	https://raw.githubusercontent.com/OrganicityEu-Platform/api/master/raw/Scenarios.yaml
+mac	1	1	https://api.swaggerhub.com/apis/fifco/api-trackend/1.0.0
+machine1+machine2+...	1	1	https://raw.githubusercontent.com/thomasheckmann/zxinfo-services/master/swagger.yaml
+machineName	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/doc/metricsystem_swagger.yaml
+male/female	1	1	https://api.swaggerhub.com/apis/Denys/dreamscloud/1.0.0
+manual (hmc order) OR custom (specific set of rule...	1	5	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
+md5sum	1	14	https://raw.githubusercontent.com/openstack/kloudbuster/master/kb_server/kloudbuster-swagger.yaml
+media type e.g. "image/png"	1	1	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
+mediumint 9	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
+merge_to_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+meta:api-version	1	2	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:file-name	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:license	1	6	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+meta:meta-identifier	1	1	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+meta:phone-number	1	1	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+meta:timezone	1	1	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
+meta:title	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+millisec	1	2	https://raw.githubusercontent.com/capehorn/swagger-vertx-elm/master/src/main/resources/upbeat-api.json
+mime type	1	2	https://raw.githubusercontent.com/airbusgeo/api-docs/master/view.yaml
+mimetype	1	5	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+mmddyyyy	1	1	https://raw.githubusercontent.com/tradestation/api-docs/master/spec/swagger.yaml
+mongoID	1	1	https://api.swaggerhub.com/apis/salockhart/CrapMap/1.0.0
+mongodb-objectid	1	1	https://raw.githubusercontent.com/thewizardplusplus/vk-group-stats/master/docs/api.yaml
+multipart/form-data	1	1	https://raw.githubusercontent.com/XiaChen2016/expense-tracker/master/Documents/TrackrAPI(2.1).json
+m|km|cm|mm|mi|sm|ft|in|yd	1	1	https://raw.githubusercontent.com/Aallam/GeoLocation-API/master/api/swagger.yaml
+name of field to sort	1	2	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+natural	1	2	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+newpassword	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+nickname	1	1	https://raw.githubusercontent.com/s0nerik/BugTracktor/master/api/swagger/swagger.yaml
+normalized location	1	1	https://raw.githubusercontent.com/stevenpollack/dairy_queen/master/swagger.yaml
+not required	1	1	https://api.swaggerhub.com/apis/dipakmali/Prompto_api/1.1.0
+null	1	4	https://api.swaggerhub.com/apis/anson/Testing/0.0.1
+numbers	1	1	https://api.swaggerhub.com/apis/SarfarazAlam/LCExchangeDesktop/1.0.0
+object-id	1	2	https://api.swaggerhub.com/apis/seangallavan/config/0.0.1
+objectId:Explorer	1	1	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+objectId:Tip	1	1	https://api.swaggerhub.com/apis/wadehuang36/Tiplr/1.0.0
+ocr_operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+ocr_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+ocr_text_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+oldpassword	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+onixContributorRole	1	1	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+onixProductForm	1	1	https://raw.githubusercontent.com/blinkboxbooks/catalogue-v2.scala/master/swagger/books-api-v2.yaml
+opaque	1	14	https://api.swaggerhub.com/apis/adizdari/api-to_manage_purchase_orders/1.0.1
+operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+operation_response_common	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+optional/required	1	2	https://api.swaggerhub.com/apis/momin_aadil/Orbango_Api/1.0.0
+palindrome	1	1	https://raw.githubusercontent.com/Tzinov15/SwaggerBank/master/demo/demoApi.yaml
+passwrod	1	1	https://raw.githubusercontent.com/lixingwang/go-swagger-files/master/SwaggerValidationIssues.json
+pasword	1	2	https://api.swaggerhub.com/apis/estevaolucas/Clubinho/0.0.1
+pdf_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+percent	1	2	https://api.swaggerhub.com/apis/Cryowatt/LendingClubAPI/v1
+phonenumber	1	1	https://api.swaggerhub.com/apis/badbod99/LMS-Mobile-API/1.0.0.0
+plain/text	1	2	https://raw.githubusercontent.com/MarechJ/email_api/master/swagger.yaml
+positive integer	1	3	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+postal code	1	2	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+process	1	1	https://raw.githubusercontent.com/Pastor/modules/master/rest-oauth2/src/main/resources/api.v1.0.3.yaml
+propertyName ASC | DESC	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+propertyname ASC|DESC	1	6	https://raw.githubusercontent.com/KaloNikolov/node-js-to-azure-deployment/master/api/swagger.yaml
+qr_code_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+raw	1	1	https://raw.githubusercontent.com/influxdata/chronograf/master/server/swagger.json
+readonly	1	2	https://api.swaggerhub.com/apis/dengit/Curriculum/3.1.1
+rectangle_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+referenced capability ID	1	1	https://api.swaggerhub.com/apis/shirisha/CapabilityTest/1.0.0
+relative URL to mapping	1	1	https://api.swaggerhub.com/apis/daljian/ErrorCodeMapping/1.0.0
+rison	1	9	https://raw.githubusercontent.com/cogniteev/oncrawl-api-swagger-v1/master/swagger.yaml
+route-handler	1	11	https://raw.githubusercontent.com/corenova/yang-express/master/swagger.yaml
+rtf_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+secure_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+selector	1	4	https://api.swaggerhub.com/apis/wuxiuchao/VPC-SBI/0.1.0a
+semantic-iri	1	3	https://raw.githubusercontent.com/6aika/api-paatos/master/paatos.swagger.yaml
+sensorSchema	1	1	https://raw.githubusercontent.com/mfeneley/LargeScale/master/dist/api-docs.json
+serial	1	1	https://api.swaggerhub.com/apis/benscoterbk/getProgramByLoc/1.0.0
+sha1	1	5	https://api.swaggerhub.com/apis/pekebuda/test/1
+sha256	1	4	https://raw.githubusercontent.com/e-gob/API-SES-Wrapper/master/OpenAPI.yaml
+sharepoint_file	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+short-date	1	1	https://api.swaggerhub.com/apis/pchipman/SmallGroupEnrollment/1.0.0
+sid	1	19	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+signup failed	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+signup success	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+smallint	1	1	https://api.swaggerhub.com/apis/stafot/ExchangeRates/0.1
+softwared.d	1	1	https://api.swaggerhub.com/apis/dvjunior/ocs-inventory-api/1.0.0
+spectral hash	1	1	https://raw.githubusercontent.com/stuchalk/OSDB/master/app/webroot/files/swagger.json
+split_operation_response	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+split_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+sqlite3 DATETIME	1	1	https://raw.githubusercontent.com/pepaslabs/TrivialGutenbergTweetsAPI/master/spec.yaml
+station	1	4	https://api.swaggerhub.com/apis/h0rnyc0rny/Test/1.0.0
+street name and number	1	2	https://raw.githubusercontent.com/cultuurnet/udb3-swagger/master/swagger.json
+strin	1	1	https://api.swaggerhub.com/apis/Colbap/Liveboards/1.0.0
+string {0-2% ; 3-5% ; 6-10% ; 11-15% ; 16-30% ; 31...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+string(20)	1	4	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+string(30)	1	1	https://api.swaggerhub.com/apis/pasavvas/HEWI/0.0.1
+string-time	1	3	https://api.swaggerhub.com/apis/timhilco/UdpPersons/1.0.0
+stringt	1	1	https://api.swaggerhub.com/apis/continuumsecurity/IriusRisk/1
+subscriber-outflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+success	1	1	https://api.swaggerhub.com/apis/davidboy/ChoirMaster/0.0.2
+swagger	1	1	https://raw.githubusercontent.com/miqui/oneview-synergy-openapi/master/swagger.yaml
+tel	1	2	https://api.swaggerhub.com/apis/aspdoctor/web-api/0.1.0
+telephone	1	1	https://raw.githubusercontent.com/azurestandard/api-spec/master/public.json
+test	1	3	https://raw.githubusercontent.com/mauricesvay/SketchfabDataApi/master/swagger.json
+text_watermark_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
+texto	1	4	https://raw.githubusercontent.com/ismaelaraujo/posUnipe/master/swagger.json
+time (RFC-3339-like)	1	2	https://api.swaggerhub.com/apis/Flox06/noogat-api/1.0.0
+time-bucket	1	2	https://api.swaggerhub.com/apis/chris.carter/2015.10/1.0.0
+time-data	1	1	https://api.swaggerhub.com/apis/dejwoo/ECN/0.0.1
+time-only	1	3	https://api.swaggerhub.com/apis/ZiNETHQ/SimpleUK/2.0
+time_range	1	1	https://raw.githubusercontent.com/epforgpl/_mojePanstwo-API-Server/master/app/webroot/swagger-bdl.json
+timestamp with time zone	1	4	https://api.swaggerhub.com/apis/jgwerner/postg-rest_api/0.3.2.0
+tinyint(1)	1	5	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+true/false	1	1	https://api.swaggerhub.com/apis/grahamhardy/dxGetAbout/1.0.0
+truthy, any value apart from false or 0 will be tr...	1	1	https://raw.githubusercontent.com/sergehuber/contextserver-rest-api/master/cxsSwagger.yaml
+twitter handle	1	2	https://api.swaggerhub.com/apis/jm.agms/Perpetual-Profits/1.0.0
+type1+type2+...	1	1	https://raw.githubusercontent.com/thomasheckmann/zxinfo-services/master/swagger.yaml
+tzinfo	1	3	https://raw.githubusercontent.com/flapjack/flapjack.io/master/lib/swagger/api.json
+uatg	1	1	https://api.swaggerhub.com/apis/vmfernandez/your-api/3.0.0
+uint256	1	3	https://raw.githubusercontent.com/genecyber/RibbitFlow/master/public/api-spec/spec.yaml
+unicode	1	1	https://api.swaggerhub.com/apis/MaelP/ToDo/1.0.0
+union	1	1	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
+unique	1	4	https://api.swaggerhub.com/apis/lieroz/Joking-Hazard/1.0.0
+unique name of the asset	1	1	https://raw.githubusercontent.com/sagarkrkv/assetStore/master/swagger_server/swagger/swagger.yaml
+unit8	1	2	https://raw.githubusercontent.com/Dataman-Cloud/omega-api-docs/master/apiv3/api-doc.yaml
+unix time	1	1	https://api.swaggerhub.com/apis/theoldmoon0602/inspix-server/1.0.0
+unix-time	1	1	https://raw.githubusercontent.com/Chronoes/ttu-webservices-project/master/docs/restApi.yaml
+unix-timestamp	1	1	https://api.swaggerhub.com/apis/hafster/DeliverIt/1.0.0
+unsigned integer	1	1	https://raw.githubusercontent.com/HundertTage/Server/master/Swagger.yaml
+unt64	1	1	https://raw.githubusercontent.com/montaltomarco/snaparound----backEnd/master/spec/v1.0.json
+upc	1	1	https://api.swaggerhub.com/apis/benscoterbk/getProgramByLoc/1.0.0
+url-encoded utf-8	1	8	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
+urlToken	1	8	https://api.swaggerhub.com/apis/zerocaps/zerocaps-test1/0.0.6
+user_email@host.org	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+username	1	1	https://api.swaggerhub.com/apis/zvfvrv/BeWanted/1.0.0
+utc	1	5	https://raw.githubusercontent.com/johng/HeatMap/master/WebServer/swagger.yaml
+utl	1	1	https://api.swaggerhub.com/apis/massimilianoregis/dante/1.0.0
+uuid.v4	1	2	https://api.swaggerhub.com/apis/SeiyaMogami/eiyo-tool/1.0.0
+uuidv4	1	5	https://api.swaggerhub.com/apis/pdok/manipulatie/0.3
+uuis	1	1	https://api.swaggerhub.com/apis/gfaieta/CustomerOrder/1.0.0
+uuuid	1	1	https://raw.githubusercontent.com/libopenstorage/specs/master/api/openstorage.yaml
+valid_json	1	22	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+valid_url	1	4	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
+values of CampaignStatus enumeration	1	1	https://api.swaggerhub.com/apis/viacheslav-k/VMS-RD/1.0.0
+varchar(1)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(10)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(100)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(128)	1	1	https://api.swaggerhub.com/apis/murvisbit/0AuthApi/1.0.0
+varchar(15)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(20)	1	3	https://api.swaggerhub.com/apis/DeepakBhatia/Test/1.0.0.0
+varchar(200)	1	1	https://api.swaggerhub.com/apis/murvisbit/Login/1.0.0
+varchar(30)	1	2	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(45)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar(70)	1	1	https://api.swaggerhub.com/apis/FabianReyesSP/rh_apis/1.0
+varchar2	1	14	https://api.swaggerhub.com/apis/berniechiu/familymart_vendors/1.0.0
+variable but set	1	2	https://raw.githubusercontent.com/ygirard/NxICAPI/master/Swagger_APISpec.yaml
+versionNumber	1	1	https://api.swaggerhub.com/apis/samholder/lines-service/1.4.0
+vsg:subscriber-inflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-vsg/swagger.yaml
+vsg:subscriber-outflow	1	10	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-vsg/swagger.yaml
+wrong	1	1	https://raw.githubusercontent.com/Azure/autorest/master/src/modeler/AutoRest.Swagger.Tests/Resource/Swagger/Validation/invalid-format.json
+wrong password	1	1	https://raw.githubusercontent.com/ForzaGreen/webdav-proxy/master/swagger_api.json
+x..y	1	2	https://raw.githubusercontent.com/bptlab/chimera/master/docu/rest/swagger.yaml
+x.x.x.x	1	1	https://api.swaggerhub.com/apis/sylphlin/host_status/1.0.0
+xml	1	1	https://api.swaggerhub.com/apis/ihartney/oracle-commerce_cloud_service_17_1/2017.02.14
+xtype:mac-address	1	16	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+xtype:network-identifier	1	6	https://raw.githubusercontent.com/corenova/yang-cord/master/service/cord-volt/swagger.yaml
+xxx	1	1	https://api.swaggerhub.com/apis/kaysid/Consumption_Framework/1.0.0
+xxx@yyy	1	2	https://raw.githubusercontent.com/noelo/fusedemo/master/MessagingAPI/main/resources/swagger/swagger.yaml
+xxxx	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+xxxx-xx-xx	1	2	https://api.swaggerhub.com/apis/slallana/histogram-api/1.0
+y-m-d	1	3	https://api.swaggerhub.com/apis/reine/Lanetalk/1.0.0
+year	1	1	https://api.swaggerhub.com/apis/nksoff/cherry-pick-project-api/0.1.0
+year-month-day hout:minute:seconds	1	1	https://api.swaggerhub.com/apis/asikranjm/Playos_Connect/1.0.0
+yearmonth	1	1	https://raw.githubusercontent.com/randing89/swagger-model/master/test/swagger.json
+yes	1	1	https://api.swaggerhub.com/apis/bhaskarvyas001/OnlineXpress/1.0.0
+yourmail@hostmail.com	1	4	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+yyyy, yyyy-mm, yyyy-mm-dd	1	1	https://api.swaggerhub.com/apis/GatoPresto/credit-the_americas_management_api_mapi/1.0.0-b
+yyyy-MM-dd	1	1	https://api.swaggerhub.com/apis/cyoungmark/LAPI/1.0
+yyyy-MM-dd'T'HH:mm:ss'Z'	1	4	https://raw.githubusercontent.com/nbonavia/bet-swagger/master/swagger.json
+yyyy-MM-dd'T'HH:mm:ss.SSSZ	1	2	https://api.swaggerhub.com/apis/himapratap/AAP/1.0.0
+yyyy-mm-dd HH:mm:ss	1	2	D:\nodejs\analysis\swaggerhub\kvarts+test@1.0.0.yaml
+yyyyMMddThhmmss	1	1	https://api.swaggerhub.com/apis/dolice/Parts/1.0.0
+Великолепно	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Москва	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Россия	1	3	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+Строка, длиной он 0 до 127	1	1	https://api.swaggerhub.com/apis/bugor/django-eventa/1.0.0
+“train”, “tram”, “bus”, “vline” or “nightrider”	1	1	https://raw.githubusercontent.com/Crazedpeanut/PTV-Client-SDKs/master/swagger.yaml
