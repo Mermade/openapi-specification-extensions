@@ -7,7 +7,7 @@ date	1304	7845	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API
 float	1055	5500	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 uuid	895	4879	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 string	815	7188	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-byte	567	1607	D:\nodejs\analysis\defs\ztz0223+FileManagerWithExpress@Yaml-storage.yaml
+byte	567	1607	D:\nodejs\analysis\defs\ztz0223+FileManagerWithExpress@Yaml-file_swagger.yaml
 password	521	727	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 email	385	762	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 integer	334	2249	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -45,30 +45,30 @@ uint8	17	25	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Pr
 any text	16	75	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 base64url	16	66	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 file	16	44	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string containing the base currency and quote currency delimited by a _.	15	69	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A string containing the base currency and quote cu...	15	69	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 DateTime	15	47	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 array	14	27	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 int8	14	173	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 isbn	14	27	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encoded as a string. The amount of precision provided depends on what the number represents.	13	93	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string conforming to RFC 3339 (https://tools.ietf.org/rfc/rfc3339.txt). The amount of sub-second precision provided may represent milliseconds (000 to 999), microseconds (000000 to 999999) or nanoseconds (000000000 to 999999999).	13	212	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A decimal number encoded as a string. The amount o...	13	93	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A string conforming to RFC 3339 (https://tools.iet...	13	212	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Signed 32-bit integer	13	42	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Stream	13	35	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 base64	13	24	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 http status code	13	26	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ip-address	13	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encodes as a string. The amount of precision provided depends on the Price's Instrument.	12	112	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A decimal number encodes as a string. The amount o...	12	112	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 YYYY-MM-DD	12	44	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 array (string)	12	47	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ipv4	12	53	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String representation of the numerical OANDA-assigned TransactionID	11	272	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+String representation of the numerical OANDA-assig...	11	272	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 float32	11	56	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 id	11	134	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 xss-token	11	171	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 integer32	10	38	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 svg	10	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 uid	10	68	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A decimal number encoded as a string. The amount of precision provided depends on the Account's home currency.	9	94	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A decimal number encoded as a string. The amount o...	9	94	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ???	8	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 path	8	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 phone	8	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -78,8 +78,8 @@ TimeSpan	7	18	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 enum	7	57	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /^(\d+\.)?(\d+\.)?(\*|\d+)$/	6	111	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 JToken	6	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-The string representation of the OANDA-assigned OrderID. OANDA-assigned OrderIDs are positive integers, and are derived from the TransactionID of the Transaction that created the Order.	6	96	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-The string representation of the OANDA-assigned TradeID. OANDA-assigned TradeIDs are positive integers, and are derived from the TransactionID of the Transaction that opened the Trade.	6	82	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+The string representation of the OANDA-assigned Or...	6	96	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+The string representation of the OANDA-assigned Tr...	6	82	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 URI	6	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 currency	6	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 data-time	6	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -91,7 +91,7 @@ inet:uri	6	41	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 leafref	6	161	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 mask	6	141	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 time-date	6	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A string containing an ISO 4217 currency (http://en.wikipedia.org/wiki/ISO_4217)	5	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A string containing an ISO 4217 currency (http://e...	5	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 JWT Tokens	5	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 any	5	22	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 array (int32)	5	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -105,7 +105,7 @@ int4	5	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Prov
 local-date-time	5	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 meta:description	5	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 yyyy-mm-ddThh:MM:ssZ	5	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Either the Order's OANDA-assigned OrderID or the Order's client-provided ClientID prefixed by the @ symbol	4	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Either the Order's OANDA-assigned OrderID or the O...	4	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 HH:MM	4	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 HttpResponseMessage	4	72	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ISO 8601	4	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -129,7 +129,7 @@ utc-millisec	4	38	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_
 xtype:access-role	4	100	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 xtype:unique-identifier	4	143	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 yang:date-and-time	4	22	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
---delimited string with format {siteID}-{divisionID}-{userID}-{accountNumber}	3	75	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+"-"-delimited string with format "{siteID}-{divisi...	3	75	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 As stored in database	3	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 CLXXXX	3	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 CLXXXXX	3	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -170,11 +170,11 @@ xtype:isolation	3	18	https://raw.githubusercontent.com/dzavetz/API-test/master/S
 /^[a-z](?:[a-z\-0-9]*[a-z0-9])?$/	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 16 byte random value	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 16 byte string returned by /users/access	2	16	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-A user specifier may have one of 3 formats: the OANDA-assigned User ID (numerical), the client-provided username prefixed by the @ symbol (e.g. @myusername), or the @ symbol. The @ symbol on its own acts as an alias for the username of the user accessing the endpoint (as inferred from the token provided).	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+A user specifier may have one of 3 formats: the OA...	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Basic base64 encoded login:password	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Change	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Date	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Either the Trade's OANDA-assigned TradeID or the Trade's client-provided ClientID prefixed by the @ symbol	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Either the Trade's OANDA-assigned TradeID or the T...	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 FolderPathQueryOrder	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 GetWorkItemTypeExpand	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 IMSI	2	12	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -187,7 +187,7 @@ IssuedToken	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_AP
 Locale	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MessageML	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 OperationStatus	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {0-15% ; 15-35% ; 35-60% ; >60%}	2	21	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Single element in set {0-15% ; 15-35% ; 35-60% ; >...	2	21	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 TBD	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 The string 'Bearer ' followed by the token.	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Timespan	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -195,9 +195,9 @@ VersionControlRecursionType	2	8	https://raw.githubusercontent.com/dzavetz/API-te
 WKT Geometric objects	2	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 XML	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ZIP	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-| delimited field names	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-| delimited integers	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-| delimited model names	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+\"|\" delimited field names	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+\"|\" delimited integers	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+\"|\" delimited model names	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ^[0-9a-f]{8}$	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ^[a-z](?:[a-z\-0-9]*[a-z0-9])?$	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 algorithm-and-colon-and-hexstring	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -214,7 +214,7 @@ count	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Prov
 countrycode	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 cpf	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 currency-code	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-enum - BOOKED - CANCELLED - PAID - UPDATE_REQUESTED - UPDATED - STARTED - FINISHED	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+enum - BOOKED - CANCELLED - PAID - UPDATE_REQUESTE...	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 epoch	2	6	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 extid	2	8	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 flow-id	2	13	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -255,7 +255,7 @@ tryte	2	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Prov
 url-path	2	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 xtype:flow-identifier	2	43	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 yang:yang-identifier	2	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Device_ID	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+"Device_ID"	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 #/definitions/Cursor	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 #/definitions/Hakemus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 #/definitions/Hakemuskausi	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -264,6 +264,7 @@ Device_ID	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 #/definitions/TaydennysHakuohje	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 '90x90' | '195'x'195' | '584'x'584'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 'CallerId' | 'SmsSender'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+'completed={result_url}' : query successfuly proce...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ([0-9]+[-])*[0-9]+	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 (format to define)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 +XXAABBCCDDEE	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -272,11 +273,11 @@ Device_ID	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 ...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /(\W\w+\-?)+/	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /Foo/Bar	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-/\A([\w+\-](\.[\w+\-])?)+@[a-z\d\-]+(\.[a-z]+)*\.[a-z]+\z/i	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+/\A([\w+\-](\.[\w+\-])?)+@[a-z\d\-]+(\.[a-z]+)*\.[...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /\d+/	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /^[a-zA-Z0-9]+$/	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 /^bbbmap:[a-zA-Z0-9]+:/	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-0    Train (metropolitan) 1    Tram 2    Bus (metropolitan, regional and Skybus, but not V/Line) 3    V/Line train and coach 4    Night Bus (which replaced NightRider)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+0    Train (metropolitan) 1    Tram 2    Bus (metr...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 0-16	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 0\d{7}X\d	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 0nnnnnnnnn	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -329,7 +330,7 @@ DeploymentOperationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test
 DeploymentStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Either 'all' or a version number.	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Embed URL for this attachment	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Embed URL for this attachment (* TODO - o que eh isso?)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Embed URL for this attachment (* TODO - o que eh i...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Empty string if true	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Eurobetrag	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ExtensionRequestState	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -337,7 +338,7 @@ ExtensionValidationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test
 Float	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 FolderQueryOrder	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Foo/Bar	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-For local Authentication this is the User's email address	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+For local Authentication this is the User's email ...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Format : yyyy-mm-dd 	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 GUID	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 GetBehaviorsExpand	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -371,12 +372,12 @@ MAC Address	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_AP
 MS	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MachineGroupActionFilter	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MailSectionType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Major Version.Minor Version.Build YYMM.Build Release	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Major Version.Minor Version.Build YYMM.Build Relea...	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MediaType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MetadataType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 MongoDB ObjectId	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Nome Cognome	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-None or combination elements in Set {LIVESTOCK, GOAT, SHEEP,WILDLIFE,CATTLE}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+None or combination elements in Set {LIVESTOCK, GO...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 NotificationResult	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 NotificationStatus	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 OAUTH2 (IAM)	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -416,24 +417,24 @@ ResponseType	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_A
 ResultDetails	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 ReviewSearchCriteria	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Risk1,Risk2,Risk3,Risk4,Risk5	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in Downslope set +  , + SINGLE element in Cross-slope Downslope = {LINEAR ; CONVEX;CONCAVE} Cross-Slope = {LINEAR ; CONVEX; CONCAVE}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in SET { <10cm ; 10-50cm ; 50cm-1m ; 1-2m ; 2-3m ; >3m}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SINGLE element in Downslope set +  , + SINGLE elem...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SINGLE element in SET { <10cm ; 10-50cm ; 50cm-1m ...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 SINGLE element in SET {5m ; 10m ; 15m ; 20m ; 25m}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE element in SET {WEST ; NORTH ; SOUTH ; EAST}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE elemet in SET { tree; shrubland; grassland;  savanna; garden/mixed; cropland; developed; barren; water;  }	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SINGLE elemet in SET { tree; shrubland; grassland;  savanna; garden/mixed; cropland; developed; barren; water; }	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-SUBSET of SET = { Bare ; Trees ; Shrubs ; Sub-shrubs ; Perennial grasses ; Annuals ; Herb Litter ; Wood Litter ; Rock} 	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SINGLE element in SET {WEST ; NORTH ; SOUTH ; EAST...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SINGLE elemet in SET { tree; shrubland; grassland;...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+SUBSET of SET = { Bare ; Trees ; Shrubs ; Sub-shru...	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 SecureFileActionFilter	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Set of 'CallerId', 'SmsSender'	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {SAND ; LOAMY SAND ; SANDY LOAM ; LOAM ; SILT LOAM ; SANDY CLAY LOAM ; CLAY LOAM ; SILTY CLAY LOAM ; SANDY CLAY ; CLAY ; SILTY CLAY}	1	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in set {SAND ; LOAMY SAND ; SANDY LOAM ;LOAM; SILT LOAM ; SANDY CLAY LOAM ; CLAY LOAM ; SILTY CLAY LOAM ; SANDY CLAY ; CLAY ; SILTY CLAY}	1	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-Single element in {FLAT (0-2%); GENTLE (3-5%); MODERATE (6-10%); ROLLING (11-15%); HILLY (16-30%); STEEP (31-60%); VERYSTEEP (60-100%);}	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	7	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Single element in set {SAND ; LOAMY SAND ; SANDY L...	1	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+Single element in {FLAT (0-2%); GENTLE (3-5%); MOD...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 Size(2)	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 StreamContent	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 StreamedBatch	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - None or combination elements in Set {LIVESTOCK, GOAT, SHEEP,WILDLIFE,CATTLE}	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - SINGLE element in Downslope set + , + SINGLE element in Cross-slope	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-String - Single element in Set {tree cover, >25% canopy ; shrub cover, >50% cover ; grassland, >50% grass ; savanna, 10-20% tree cover ; garden/mixed ; cropland ; developed ;water ; grassland ; forest ; village or city ; barren ; barren, < 5% Veg Cover ;Water, Swamp/Mash }	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+String - None or combination elements in Set {LIVE...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+String - SINGLE element in Downslope set + "," + S...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+String - Single element in Set {tree cover, >25% c...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 SubscriptionQueryFlags	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 TaskAgentPoolActionFilter	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 TaskAgentPoolType	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -494,8 +495,8 @@ character	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 character varying	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 charcater	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 com.boaweb.objectid	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.eagleinvsys.camel.processors.jsonconverter.ResultFileItem	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-com.eagleinvsys.mashup.objects.GenericPositionMashup	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+com.eagleinvsys.camel.processors.jsonconverter.Res...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+com.eagleinvsys.mashup.objects.GenericPositionMash...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 com.eagleinvsys.objects.TSR	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 comma-seperated list	1	15	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 composite	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -524,7 +525,7 @@ falsy	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Prov
 fieldname	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 file-name	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 filter	1	9	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-float - Expected values are between 0 and 1. where 0=remembered nothing and 1=remembered everything	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+float - Expected values are between 0 and 1. where...	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 folder-path	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 formData	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 glob-style string pattern	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -552,8 +553,8 @@ ipaddress	1	5	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_
 iso-8601 date	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 iso-date-time	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 iso8601-timestamp	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-items */{total-items} where {total-items} is a number or '*' if total could not be calculated.	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-items {start}-{end}/{total-items} where {total-items} is a number or '*' if total could not be calculated. {end} will be capped to index of last available item.	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+items */{total-items} where {total-items} is a num...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+items {start}-{end}/{total-items} where {total-ite...	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 json-schema-ref	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 json:json-schema-ref	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 label	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -570,7 +571,7 @@ machine1+machine2+...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/mas
 machineName	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 map	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 md5sum	1	14	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-media type e.g. image/png	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+media type e.g. "image/png"	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 merge_to_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 meta:api-version	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 meta:file-name	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -626,7 +627,7 @@ split_operation_response	1	1	https://raw.githubusercontent.com/dzavetz/API-test/
 split_pdf_data	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 sqlite3 DATETIME	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 street name and number	1	2	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-string {0-2% ; 3-5% ; 6-10% ; 11-15% ; 16-30% ; 31-60% ; >60%}	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+string {0-2% ; 3-5% ; 6-10% ; 11-15% ; 16-30% ; 31...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 subscriber-outflow	1	10	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 swagger	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 telephone	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
@@ -637,7 +638,7 @@ textarea	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_P
 texto	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 time_range	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 timestamp without time zone	1	4	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
-truthy, any value apart from false or 0 will be true	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
+truthy, any value apart from false or 0 will be tr...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 type1+type2+...	1	1	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 tzinfo	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
 uint256	1	3	https://raw.githubusercontent.com/dzavetz/API-test/master/SEP_API_Provisioning.json
