@@ -177,7 +177,7 @@ unixtime	4	17	https://raw.githubusercontent.com/Azure/azure-rest-api-specs/maste
 xtype:access-role	4	100	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
 xtype:unique-identifier	4	143	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
 yang:date-and-time	4	22	https://raw.githubusercontent.com/corenova/yang-cord/master/swagger.yaml
-"-"-delimited string with format "{siteID}-{divisi...	3	75	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
+--delimited string with format {siteID}-{divisi...	3	75	https://raw.githubusercontent.com/oanda/v20-openapi/master/yaml/separate/v20_transaction.yaml
 0/1	3	67	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
 >0	3	34	https://api.swaggerhub.com/apis/anson/Testing2/0.0.1
 As stored in database	3	3	https://raw.githubusercontent.com/mon0051/Angular2TestHarness/master/swagger/swagger.yaml
@@ -276,9 +276,9 @@ VersionControlRecursionType	2	8	https://raw.githubusercontent.com/Microsoft/tedc
 WKT Geometric objects	2	3	https://raw.githubusercontent.com/airbusgeo/api-docs/master/search.yaml
 XML	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E5%85%B1%E9%80%9A%E6%80%A7%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96%20%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2(API)%E8%A6%8F%E7%AF%84.yaml
 ZIP	2	2	https://raw.githubusercontent.com/PDIS/swagger_file/master/%E5%85%B1%E9%80%9A%E6%80%A7%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96%20%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2(API)%E8%A6%8F%E7%AF%84.yaml
-\"|\" delimited field names	2	8	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
-\"|\" delimited integers	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
-\"|\" delimited model names	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\|\ delimited field names	2	8	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\|\ delimited integers	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
+\|\ delimited model names	2	2	https://raw.githubusercontent.com/wikimedia/mediawiki-services-ores/master/ores/wsgi/routes/v2/swagger.yaml
 \d+	2	7	https://api.swaggerhub.com/apis/tanis/as-json_api/1.0.0
 ^S*$	2	10	https://api.swaggerhub.com/apis/vidcentum/portal/1.0.0
 ^[0-9a-f]{8}$	2	2	https://raw.githubusercontent.com/immoh/swagger-spec/master/test/resources/swagger-04.yaml
@@ -303,7 +303,7 @@ count	2	4	https://raw.githubusercontent.com/SixArm/swagger-starter/master/exampl
 cpf	2	4	https://raw.githubusercontent.com/Uniceub-Web-Development-2016-2/Jose-Lisboa/master/eventSys/docs/eventSys%20API.yaml
 currency-code	2	2	https://raw.githubusercontent.com/jharmn/swagger-api-checkstyle/master/examples/uber/swagger.yaml
 custom	2	5	https://api.swaggerhub.com/apis/ponelat/aww-snap/1.0.0
-date-fullyear"-"date-month"-"date-mday	2	2	https://api.swaggerhub.com/apis/DBiT/pigal/v0
+date-fullyear-date-month-date-mday	2	2	https://api.swaggerhub.com/apis/DBiT/pigal/v0
 dates	2	2	https://raw.githubusercontent.com/Azar06/AWIMarket/master/API-DOC.json
 dd-mm-yyyy	2	7	https://api.swaggerhub.com/apis/FF2i/api-passerelles/0.0.1
 dd/MM/yyyy HH24:MI:ss	2	4	https://api.swaggerhub.com/apis/indiegente/senati_api/1.1.0
@@ -399,7 +399,7 @@ yyyy-mm	2	4	https://api.swaggerhub.com/apis/vilakshan/Bidgely/2.1
 yyyy-mm-dd hh:ii:ss	2	10	https://api.swaggerhub.com/apis/Icdev/affise-api/2
 yyyymmdd	2	7	https://raw.githubusercontent.com/andy-zhangtao/v22/master/doc/api.json
 zip	2	3	https://raw.githubusercontent.com/andrewjtech123/rebilly-validschema/master/spec/swagger.yaml
-"Device_ID"	1	1	https://raw.githubusercontent.com/jimishio/jimishio.github.io/master/swagger.json
+Device_ID	1	1	https://raw.githubusercontent.com/jimishio/jimishio.github.io/master/swagger.json
 #$ref/definitions/Calculator.subtract.params	1	1	https://api.swaggerhub.com/apis/fboranek/calculator-example/1.0.0
 #/definitions/Cursor	1	1	https://raw.githubusercontent.com/zalando/nakadi/master/api/nakadi-event-bus-api.yaml
 #/definitions/Hakemus	1	1	https://raw.githubusercontent.com/solita/livijuku/master/juku-backend/src/swagger/asiahallinta/asiahallinta-api.yaml
@@ -748,7 +748,7 @@ Sting	1	1	https://api.swaggerhub.com/apis/ramanatha106/Nightwing/1.0
 StreamContent	1	1	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/TaskAgent.json
 StreamedBatch	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/WorkItemTracking.json
 String - None or combination elements in Set {LIVE...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
-String - SINGLE element in Downslope set + "," + S...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
+String - SINGLE element in Downslope set + , + S...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
 String - Single element in Set {tree cover, >25% c...	1	1	https://raw.githubusercontent.com/LandPotential/LandPKS/master/services/analysis/Uber_API.yaml
 SubscriptionQueryFlags	1	2	https://raw.githubusercontent.com/Microsoft/tedchambDocTest/master/TedChambDocTest/swagger/Notification.json
 TABLE	1	3	https://api.swaggerhub.com/apis/liang3404814/lc-lelab/3.0.0
@@ -990,7 +990,7 @@ int.	1	1	https://api.swaggerhub.com/apis/davidwtf/IaaSOS/v1
 int17	1	1	https://api.swaggerhub.com/apis/guilhermehahn/buscaDadosBeneficiario/1.0.0
 int23	1	3	https://raw.githubusercontent.com/damianpeterson/roundpal-api/master/web/documentation/roundpal.json
 int255	1	1	https://api.swaggerhub.com/apis/hrawal/Test/1.0.0
-int32"	1	1	https://api.swaggerhub.com/apis/andix25/LAG/1.0.0
+int32	1	1	https://api.swaggerhub.com/apis/andix25/LAG/1.0.0
 int32`	1	1	https://api.swaggerhub.com/apis/tonyt1/RoboSim/1.0.0
 int32a	1	1	https://raw.githubusercontent.com/nokia-cdp/developer-ecosystem/master/resources/sdks/REST-APIs/swaggerdocs-6.0/swagger.yaml
 int63	1	1	https://api.swaggerhub.com/apis/davidwudv/kugou_user_assets/0.9.4
@@ -1044,7 +1044,7 @@ machineName	1	1	https://raw.githubusercontent.com/Microsoft/MetricSystem/master/
 male/female	1	1	https://api.swaggerhub.com/apis/Denys/dreamscloud/1.0.0
 manual (hmc order) OR custom (specific set of rule...	1	5	https://api.swaggerhub.com/apis/dolice/Hybris-Search/1.0.0
 md5sum	1	14	https://raw.githubusercontent.com/openstack/kloudbuster/master/kb_server/kloudbuster-swagger.yaml
-media type e.g. "image/png"	1	1	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
+media type e.g. image/png	1	1	https://raw.githubusercontent.com/FWidm/FlashCardsAPI/master/_Docs/swagger-flashcards-api.yaml
 mediumint 9	1	1	https://api.swaggerhub.com/apis/luisfn/kinghost-api/2.0
 merge_to_pdf_data	1	1	https://raw.githubusercontent.com/Muhimbi/PDF-Converter-Services-Online/master/swagger/v1/muhimbi-pdf-online-swagger.json
 meta:api-version	1	2	https://raw.githubusercontent.com/corenova/yang-swagger/master/swagger.yaml
