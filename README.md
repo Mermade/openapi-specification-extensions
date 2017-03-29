@@ -23,7 +23,7 @@ Source|Analysis
 [Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](extensions/mermade.tsv)
 [SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](extensions/hapi.tsv)
 [SwaggerHub](http://swaggerhub.com)|[22872 definitions](extensions/swaggerhub.tsv)
-~~Combined~~|[49366 definitions](extensions/combined.tsv)
+Combined|[49366 definitions](extensions/combined.tsv)
 
 ## Analysis of formats
 
@@ -34,4 +34,4 @@ Source|Analysis
 [Mermade](https://github.com/mermade/openapi-definitions)|[454 definitions](formats/mermade.tsv)
 [SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](formats/hapi.tsv)
 [SwaggerHub](http://swaggerhub.com)|[22872 definitions](formats/swaggerhub.tsv)
-~~Combined~~|[49366 definitions](formats/combined.tsv)
+Combined|[49366 definitions](formats/combined.tsv)
