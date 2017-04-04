@@ -35,3 +35,9 @@ Source|Analysis
 [SOM Research HAPI](https://github.com/som-research/hapi)|[513 definitions](formats/hapi.tsv)
 [SwaggerHub](http://swaggerhub.com)|[22872 definitions](formats/swaggerhub.tsv)
 Combined|[49366 definitions](formats/combined.tsv)
+
+## Analysis of $refs with additional properties
+
+Source|Analysis
+|---|---|
+Combined|[49366 definitions](refs/combined.csv)
