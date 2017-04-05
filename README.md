@@ -13,6 +13,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
+* WaveMaker Studio (x-WM- extensions) - documentation pending
 
 ## Analysis of specification-extensions
 
