@@ -13,6 +13,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
+* [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 
