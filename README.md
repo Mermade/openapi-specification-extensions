@@ -11,6 +11,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
 * [APIs.guru](https://github.com/APIs-guru/openapi-directory/wiki/specification-extensions)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
+* [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
