@@ -10,6 +10,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Apigee-127](https://github.com/apigee-127/a127-documentation/wiki/Swagger-specification-file#user-content-apigee-127-swagger-specification-reference)
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
 * [APIs.guru](https://github.com/APIs-guru/openapi-directory/wiki/specification-extensions)
+* [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
