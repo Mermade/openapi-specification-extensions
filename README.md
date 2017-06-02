@@ -17,6 +17,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
+* [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 
 ## Analysis of specification-extensions
