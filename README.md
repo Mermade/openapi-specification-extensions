@@ -15,11 +15,11 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
+* [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
-* [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 
 ## Analysis of specification-extensions
 
