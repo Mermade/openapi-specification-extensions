@@ -19,6 +19,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
+* [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 
 ## Analysis of specification-extensions
 
