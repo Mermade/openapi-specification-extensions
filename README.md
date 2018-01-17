@@ -14,6 +14,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
+* [ReadMe.io](https://readme.readme.io/v2.0/docs/swagger-extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
