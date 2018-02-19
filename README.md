@@ -13,6 +13,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
+* [Nintex](https://help.nintex.com/sdk/Content/03_Advanced/02_Extensions/NAV_Vendor_Extensions.htm)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
 * [ReadMe.io](https://readme.readme.io/v2.0/docs/swagger-extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
