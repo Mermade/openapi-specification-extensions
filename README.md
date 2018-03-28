@@ -5,6 +5,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 
 ## Vendor-documented extensions
 
+* [Adyen](https://github.com/Adyen/adyen-openapi#vendor-extensions)
 * [Amazon AWS](http://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
 * [Apiary](https://help.apiary.io/api_101/swagger-extensions/)
 * [Apigee-127](https://github.com/apigee-127/a127-documentation/wiki/Swagger-specification-file#user-content-apigee-127-swagger-specification-reference)
