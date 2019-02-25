@@ -20,7 +20,9 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [ReadMe.io](https://readme.readme.io/v2.0/docs/swagger-extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
+* [Stripe](https://github.com/stripe/openapi#vendor-extensions)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
+* [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
