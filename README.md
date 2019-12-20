@@ -28,11 +28,13 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Red Hat Fuse Online](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.5/html/integrating_applications_with_fuse_online/customizing_ug#providing-client-credentials_dev-client-connector)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 * [SAP Cloud Platform API Management](https://help.sap.com/viewer/e63fe47de8f84a68b618ed689af9a28b/Cloud/en-US/fcffa2bdd5f9402380e099fbec6e845a.html)
+* [SQL-Translator-Parser-OpenAPI](https://metacpan.org/pod/SQL::Translator::Parser::OpenAPI#OPENAPI-SPEC-EXTENSIONS)
 * [Stripe](https://github.com/stripe/openapi#vendor-extensions)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
+* [Vert.x](https://vertx.io/docs/vertx-web-api-service/java/#_using_the_extension_code_x_vertx_event_bus_code)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 * [WSO2 API Microgateway](https://docs.wso2.com/display/MG300/Supported+OpenAPI+Extensions)
 
