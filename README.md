@@ -6,27 +6,37 @@ As well as a list of vendor-documented specification-extensions, this repository
 ## Vendor-documented extensions
 
 * [Adyen](https://github.com/Adyen/adyen-openapi#vendor-extensions)
+* [AIRR](http://docs.airr-community.org/en/latest/datarep/overview.html#airr-extension-properties)
+* [Alibaba Cloud API Gateway](https://www.alibabacloud.com/help/doc-detail/88956.htm)
 * [Amazon AWS](http://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
 * [Apiary](https://help.apiary.io/api_101/swagger-extensions/)
 * [Apigee-127](https://github.com/apigee-127/a127-documentation/wiki/Swagger-specification-file#user-content-apigee-127-swagger-specification-reference)
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
 * [APIs.guru](https://github.com/APIs-guru/openapi-directory/wiki/specification-extensions)
 * [DocuSign](https://github.com/docusign/eSign-OpenAPI-Specification/blob/master/DocuSign-Extensions.md)
+* [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
+* [express-openapi](https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi#vendor-extensions)
+* [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
-* [Nintex](https://help.nintex.com/sdk/Content/03_Advanced/02_Extensions/NAV_Vendor_Extensions.htm)
+* [Nintex Workflow Cloud](https://help.nintex.com/en-US/xtensions/04_Reference/REF_OpenAPISwipeFile.htm#OpenAPI_Specification_Extensions)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
 * [ReadMe.io](https://readme.readme.io/v2.0/docs/swagger-extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
+* [Red Hat Fuse Online](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.5/html/integrating_applications_with_fuse_online/customizing_ug#providing-client-credentials_dev-client-connector)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
+* [SAP Cloud Platform API Management](https://help.sap.com/viewer/e63fe47de8f84a68b618ed689af9a28b/Cloud/en-US/fcffa2bdd5f9402380e099fbec6e845a.html)
+* [SQL-Translator-Parser-OpenAPI](https://metacpan.org/pod/SQL::Translator::Parser::OpenAPI#OPENAPI-SPEC-EXTENSIONS)
 * [Stripe](https://github.com/stripe/openapi#vendor-extensions)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
+* [Vert.x](https://vertx.io/docs/vertx-web-api-service/java/#_using_the_extension_code_x_vertx_event_bus_code)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
+* [WSO2 API Microgateway](https://docs.wso2.com/display/MG300/Supported+OpenAPI+Extensions)
 
 ## Analysis of specification-extensions
 
