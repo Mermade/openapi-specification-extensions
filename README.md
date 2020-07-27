@@ -16,6 +16,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [DocuSign](https://github.com/docusign/eSign-OpenAPI-Specification/blob/master/DocuSign-Extensions.md)
 * [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
 * [express-openapi](https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi#vendor-extensions)
+* [GitHub](https://github.com/github/rest-api-description/blob/main/extensions.md)
 * [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
