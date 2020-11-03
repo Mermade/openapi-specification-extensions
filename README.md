@@ -38,6 +38,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
+* [Unisys COBOL](https://public.support.unisys.com/ePortalIC-10.0/index.jsp?topic=%2F82073594_clearpath_eportal_developerhelp%2Fhtml%2Fsection-000064331.htm)
 * [Vert.x](https://vertx.io/docs/vertx-web-api-service/java/#_using_the_extension_code_x_vertx_event_bus_code)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 * [WSO2 API Microgateway](https://docs.wso2.com/display/MG300/Supported+OpenAPI+Extensions)
