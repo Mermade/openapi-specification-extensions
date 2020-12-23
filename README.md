@@ -37,6 +37,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
 * [swaggerplusplus](https://github.com/mermade/swaggerplusplus)
+* [Twilio](https://github.com/twilio/guardrail/blob/master/modules/microsite/docs/scala/akka-http/guardrail-extensions.md)
 * [TypeForm OpenAPI-micro-merge](https://github.com/Typeform/openapi-micro-merge#extensions)
 * [Unisys COBOL](https://public.support.unisys.com/ePortalIC-10.0/index.jsp?topic=%2F82073594_clearpath_eportal_developerhelp%2Fhtml%2Fsection-000064331.htm)
 * [Vert.x](https://vertx.io/docs/vertx-web-api-service/java/#_using_the_extension_code_x_vertx_event_bus_code)
