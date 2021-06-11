@@ -1,5 +1,5 @@
 # openapi-specification-extensions
-A resource for common and standardised OpenAPI specification (vendor) extensions.
+A resource for common and standardised [OpenAPI specification](https://spec.openapis.org/oas/latest.html) (vendor) extensions.
 
 As well as a list of vendor-documented specification-extensions, this repository contains the results of an analysis of extensions and formats used in real-world OpenAPI definitions, as at late March 2017. It is also planned to replicate [this analysis](https://web.archive.org/web/20180404141422/http://www.apiful.io/intro/2016/05/09/analyzing-api-specifications.html) but on a much larger scale.
 
