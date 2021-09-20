@@ -21,6 +21,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
+* [Kusk](https://kubeshop.github.io/kusk/openapi-extension/)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Connectors](https://docs.microsoft.com/en-us/connectors/custom-connectors/openapi-extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
