@@ -22,6 +22,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
 * [Kusk](https://kubeshop.github.io/kusk/openapi-extension/)
+* [Kusk Gateway](https://kubeshop.github.io/kusk-gateway/extension/)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
 * [Microsoft Connectors](https://docs.microsoft.com/en-us/connectors/custom-connectors/openapi-extensions)
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
@@ -45,6 +46,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Vert.x](https://vertx.io/docs/vertx-web-api-service/java/#_using_the_extension_code_x_vertx_event_bus_code)
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 * [WSO2 API Microgateway](https://docs.wso2.com/display/MG300/Supported+OpenAPI+Extensions)
+* [Yandex API Gateway](https://cloud.yandex.com/en/docs/api-gateway/concepts/extensions/)
 
 ## Analysis of specification-extensions
 
