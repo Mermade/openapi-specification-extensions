@@ -16,6 +16,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Bungie.net](https://github.com/Bungie-net/api#extension-properties-on-openapi-specs-or-how-to-generate-much-cooler-clients-for-the-bnet-api-if-you-want-to-take-the-time-to-do-so)
 * [DocuSign](https://github.com/docusign/eSign-OpenAPI-Specification/blob/master/DocuSign-Extensions.md)
 * [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
+* [Exegesis](https://github.com/exegesis-js/exegesis/blob/master/docs/OAS3%20Specification%20Extensions.md)
 * [express-openapi](https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi#vendor-extensions)
 * [GitHub](https://github.com/github/rest-api-description/blob/main/extensions.md)
 * [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
