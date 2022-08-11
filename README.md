@@ -29,7 +29,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Microsoft Flow](https://flow.microsoft.com/en-us/documentation/customapi-how-to-swagger/)
 * [Nintex Workflow Cloud](https://help.nintex.com/en-US/xtensions/04_Reference/REF_OpenAPISwipeFile.htm#OpenAPI_Specification_Extensions)
 * [NSwagStudio/NJsonSchema](https://github.com/rsuter/NJsonSchema/wiki/Enums) - documentation pending (x-typeName, x-enumNames)
-* [ReadMe.io](https://readme.readme.io/v2.0/docs/swagger-extensions)
+* [ReadMe.io](https://docs.readme.com/docs/openapi-extensions)
 * [Rebilly Redoc](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md)
 * [Red Hat Fuse Online](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.5/html/integrating_applications_with_fuse_online/customizing_ug#providing-client-credentials_dev-client-connector)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
