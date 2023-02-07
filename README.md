@@ -9,6 +9,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [AIRR](http://docs.airr-community.org/en/latest/datarep/overview.html#airr-extension-properties)
 * [Alibaba Cloud API Gateway](https://www.alibabacloud.com/help/doc-detail/88956.htm)
 * [Amazon AWS](http://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
+* [api-ref-resolver](https://github.com/apiture/api-ref-resolver#readme)
 * [Apiary](https://help.apiary.io/api_101/swagger-extensions/)
 * [Apigee-127](https://github.com/apigee-127/a127-documentation/wiki/Swagger-specification-file#user-content-apigee-127-swagger-specification-reference)
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
