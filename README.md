@@ -14,6 +14,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
 * [APIs.guru](https://github.com/APIs-guru/openapi-directory/wiki/specification-extensions)
 * [Bungie.net](https://github.com/Bungie-net/api#extension-properties-on-openapi-specs-or-how-to-generate-much-cooler-clients-for-the-bnet-api-if-you-want-to-take-the-time-to-do-so)
+* [Cadl](https://microsoft.github.io/cadl/next/standard-library/openapi/reference/js-api#getopenapitypename)
 * [DocuSign](https://github.com/docusign/eSign-OpenAPI-Specification/blob/master/DocuSign-Extensions.md)
 * [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
 * [Exegesis](https://github.com/exegesis-js/exegesis/blob/master/docs/OAS3%20Specification%20Extensions.md)
