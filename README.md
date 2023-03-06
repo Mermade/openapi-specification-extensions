@@ -51,6 +51,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * WaveMaker Studio (x-WM- extensions) - documentation pending
 * [WSO2 API Microgateway](https://docs.wso2.com/display/MG300/Supported+OpenAPI+Extensions)
 * [Yandex API Gateway](https://cloud.yandex.com/en/docs/api-gateway/concepts/extensions/)
+* [Zuplo](https://zuplo.com/docs/articles/open-api#zuplo-extensions)
 
 ## Analysis of specification-extensions
 
