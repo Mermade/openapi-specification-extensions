@@ -37,7 +37,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Red Hat Fuse Online](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.5/html/integrating_applications_with_fuse_online/customizing_ug#providing-client-credentials_dev-client-connector)
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 * [Restish](https://rest.sh/#/openapi?id=openapi-extensions)
-* [SAP Cloud Platform API Management](https://help.sap.com/viewer/e63fe47de8f84a68b618ed689af9a28b/Cloud/en-US/fcffa2bdd5f9402380e099fbec6e845a.html)
+* [SAP OpenAPI Specification Extensions for the SAP Ecosystem](https://github.com/sap/OpenAPI-Specification)
 * [Spring Cloud Contract OpenAPI 3.0 Converter](https://github.com/springframeworkguru/spring-cloud-contract-oa3#defining-contracts-in-openapi)
 * [SQL-Translator-Parser-OpenAPI](https://metacpan.org/pod/SQL::Translator::Parser::OpenAPI#OPENAPI-SPEC-EXTENSIONS)
 * [Stripe](https://github.com/stripe/openapi#vendor-extensions)
