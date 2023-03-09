@@ -14,6 +14,7 @@ As well as a list of vendor-documented specification-extensions, this repository
 * [Apigee-127](https://github.com/apigee-127/a127-documentation/wiki/Swagger-specification-file#user-content-apigee-127-swagger-specification-reference)
 * [APIMatic](https://docs.apimatic.io/advanced/swagger-server-configuration-extensions/)
 * [APIs.guru](https://github.com/APIs-guru/openapi-directory/wiki/specification-extensions)
+* [AppMap.io](https://appmap.io/docs/your-first-15-minutes-with-appmap/generate-openapi-from-appmaps.html)
 * [Bump.sh](https://help.bump.sh/markdown-support#adding-topics-to-your-documentation)
 * [Bungie.net](https://github.com/Bungie-net/api#extension-properties-on-openapi-specs-or-how-to-generate-much-cooler-clients-for-the-bnet-api-if-you-want-to-take-the-time-to-do-so)
 * [Cadl](https://microsoft.github.io/cadl/next/standard-library/openapi/reference/js-api#getopenapitypename)
