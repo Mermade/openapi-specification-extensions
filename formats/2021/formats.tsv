@@ -1,0 +1,912 @@
+format	total
+int32	2877860
+int64	1944244
+date-time	810792
+date	429870
+double	333480
+ipv4	209106
+ipv6	208938
+uuid	184149
+email	115018
+uri	85726
+float	81910
+byte	75159
+int	52247
+string	36249
+decimal	17271
+url	15993
+mask	15709
+dateTime	11507
+binary	8447
+guid	8413
+uint64	6822
+boolean	5581
+uint32	3668
+UUID	3049
+integer	2668
+INTERNAL	2221
+object	2021
+slug	1924
+google-datetime	1915
+password	1773
+JSON	1735
+swagger	1648
+metadata	1579
+uint16	1374
+object-id	1110
+utc-millisec	1026
+long	982
+datetime	964
+uri-reference	918
+json	898
+	839
+date-time-rfc1123	704
+google-duration	614
+int-or-string	570
+uint8	570
+google	568
+ip-address	563
+duration	538
+iri-reference	486
+*	339
+ascii	286
+jwt	283
+objectid	281
+float64	277
+number	270
+Int64	270
+Int32	254
+yyyy-mm-ddThh:MM:ssZ	232
+unix-time	231
+date-time?	214
+time	211
+CIDR	191
+objectID	179
+id	178
+openapi	177
+phone	156
+google-fieldmask	154
+int16	150
+positiveDecimal	144
+JID	141
+path	136
+YYYY-MM-DD	130
+text	129
+local-date	128
+comma-separated-array	128
+time-span	125
+date_time	119
+date-span	116
+html	112
+piepackerID	110
+%Y-%m-%d %H:%M:%S	110
+base64	108
+auth|xxxxxx	108
+version	102
+uuid4	97
+enum	96
+float32	86
+kvstore	86
+listen	86
+moniker	86
+IRI	83
+character varying	82
+geojson	82
+leafref	82
+URL	81
+Base 64 string	80
+int11	79
+acc:1	78
+unixtime	76
+file-path	72
+integer11	72
+JWT token	70
+xtype:unique-identifier	69
+array	64
+thor_id	64
+ip	63
+hostname	62
+timestamp	61
+yyyy-MM-ddTHH:mm:ss	61
+hex32	60
+base64url	58
+money	57
+year-quarter	52
+file	51
+as returned by /charts	50
+bool	48
+yyyy-MM-dd'T'HH:mm:ss.SSSZ	48
+Y-m-d	48
+yyyy-MM-dd	47
+filename	47
+any text	47
+char(30)	45
+Guid	44
+"Fri	 03 May 2019 08:44:42 GMT"	44
+metaData	43
+meta:password	42
+xtype:access-role	42
+k1av2M1QR4zUd5eI.....	42
+webid	40
+solr	40
+String	39
+iso-datetime (yyyy-mm-dd hh:mm:ss)	39
+data-time	39
+nullable	39
+token	38
+UUIDv4	37
+Pfx	36
+Hex16	36
+2006-01-02T15	36
+Y-m-d H:i:s	36
+HRAddress	36
+yyyy-MM-dd HH:mm:ss.fff	35
+full-date	35
+year-month	34
+ISO 8601 UTC date/time	33
+int(4)	32
+markdown	32
+pipes	32
+RFC3339	31
+str	31
+YYYY-MM-DDTHH:mm:ssTZD	28
+xtype:flow-identifier	27
+LrwAppEui	27
+timezone	26
+bytes	26
+iso8601	26
+DateTime	26
+geometry	26
+date-report	26
+minutes	26
+yyyy-mm-ddThh:MM:ss+hhMM	26
+zip	24
+int(64)	24
+int8	24
+semver	24
+barcode	24
+"^(-?\d+(?:\.\d+)?)	(-?\d+(?:\.\d+)?)$"	24
+<app>:<role>	24
+mkt:admin	24
+Fields name separated by comma	24
+cortex-id	24
+char	22
+"date with/without timezone or relative time to now (eg. 3d	 1w	 3m)"	22
+single	22
+str[30]	21
+yyyy-mm-dd	21
+^\w{3}$	21
+/^(\d+\.)?(\d+\.)?(\*|\d+)$/	20
+blacklists	20
+whitelists	20
+denied_country_list	20
+UTF-8	20
+ISO 4217	19
+Date-time [ex: 2016-07-02T14:20:54.123Z]	19
+hex	19
+epoch	19
+Y-m-d H:i	18
+uiid	18
+true	18
+ok	18
+cents	18
+seconds	17
+timestamp without time zone	17
+timestamp with time zone	16
+JWT	16
+^[0-9a-f]{24}$	16
+backgroundRate	16
+buildID	16
+priority	16
+data_version	16
+rule_id	16
+"yyyy-mm-dd hh:mm:ss.mmmmmm+HH:MM	
+yyyy-mm-dd hh:mm:ss.mmmmmm+HH:MM"	16
+mm/dd/YYYY HH:MM:SS	16
+numeric	15
+yyyy-MM-dd'T'hh:mm:ssZ	15
+svg	15
+^([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$	15
+short	15
+cue	15
+application/json	14
+bigint	14
+uint	14
+format	14
+telephone	14
+ees-date-time	14
+unix-epoch	13
+kvpairs	13
+in64	13
+GUID	13
+Cer	12
+Código único de identificação do posto.	12
+amount	12
+xtype:isolation	12
+enumeration	12
+color	12
+link	12
+in32	12
+Item ID	12
+episode_or_season_id	12
+lucid_auth	12
+read	12
+prf_usr_<id>_yyyy-mm-ddThh:MM:ssZ	12
+multicast	12
+e164	12
+application/xml	12
+xml	11
+Date	11
+biginteger	11
+tel	11
+date_format	11
+device	11
+RDB	10
+real	10
+"Hash/Código único de identificação da reserva	 enviado na resposta da Delivery/Reserve no campo reserveId."	10
+plain	10
+bigdecimal	10
+int12	10
+vsg:subscriber-inflow	10
+vsg:subscriber-outflow	10
+byte array	10
+date-time-offset	10
+"Decimal(12	 3)"	10
+"Decimal(15	 3)"	10
+Exclusivo sistema Apollo	10
+Exclusivo sistema Sisdia	10
+S: Sim - N: Não	10
+exception_list	10
+risk_settings	10
+allowed_country_list	10
+points_little_endian	10
+primitive.ObjectID	10
+ssh-key	9
+LineSeparated	9
+start=%d	9
+string(2)	9
+^\w{2}[CZ]\d{3}$	9
+locale	8
+ISO 8601	8
+Duration	8
+Nginx size	8
+date-time-only	8
+Array	8
+Jpeg	8
+"Hash/Código único de identificação da autorização	 enviado na resposta do Delivery/Authorize no campo authId."	8
+Código único de identificação do Fuel Point (Posição de Abastecimento).	8
+uid	8
+yyyyMMddHHmmss	8
+"[9	0]"	8
+ISO-8601	8
+dateformat	8
+Upper Camel case	8
+"\""|\"" delimited field names"	8
+yang:date-and-time	8
+Bearer xxx.yyy.zzz	8
+float65	8
+tel number	8
+sha1	8
+#/definitions/RecordProxy	8
+ulid	7
+"Volume de combustível no tanque em litros na temperatura ambiente. (Informação p/ rotas de ECR -- Emissão nota fiscal) Devido a problemas de truncamento de informação derivado de limitações de hardware presentes nas bombas	 nos casos em que  o volume multiplicado pelo preço unitário seja diferente do valor total abastecido em reais	 é necessário recalcular o valor do volume do abastecimento	 de forma que a multiplicação resultante seja igual ao total informado pela API	 o volume recalculado deverá ser informado para o SAT em conjunto com as demais informações necessárias."	7
+currency	7
+YYYY	7
+yyyymmdd hhmmss	7
+timedate ISO-8601	7
+date-time (ISO 8601)	7
+mobile-number	7
+identityref	7
+"LoRa	 BLE"	7
+1	7
+TIME_FORMAT	7
+TIMESTAMP	7
+1255622-U	7
+int10	7
+float-3	7
+time-hm	7
+ISODate	6
+oauth-scopes	6
+rawxml	6
+non-iso-duration	6
+swagger-link	6
+openapi-link	6
+int(8)	6
+Código único de identificação do bico.	6
+Valor total do abastecimento em reais.	6
+ISO Date Time	6
+limit=%d	6
+int1	6
+date (YYYY-MM-DD)	6
+lint64	6
+YYYY-mm-dd H:i	6
+YYYYMMDD	6
+HHMMSS	6
+string20	6
+bech32	6
+time-date	6
+NSI	6
+msgid	6
+attributeID=value	6
+inet:uri	6
+yyyy-MM-dd'T'HH:mm	6
+yearmonth	6
+^[A-Za-z0-9 ]+$	6
+mm/yy	6
+12345-234a...	6
+account:accountId	6
+las:admin	6
+las:user	6
+las	6
+"'user_id'	 'user_name'	 'client_id' or 'client_name'"	6
+'domain' or 'count'	6
+tz	6
+entity_name	6
+ISO8601 UTC time	6
+ISO8601	6
+key	6
+byte[]	6
+char(50)	6
+json-pointer	6
+ISO Date	6
+country_code	6
+time-uuid	6
+custom_date	6
+date/time	5
+BigDecimal	5
+mail	5
+string[30]	5
+Posição do Hose (Mangueira/Bico) no Fuel Point (Posição de Abastecimento).	5
+Identificador do abastecimento.	5
+Data e hora do início do abastecimento.	5
+data	5
+year	5
+base16	5
+image-file	5
+utf8	5
+int128	5
+Category ID	5
+integer64	5
+PB: Preço Público - GR: Preço Garantia - CU: Preço Custo - CR: Preço Custo Reposição - PS: Preço Sugerido	5
+"Exclusivo sistema Sisdia	 Apollo	 Dealernet Workflow e Dealernet Win"	5
+Exclusivo sistema NBS	5
+"Exclusivo sistema Sisdia	 Dealernet Workflow"	5
+Bearer <access token string>	5
+<client_id>Service	5
+float-2	5
+phone number	5
+extid	4
+swagger-link-json	4
+wsdl-link	4
+ISO 8601 duration	4
+server access token	4
+Tipo de combustivel baseado no código do enum.	4
+Preço unitário que foi usado pelo abastecimento.	4
+"limit=%d	page=%d"	4
+DATE (YYYY-MM-DD)	4
+int 64	4
+pitag	4
+"Must be one of: `contract`	 `deposit_request`	 `deposit_release`"	4
+decimal (2 decimal digits)	4
+iso-3166-1	4
+mime	4
+varchar	4
+unix timestamp to millisecond	4
+"(0 - success	 1 - error)"	4
+error message	4
+Email	4
+ISO-639-1	4
+SPARQL query	4
+AAAU9999990	4
+XXXX	4
+"latitude	longitude"	4
+mm/dd/yy	4
+Trait ID	4
+latitude	4
+2 letter language code	4
+Unix timestamp	4
+cnpj/cpf	4
+my-session-token	4
+uuidV4	4
+full-time	4
+yyyy-mm-dd hh:mm:ss.mmmmmm+HH:MM	4
+dd.mm.yyyy	4
+mac	4
+TokenString	4
+otp number	4
+Token	4
+example@example.com	4
+nullableInt64	4
+bit	4
+zip_code	4
+HH:MM:SS	4
+wadl	3
+countrycode	3
+cidr	3
+oauth-scope	3
+ssl-cert	3
+ssl-key	3
+Timespan	3
+ZIP_BASE_64_ENCODED	3
+str[64]	3
+Hash/Código único de identificação do provider criado pela Conecttec.	3
+Tipo de limite do abastecimento - Valor($) ou Volume(V).	3
+Valor do limite em litros caso o tipo de limite escolhido seja Volume ou em reais caso o tipo de limite escolhido seja valor.	3
+Preço unitário para ser usado pelo abastecimento autorizado.	3
+"Indica a taxa de envio do Fuel Point (Posição de Abastecimento) em execução total em segundos. É utilizado para envio do Provider/FuelPointStatusCallback. Se zero ou não especificado	 o Provider/FuelPointStatusCallback não será enviado."	3
+"Tempo de autorização em segundos. A autorização é específica para um Fuel Point (Posição de Abastecimento). Ao final do tempo determinado	 a autenticação expira e é gerado um novo retorno para o callback FuelPoint/Status onde a propriedade reason é igual a authTimedout. O abastecimento atual será cancelado e o Fuel Point será liberado para outras utilizações."	3
+Hash/Código único de identificação da autorização.	3
+Cpf ou Cnpj do cliente que realizou o abastecimento(Campo não obrigatório)	3
+Código único do evento.	3
+O Fuel Point (Posição de Abastecimento) aceita limite? Sim ou não (true | false)	3
+O Fuel Point (Posição de Abastecimento) permite a paralização do abastecimento? Sim ou não (true | false)	3
+O Fuel Point (Posição de Abastecimento) permite alteração de preço? Sim ou não (true | false)	3
+O Fuel Point (Posição de Abastecimento) possui um leitor MIFARE (Leitor de Cartão)? Sim ou não (true | false)	3
+O Fuel Point (Posição de Abastecimento) possui uma antena UHF para leitura de etiqueta? Sim ou não (true | false)	3
+O Fuel Point (Posição de Abastecimento) possui um terminal associado para inserir informações adicionais? Sim ou não (true | false)	3
+Preço do combustivel no Hose (Mangueira/Bico).	3
+Nome do combustível.	3
+Número do tanque de combustível	3
+Nome do tanque de combustível	3
+page=%d	3
+True/False	3
+enum - DateDesc - DateAsc	3
+enum - ORDERED - PAID - SHIPPED - COMPLETED - RETURNED - CANCELED	3
+CCYYMMDD	3
+contentType	3
+"ISO8601 date	 i.e.	 YYYY-MM-DD"	3
+BIC	3
+IBAN	3
+code	3
+Biginteger	3
+string40	3
+access-token	3
+yyyy-mm-dd hh:mm:ss	3
+hh:mm:ss	3
+date time	3
+Y-m-d h:i:s.u	3
+PTnHnMnS	3
+name	3
+"0 - stoped	 1 - started	 2 - not connected"	3
+if	3
+yyyymmddHHMMSS	3
+"\""|\"" delimited model names"	3
+ISO2	3
+geoJSON	3
+PHPSTORM	3
+2006-01-02T15:04:05Z07:00	3
+^(?:\w+-)+(?:\d+-?)+$	3
+^\w{4}$	3
+^[A-Z]{4}\d{2}$	3
+^\d{7}$	3
+default|author|tag	3
+created_at	3
+desc	3
+latlon list	3
+unixtime list	3
+altiude list	3
+boolean list	3
+"ISO8601 date format	 YYYY-MM-DD	 local time"	3
+IBAN or CIN uuid	3
+u	3
+partial-time	3
+doc_<id>	3
+usr_<id>	3
+epubcfi	3
+URI	3
+doc_<id>_<page-number>	3
+data-url	3
+x.xx	3
+char(35)	3
+jpg	3
+int64'	3
+[a-f0-9]+	3
+tinyint1	3
+YYYY-MM-dd	3
+"data.""user"""	3
+currency_code	3
+isolang-alpha2	3
+link_content_type	3
+link_type	3
+XXX-XXX-XXXX	3
+gln	3
+gpc	3
+gtin	3
+zipcode	3
+macAddress	3
+Scene	3
+Campaign unique identifier	3
+tbw-password	3
+/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/	3
+mm/yyyy	2
+md5	2
+yyyymmdd	2
+id64	2
+compact	2
+wadl-link-json	2
+int664	2
+textarea	2
+iso8061	2
+Número da posição de abastecimento.	2
+"Hash/Código único de identificação da reserva	 enviado na resposta da Delivery/Reserve no campo reserveId. Se o identificador informado não existir	 ele não autoriza nem modifica o status."	2
+Encerrante inicial do Fuel Point (Posição de Abastecimento) no abastecimento.	2
+Encerrante final do Fuel Point (Posição de Abastecimento) no abastecimento.	2
+Data e hora do lançamento/geração do evento no tanque.	2
+Código único de identificação da posição de abastecimento.	2
+Data e hora do lançamento/geração do evento.	2
+Url do banner do combustivel.	2
+Nome do posto de gasolina.	2
+Nome do provider que realizou a sinalização do pagamento	2
+Encerrante ao iniciar um abastecimento.	2
+Encerrante ao finalizar um abastecimento.	2
+filter=%s	2
+blocking=%t	2
+timeOutInSecs=%d	2
+credentialId=%s	2
+url=%s	2
+int23	2
+date with/without timezone or relative time to now (eg. 2020-11-13)	2
+Alpha2Code	2
+map	2
+VarChar	2
+zipCode	2
+MaskedcreditCardNumber	2
+currencyCode	2
+hash	2
+CRON	2
+timestamp ISO8601	2
+period	2
+Fully qualified name	2
+beginPort-endPort	2
+int (cents)	2
+dd-mm-yyyy	2
+yyyyMMdd	2
+exp_month/exp_year	2
+yyyy-mm-ddTHH:mm:ss	2
+string25	2
+string10	2
+string255	2
+unsignedBigInteger	2
+hex|bech32	2
+bip-0039-mnemonic-word{english}	2
+user	2
+ISO 639-1 code	2
+[0-9].*	2
+date ISO8601	2
+yyyy	2
+mm	2
+LocalDateTime	2
+nanoid	2
+date(Y-m-d)	2
+mmddhhmmss(Configurável)	2
+UUID4	2
+NIS	2
+address	2
+n/a	2
+key-value pairs	2
+mmddyyyy	2
+int4	2
+includefield=attributeID	2
+meta:description	2
+special_encoded	2
+^([0-9a-zA-Z-]+[\.])+[0-9a-zA-Z-]+$	2
+GeoJSON	2
+1933-06-30	2
+label	2
+hh:mma	2
+unit32	2
+id | null	2
+csv	2
+bin	2
+yyyymmddhhmiss	2
+precision	2
+Deluge DSL	2
+tinyint	2
+mode-identifier	2
+longitude	2
+PAN	2
+hl7	2
+string(12)	2
+int(32)	2
+jpeg	2
+groupid:artifactid	2
+groupid|groupid:artifactid	2
+hashid	2
+multipolygon	2
+public.colour	2
+public.turnstate	2
+field|order	2
+idn-hostname	2
+HH:mm	2
+min-max	2
+objectId	2
+User Firstname lastname	2
+google link idr	2
+Facebook link id	2
+user image path	2
+image_url	2
+thai id	2
+driver_license	2
+lontitude	2
+filter field name	2
+value of filter	2
+repository/file.jpeg	2
+Y/N	2
+g	2
+^[a-zA-Z0-9_-]+$	2
+image	2
+unix timestamp	2
+PHP time zone	2
+Customer unique identifier	2
+Phone number / Voicenter extension	2
+"uuid	"	2
+/^[0-9]{2}:[0-9]{2}$/	2
+URLEncoded	2
+apiBlueprint	1
+yyyy-mm for green cards or yyyy-mm-dd for blue/yellow cards	1
+dd/mm/yyyy	1
+postman	1
+single byte range	1
+dateTime:yyyy-MM-dd'T'HH:mm:ss'Z'	1
+RadioDNS Service Information (SI) as defined in ETSI TS 102 818 v3.1.1 section 8	1
+RadioDNS Service Information (SI) as defined in ETSI TS 102 818 v3.1.1 section 6	1
+RadioDNS Service Information (SI) as defined in ETSI TS 102 818 v3.1.1 section 7	1
+dateTimed	1
+yyyy-MM-dd HH:mm:ss	1
+ddd	1
+vcal	1
+vcard	1
+A human readable description of the `source`.	1
+uriref	1
+sid	1
+audio/x-wav	1
+list of urls to pdfs	1
+varchar(8)	1
+varchar(24)	1
+AAAA-MM-DD	1
+iVBORw0KGgoAAAANSUhEUgAAAlgAAAgSCAYAAAC01e6YAAAACX...	1
+document	1
+\d{8}	1
+cron	1
+UUID-V4	1
+base64image	1
+Tempo de reserva em segundos. A reserva é específica para um Fuel Point (Posição de Abastecimento). Ao final do tempo determinado é gerado um novo retorno para o callback FuelPoint/Status onde a propriedade reason é igual a reserveTimedout. O abastecimento atual será finalizado e o Fuel Point será liberado para outras utilizações.	1
+Hash/Código único de identificação do cancelamento.	1
+Valor em reais referente ao pagamento do abastecimento.	1
+"CNPJ do cliente (somente números) para emissão da NFE.
+ (14 caracteres máx.)"	1
+Razão social do cliente para emissão da NFE (80 caracteres máx.)	1
+Inscrição estadual do cliente para emissão da NFE (20 caracteres máx.)	1
+Lista de CFOPs definidos pelo cliente para emissão da NFE (35 caracteres máx.)	1
+URL fornecida para receber callbacks.	1
+"Status do Fuel Point (Posição de Abastecimento)	 se o mesmo está respondendo	 bloqueado	 etc..."	1
+Razão para o callback. Mensagem de retorno que informa o status. Ex. Reserva realizada com sucesso; Falha na reserva; Falha na autenticação; Alteração de status; Etc...	1
+Preço unitário que será usado pelo abastecimento.	1
+Preço unitário usado pelo abastecimento.	1
+Tipo de evento retornado neste método. Eventos do tanque.	1
+Data e hora do lançamento/geração do evento no sensor.	1
+Nome do sensor.	1
+Tipo de evento retornado neste método. Eventos do sensor.	1
+Código único de entregas de tanque.	1
+Data e hora do lançamento/geração da entrega no tanque.	1
+Tipo de evento que será retornado neste método. Eventos do tanque.	1
+Tipo de tag.	1
+Identificação da tag.	1
+Tipo de cartão.	1
+Identificação do cartão.	1
+Volume de combustível no tanque em litros com correção de temperatura a 20 ºC.	1
+Espaço disponível no tanque em litros na temperatura ambiente.	1
+Temperatura do combustível.	1
+Nível de água no tanque.	1
+Tag/Código do cartão do atendente (Frentista).	1
+Nome do atendente (Frentista).	1
+Id do atendente (Frentista).	1
+Identificação do cartão do cliente.	1
+Nome do cliente.	1
+Identificação do cliente.	1
+Odometro do veículo do cliente.	1
+Identificação do posto de gasolina.	1
+Cnpj do posto de gasolina.	1
+Nome abreviado do posto de gasolina.	1
+Rua  em que se encontra o posto de gasolina.	1
+Número em que se encontra o posto de gasolina.	1
+Cidade em que se encontra o posto de gasolina.	1
+Estado em que se encontra o posto de gasolina.	1
+Cep em que se encontra o posto de gasolina.	1
+Latitude em que se encontra o posto de gasolina.	1
+Longitude em que se encontra o posto de gasolina.	1
+Bandeira do posto.	1
+Lagradouro do endereço de emissão da NFE (80 caracteres máx.)	1
+"Número do endereço de emissão da NFE	 quando sem número exibe “S/N”  (6 caracteres máx.)"	1
+Complemento do endereço de emissão da NFE (20 caracteres máx.)	1
+Nome do bairro do endereço de emissão da NFE  (60 caracteres máx.)	1
+Nome da cidade do endereço de emissão da NFE (50 caracteres máx.)	1
+Sigla da UF do endereço de emissão da NFE  (2 caracteres)	1
+Cep (somente números) do endereço de emissão da NFE  (8 caracteres)	1
+Código da cidade conforme base do IBGE  (int64)	1
+"Nome original do arquivo que está sendo enviado na chamada	 incluindo a extensão. (.xml). (60 caracteres máx.)"	1
+Conteúdo do arquivo XML da nota fiscal com codificação base64/ISO 8859-1. (1000000 caracteres máx.)	1
+Valor codificado hash MD5 do arquivo XML enviado no campo base64Encode (32 caracteres máx.)	1
+ISO 8601 Date Time	1
+ISO 639-1 Language Code	1
+int50	1
+pipeline=%s	1
+branch=%s	1
+delay=%d	1
+pageNumber=%d	1
+pageSize=%d	1
+q=%s	1
+"key=%s	key~%s"	1
+image=%s	1
+namespace=%s	1
+secret=%s	1
+"key=value	key~value"	1
+ISO4217	1
+ISO 3166 Alpha-3	1
+Year value 2019 2020 2021 etc	1
+enum - DateDesc - DateAsc - alphabeticAsc - alphabeticDesc - priceAsc - priceDesc	1
+enum - alphabeticAsc - alphabeticDesc	1
+enum - DateDesc - DateAsc - alphabeticAsc - alphabeticDesc	1
+enum - ADMIN - MEMBER - GUEST	1
+enum - X_SMALL - SMALL - MEDIUM - LARGE - X_LARGE - XX_LARGE	1
+date (YYYY.MM.DD)	1
+unknown	1
+XXX-XXX-XXXX or (XXX)XXX-XXXX	1
+mid	1
+flow_dsl	1
+nmtoken	1
+999-999-9999	1
+xyz@xyz.xxx	1
+privateKeyPEMContent	1
+x509CertificatePEMContent	1
+ISO4217 currency code	1
+64-bit decimal number	1
+multiple UUIDv4 through commas	1
+ISO8601 HH:MM:SS	1
+timedate ISO-8600	1
+time in HH:MM:SS	1
+true|false	1
+mac_address	1
+ip_address	1
+XXXX YY	1
+ISO 2	1
+1-10	1
+YYYY-W	1
+ISO-2	1
+login	1
+OData filter	1
+a	1
+MC or CC	1
+CAS-101	1
+CAS-101-1	1
+CC or MC	1
+fault	1
+field	1
+"Must be one of: `lock`	 `lost`	 `stolen`"	1
+Must be one of: `power`	1
+yyyy-MM-ddThh:mm:ssZ	1
+mime-type	1
+^Bearer\ [[:ascii:]]+$	1
+string30	1
+list	1
+string12	1
+string4	1
+string50	1
+string3	1
+string2	1
+iso-8601-date-and-time	1
+base58|bech32	1
+base58	1
+inserted-at {range-start}-{range-end}/{total}	1
+Two-Letter State Abbreviations	1
+iso-4217	1
+bearer	1
+data-uri	1
+[0-9A-F]{14}' get: summary: get nfc data responses:	1
+0-9A-F]{14}	1
+date in format 'yyyy/MM/dd' e.g. 2020/02/20	1
+array of strings	1
+ISO 639-1 standard	1
+MMYYYY	1
+IBAN-FR	1
+datetime-iso8601	1
+remote-schema	1
+IANA time zone name	1
+phoneNumber	1
+Good Auto Car Wash Id	1
+CarRId	1
+VIN	1
+₴	1
+orderId	1
+date(Y-m-d H:i:s)	1
+dd.MM.yyyy	1
+YYYY-mm-dd'T'hh:MM:ssZ	1
+^[A-Z0-9]+$	1
+Date-time	1
+millimeter	1
+"0 - stoped	 1 - started"	1
+float layer height	1
+layer height	1
+DD/MM/YYYY	1
+niss	1
+M/F	1
+Fr/Nl/De	1
+e-mail	1
+bas64	1
+date-year	1
+ipv4 ipv6	1
+languageTag	1
+countryCode	1
+Empty string if true	1
+"\""|\"" delimited integers"	1
+int255	1
+int2	1
+SWP\Bundle\CoreBundle\Model\ContentList id	1
+SWP\Bundle\CoreBundle\Model\FacebookPage id	1
+doube	1
+date-time-time	1
+polyline	1
+point	1
+double location.	1
+"field1	field2"	1
+hex-color-code	1
+unique name of the asset	1
+uuid | ulid	1
+unixMillis	1
+unit8	1
+SINGLE_USER | MULTIPLE_USERS	1
+CREATION_AWAITING | UNCHANGED | CHANGE_AWAITING | USER_DELETED | CONNECT_USER	1
+CREATION_AWAITING | UNCHANGED	1
+id ? null	1
+surt	1
+doi	1
+HHmm	1
+YYMMDD	1
+dateTeim	1
+spectral hash	1
+[0-9]+%[0-9]+	1
+Ledger query syntax	1
+language-map	1
+Accountability.API.Model.Campaign	1
+Accountability.API.Model.Company	1
+Accountability.API.Model.Employee	1
+int(11)	1
+sting	1
+in	1
+YYYY-mm-dd	1
+2018-01-01	1
+linestring	1
+^\d{4}-\d{2}-\d{2}$	1
+int-32	1
+iso8601-interval	1
+%Y-%m-%d	1
+date-timenid	1
+int6	1
+"[0-9]+	[0-9]+	[0-9]+ ..."	1
+"[0-9]+	[0-9]+"	1
+/^[A-Z0-9]{6}/	1
+surname	1
+string15	1
+mac-address	1
+isDate	1
+dec	1
+/^[A-Z][A-Z0-9_]*$/	1
+#/definitions/Echo	1
+#/definitions/URL	1
+#/definitions/Form	1
+#/definitions/ConnectionState	1
+#/definitions/Response	1
+A rendered version of the given URL.	1
+room	1
+mac address	1
+free taxes value	1
+date-	1
+Campaign identificator	1
+Call	1
+OK	1
+de	1
+datetime_mysql	1
+uu	1
+Text	1
+/[0-9]{2}:[0-9]{2}/	1
+
