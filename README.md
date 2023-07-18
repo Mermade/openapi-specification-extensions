@@ -27,6 +27,7 @@ See also this [blog post](https://blog.postman.com/what-we-learned-from-200000-o
 * [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
 * [IBM API Connect](https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.toolkit.doc/rapim_cli_swagger_extensions.html)
+* [IBM Watson Orchestrate](https://www.ibm.com/docs/en/watson-orchestrate?topic=documents-openapi-specification-extensions)
 * [Kusk](https://kubeshop.github.io/kusk/openapi-extension/)
 * [Kusk Gateway](https://kubeshop.github.io/kusk-gateway/extension/)
 * [Microsoft Azure](https://github.com/Azure/autorest/tree/master/docs/extensions)
