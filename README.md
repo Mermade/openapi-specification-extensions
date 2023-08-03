@@ -23,6 +23,7 @@ See also this [blog post](https://blog.postman.com/what-we-learned-from-200000-o
 * [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
 * [Exegesis](https://github.com/exegesis-js/exegesis/blob/master/docs/OAS3%20Specification%20Extensions.md)
 * [express-openapi](https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi#vendor-extensions)
+* [Fern](https://buildwithfern.com/docs/spec/extensions)
 * [GitHub](https://github.com/github/rest-api-description/blob/main/extensions.md)
 * [go-swagger](https://goswagger.io/use/models/schemas.html#custom-extensions)
 * [Google Cloud Endpoints](https://cloud.google.com/endpoints/docs/openapi/openapi-extensions)
