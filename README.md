@@ -45,6 +45,7 @@ See also this [blog post](https://blog.postman.com/what-we-learned-from-200000-o
 * [SAP OpenAPI Specification Extensions for the SAP Ecosystem](https://github.com/sap/OpenAPI-Specification)
 * [Spring Cloud Contract OpenAPI 3.0 Converter](https://github.com/springframeworkguru/spring-cloud-contract-oa3#defining-contracts-in-openapi)
 * [SQL-Translator-Parser-OpenAPI](https://metacpan.org/pod/SQL::Translator::Parser::OpenAPI#OPENAPI-SPEC-EXTENSIONS)
+* [Stoplight](https://meta.stoplight.io/docs/platform/x8m99p1dhhvl8-extensions#stoplight-extensions)
 * [Stripe](https://github.com/stripe/openapi#vendor-extensions)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/wiki/Vendor-Extensions)
 * [SwaggerHub](https://app.swaggerhub.com/help/apis/vendor-extensions)
