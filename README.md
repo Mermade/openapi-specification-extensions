@@ -43,6 +43,7 @@ See also this [blog post](https://blog.postman.com/what-we-learned-from-200000-o
 * [RepreZen Swagger-Normalizer](http://docs.reprezen.com/swagger_normalizer/)
 * [Restish](https://rest.sh/#/openapi?id=openapi-extensions)
 * [SAP OpenAPI Specification Extensions for the SAP Ecosystem](https://github.com/sap/OpenAPI-Specification)
+* [Speakeasy](https://www.speakeasyapi.dev/docs/customize-sdks#x-speakeasy-extensions)
 * [Spring Cloud Contract OpenAPI 3.0 Converter](https://github.com/springframeworkguru/spring-cloud-contract-oa3#defining-contracts-in-openapi)
 * [SQL-Translator-Parser-OpenAPI](https://metacpan.org/pod/SQL::Translator::Parser::OpenAPI#OPENAPI-SPEC-EXTENSIONS)
 * [Stoplight](https://meta.stoplight.io/docs/platform/x8m99p1dhhvl8-extensions#stoplight-extensions)
